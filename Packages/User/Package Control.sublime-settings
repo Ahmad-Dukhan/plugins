@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"Codeivate",
+		"Package Control",
+		"Python Auto-Complete",
+		"Python PEP8 Autoformat",
+		"sublime-jslint"
+	],
+	"repositories":
+	[
+		"https://github.com/codeivate/codeivate-st.git",
+		"https://github.com/eliquious/Python-Auto-Complete.git"
+	]
+}

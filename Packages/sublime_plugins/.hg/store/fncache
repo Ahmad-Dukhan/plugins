@@ -1,0 +1,27 @@
+data/.hgignore.i
+data/LICENSE.i
+data/Side Bar.sublime-menu.i
+data/clock.py.i
+data/convert_encoding.py.i
+data/diff_views.py.i
+data/duplicate_line.py.i
+data/exec.py.i
+data/find_in_folders.py.i
+data/find_python_imports.py.i
+data/glue_views.py.i
+data/highlight_code_remarks.py.i
+data/highlight_trailing_spaces.py.i
+data/new_file_syntax.py.i
+data/open_mage_file.py.i
+data/open_python_file.py.i
+data/scroll_offset.py.i
+data/shell/vrun.py.i
+data/shell/vrun.sh.i
+data/show_at_center_and_blink.py.i
+data/show_filename_on_activate.py.i
+data/support/__init__.py.i
+data/support/find_python_imports.py.i
+data/support/grep.py.i
+data/support/view.py.i
+data/vrun.py.i
+data/vrun.sh.i
