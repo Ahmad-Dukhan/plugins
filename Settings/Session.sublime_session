@@ -1,0 +1,4078 @@
+{
+	"folder_history":
+	[
+		"/home/dubizzle/webapps/django/dubizzle",
+		"/home/dubizzle",
+		"/home/dubizzle/webapps/django"
+	],
+	"last_window_id": 26,
+	"settings":
+	{
+		"new_window_height": 692.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"form",
+						"form_valid  (function)"
+					],
+					[
+						"should",
+						"should_receive"
+					],
+					[
+						"shoud",
+						"should_receive  (function)"
+					],
+					[
+						"uni",
+						"unittest"
+					],
+					[
+						"shoul",
+						"should_receive  (function)"
+					],
+					[
+						"im",
+						"images_count  (variable)"
+					],
+					[
+						"prevent",
+						"preventDefault"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"requ",
+						"requests"
+					],
+					[
+						"id",
+						"id_selectors"
+					],
+					[
+						"http",
+						"HttpResponse"
+					],
+					[
+						"section",
+						"section_slug"
+					],
+					[
+						"image",
+						"images_currently_uploading  (variable)"
+					],
+					[
+						"rede",
+						"redirect	(imported, instance)"
+					],
+					[
+						"spli",
+						"splitView"
+					],
+					[
+						"upload",
+						"uploadContainer"
+					],
+					[
+						"mod",
+						"Modernizr"
+					],
+					[
+						"autosu",
+						"Autosuggest"
+					],
+					[
+						"box-s",
+						"box-sizing:   (property)"
+					],
+					[
+						"backgrou",
+						"background-color"
+					],
+					[
+						"margin-",
+						"margin-bottom"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"scr",
+						"script"
+					],
+					[
+						"prevet",
+						"preventDefault"
+					],
+					[
+						"new",
+						"new_height"
+					],
+					[
+						"con",
+						"container_width"
+					],
+					[
+						"fixed",
+						"fixed_width"
+					],
+					[
+						"scro",
+						"scrollable_img_container"
+					],
+					[
+						"paddin",
+						"padding-left"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"i",
+						"important"
+					],
+					[
+						"SITE",
+						"SiteProfile"
+					],
+					[
+						"co",
+						"console"
+					],
+					[
+						"file",
+						"fileType"
+					],
+					[
+						"ex",
+						"exif_info"
+					],
+					[
+						"Remo",
+						"REMOVE_URL_REGEX"
+					],
+					[
+						"class",
+						"classifier"
+					],
+					[
+						"user",
+						"user"
+					],
+					[
+						"rotat",
+						"rotateImage"
+					],
+					[
+						"remain",
+						"remaining_width"
+					],
+					[
+						"border-bo",
+						"border-bottom-width"
+					],
+					[
+						"elem",
+						"elem_width"
+					],
+					[
+						"padd",
+						"padding-left"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"BACK",
+						"background-color"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"thumb",
+						"thumb_container"
+					],
+					[
+						"border-bottom-l",
+						"border-bottom-left-radius:   (property)"
+					],
+					[
+						"backro",
+						"background-color"
+					],
+					[
+						"site_",
+						"site_id"
+					],
+					[
+						"write",
+						"write_sitemap"
+					],
+					[
+						"setSe",
+						"setSectionBySlug  (function)"
+					],
+					[
+						"sitemap",
+						"sitemap_index"
+					],
+					[
+						"LI",
+						"LIMIT_SIZE"
+					],
+					[
+						"lag",
+						"languages"
+					],
+					[
+						"cat",
+						"category"
+					],
+					[
+						"get",
+						"get_absolute_url"
+					],
+					[
+						"loop",
+						"loop_offset"
+					],
+					[
+						"random",
+						"randomString"
+					],
+					[
+						"sub",
+						"suburb_name"
+					],
+					[
+						"query",
+						"queryset"
+					]
+				]
+			},
+			"build_system": "Packages/Sublime-Text-2-Compass-Build-System/Compass.sublime-build",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"diff",
+						"Sublimerge: View Diff"
+					],
+					[
+						"check",
+						"Git: Checkout Current File"
+					],
+					[
+						"pep",
+						"User: Python PEP8 Autoformat"
+					],
+					[
+						"merge",
+						"Sublimerge: View Diff"
+					],
+					[
+						"pep8",
+						"User: Python PEP8 Autoformat"
+					],
+					[
+						"back",
+						"SublimeLinter: Background Linting"
+					],
+					[
+						"dis",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"sublime",
+						"Sublimerge: View Diff"
+					],
+					[
+						"lint",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"bak",
+						"SublimeLinter: Background Linting"
+					],
+					[
+						"bla",
+						"Git: Blame"
+					],
+					[
+						"blam",
+						"Git: Blame"
+					],
+					[
+						"lin",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"syntax py",
+						"Set Syntax: Python Django"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"link",
+						"SublimeLinter: Background Linting"
+					],
+					[
+						"dif",
+						"Git: Diff Current File"
+					],
+					[
+						"disa",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"add",
+						"Package Control: Add Repository"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"chec",
+						"Git: Checkout Current File"
+					],
+					[
+						"tidy",
+						"Tidy HTML"
+					],
+					[
+						"form",
+						"Format: Javascript"
+					],
+					[
+						"snipp comm",
+						"Snippet: comment"
+					],
+					[
+						"Snippet:if",
+						"Snippet: if"
+					],
+					[
+						"int",
+						"SublimeCodeIntel: Reset"
+					],
+					[
+						"codein",
+						"SublimeCodeIntel: Reset"
+					],
+					[
+						"inter",
+						"SublimeCodeIntel: Reset"
+					],
+					[
+						"cod",
+						"SublimeCodeIntel: Reset"
+					],
+					[
+						"code",
+						"SublimeCodeIntel: Reset"
+					],
+					[
+						"di",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
+					],
+					[
+						"syntax",
+						"Set Syntax: Go"
+					],
+					[
+						"javasc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"synta",
+						"Set Syntax: XML"
+					],
+					[
+						"syn",
+						"Set Syntax: CSS"
+					],
+					[
+						"disal",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"trans",
+						"Snippet: trans"
+					],
+					[
+						"block",
+						"Snippet: blocktrans"
+					],
+					[
+						"blocktran",
+						"Snippet: blocktrans"
+					],
+					[
+						"tran",
+						"Snippet: trans"
+					],
+					[
+						"che",
+						"Git: Checkout Current File"
+					],
+					[
+						"bloc",
+						"Snippet: blocktrans"
+					],
+					[
+						"Snippet: ",
+						"Snippet: autoescape"
+					],
+					[
+						"checkou",
+						"Git: Checkout Current File"
+					],
+					[
+						"ba",
+						"SublimeLinter: Background Linting"
+					],
+					[
+						"for",
+						"Format: Javascript"
+					],
+					[
+						"merg",
+						"Sublimerge: View Diff"
+					],
+					[
+						"linter",
+						"SublimeLinter: Background Linting"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"forma",
+						"Format: Javascript"
+					],
+					[
+						"syntax sq",
+						"Set Syntax: SQL"
+					],
+					[
+						"djan",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"ds",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"disabl",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"",
+						"Bookmarks: Select Next"
+					],
+					[
+						"disab",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"js",
+						"Format: Javascript"
+					],
+					[
+						"backgro",
+						"SublimeLinter: Background Linting"
+					],
+					[
+						"diable",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"disable",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"disbale",
+						"SublimeCodeIntel: Disable Live Autocompletion"
+					],
+					[
+						"disb",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"backgroun",
+						"SublimeLinter: Background Linting"
+					],
+					[
+						"errr",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"backg",
+						"SublimeLinter: Background Linting"
+					],
+					[
+						"linte",
+						"SublimeLinter: Lint Current File"
+					],
+					[
+						"LIN",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"LINTER",
+						"SublimeLinter: Lint Current File"
+					],
+					[
+						"curr",
+						"Git: Add Current File"
+					],
+					[
+						"enable l",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"sublimelin",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"lint cu",
+						"Tag: Lint Selection or Document"
+					],
+					[
+						"sublimeLi",
+						"SublimeLinter: Lint Current File"
+					],
+					[
+						"sublimeLin",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"sublimel",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"show ",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"subl",
+						"SublimeLinter: Extract Annotations"
+					],
+					[
+						"Snippet: var",
+						"Snippet: var"
+					]
+				],
+				"width": 602.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/dubizzle/webapps/django/dubizzle/paa/views/classifier_views.py",
+				"/home/dubizzle/webapps/django/dubizzle/terra/deploy/terra_uwsgi.ini",
+				"/home/dubizzle/webapps/django/dubizzle/terra/deploy/run_terra.sh",
+				"/home/ahmed/Desktop/untitled.json",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/codi_results.html",
+				"/home/dubizzle/webapps/django/dubizzle/media/js/paa/paa_base.js",
+				"/home/dubizzle/webapps/django/dubizzle/globalsettings.py",
+				"/home/dubizzle/webapps/django/dubizzle/media/sass/base/_general.scss",
+				"/home/dubizzle/webapps/django/dubizzle/media/js/tools/chosen.jquery.min.js",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/rules.html",
+				"/home/dubizzle/webapps/django/dubizzle/paa/utils.py",
+				"/home/ahmed/Desktop/dubizzle logo/index.html",
+				"/home/dubizzle/webapps/django/dubizzle/paa/users/views.py",
+				"/home/ahmed/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/dubizzle/webapps/django/dubizzle/templates/classified/paa_enter_details/enter_details.html",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/users/views_test.py",
+				"/home/ahmed/.config/sublime-text-2/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+				"/home/ahmed/.config/sublime-text-2/Packages/User/pep8_autoformat.sublime-settings",
+				"/home/dubizzle/webapps/django/dubizzle/settings.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/views.py.orig",
+				"/home/ahmed/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/ahmed/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+				"/home/ahmed/.config/sublime-text-2/Packages/User/JSON.sublime-settings",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/users/view_test.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/views/create_views_tests.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/sms/views_test.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/helpers_test.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/helpers.py",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/flexmock.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/views/create_views.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/views/classifier_views_test.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/views/complete_views_test.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/users/tests/views_test.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/views_test.py",
+				"/home/dubizzle/webapps/django/dubizzle/media/sass/pages/_codi.scss",
+				"/home/dubizzle/webapps/django/dubizzle/paa/views.py",
+				"/home/dubizzle/webapps/django/dubizzle/media/js/paa/Autosuggest.js",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/base.html",
+				"/home/dubizzle/webapps/django/dubizzle/media/sass/typography/_fonts.scss",
+				"/home/dubizzle/webapps/django/dubizzle/media/sass/base/_base.scss",
+				"/home/dubizzle/webapps/django/dubizzle/main/models.py",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/simplejson/__init__.py",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/conf/__init__.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/helpers.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/factory.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/enter_details.html",
+				"/home/dubizzle/webapps/django/dubizzle/media/sass/pages/_enter-details.scss",
+				"/home/ahmed/.config/sublime-text-2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/home/ahmed/.config/sublime-text-2/Packages/SublimeLinter/SublimeLinter.py",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/should_dsl/matchers.py",
+				"/home/ahmed/.config/sublime-text-2/Packages/SublimeLinter/sublimelinter/modules/libs/pyflakes/checker.py",
+				"/home/ahmed/.config/sublime-text-2/Packages/SublimeLinter/sublimelinter/modules/libs/pep8.py",
+				"/home/dubizzle/webapps/django/dubizzle/classified/views.py",
+				"/home/ahmed/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/ahmed/.config/sublime-text-2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+				"/home/ahmed/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/db/models/fields/__init__.py",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/contrib/auth/models.py",
+				"/home/ahmed/.config/sublime-text-2/Packages/User/codeivate-st.sublime-settings",
+				"/home/dubizzle/webapps/django/dubizzle/media/js/paa/Codi.js",
+				"/home/ahmed/.config/sublime-text-2/Packages/SublimeCodeIntel/Default (Linux).sublime-mousemap",
+				"/home/ahmed/.config/sublime-text-2/Packages/User/Default (Linux).sublime-mousemap",
+				"/home/dubizzle/webapps/django/dubizzle/user/views.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/urls.py",
+				"/home/dubizzle/webapps/django/dubizzle/.gitignore",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/shortcuts/__init__.py",
+				"/home/dubizzle/webapps/django/dubizzle/cronjobs/refresh_cached_sitemap.py",
+				"/home/ahmed/Desktop/sitemap.log",
+				"/home/ahmed/.config/sublime-text-2/Packages/codeivate-st/codeivate-st.sublime-settings",
+				"/home/ahmed/.config/sublime-text-2/Packages/SublimeCodeIntel/Default (Linux).sublime-keymap",
+				"/home/ahmed/.config/sublime-text-2/Packages/SublimeLinter/README.md",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/classify_category.html",
+				"/home/ahmed/Desktop/dubizzle logo/style.css",
+				"/home/dubizzle/webapps/django/dubizzle/media/sass/pages/_category.scss",
+				"/home/dubizzle/webapps/django/dubizzle/media/css/paa/application.css",
+				"/home/dubizzle/webapps/django/dubizzle/media/sass/variables/_colors.scss",
+				"/home/dubizzle/webapps/django/dubizzle/classified/forms.py",
+				"/home/ahmed/.config/sublime-text-2/Packages/Git/Git.sublime-settings",
+				"/home/ahmed/.config/sublime-text-2/Packages/User/Git.sublime-settings",
+				"/home/dubizzle/webapps/django/dubizzle/djangosphinx/utils/config.py",
+				"/home/dubizzle/webapps/django/dubizzle/urls.py",
+				"/home/dubizzle/webapps/django/dubizzle/media/sass/base/_header.scss",
+				"/home/dubizzle/webapps/django/dubizzle/paa/forms.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/users/forms.py",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/views/generic/edit.py",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/views/generic/base.py",
+				"/home/dubizzle/webapps/django/dubizzle/media/.sass-cache/cc3be12b2459cc16df55fd9528b9bb5108f2beb4/_category.scssc",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/forms/forms.py",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/utils/encoding.py",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/forms/__init__.py",
+				"/home/ahmed/.config/sublime-text-2/Packages/SublimeCodeIntel/.codeintel/config",
+				"/home/ahmed/.config/sublime-text-2/Packages/SublimeCodeIntel/.codeintel/config~",
+				"/home/dubizzle/webapps/django/dubizzle/templates/registration/fb_login_modal.html",
+				"/home/dubizzle/webapps/django/dubizzle/paa/translations.txt",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/select_category.html",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/select_section.html",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templatetags/paa.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/users/login.html",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/pick_a_category.html",
+				"/home/dubizzle/webapps/django/dubizzle/media/stylesheets/application.css",
+				"/home/dubizzle/webapps/django/dubizzle/media/config.rb",
+				"/home/dubizzle/webapps/django/dubizzle/media/sass/application.scss",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/jobs_split.html",
+				"/home/dubizzle/webapps/django/dubizzle/jsi18ncache/views.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/sms/validate.html",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/users/register.html",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/sms/change_number.html",
+				"/home/dubizzle/webapps/django/dubizzle/manage.py",
+				"/home/dubizzle/webapps/django/dubizzle/classified/models/__init__.py",
+				"/home/dubizzle/webapps/django/dubizzle/rosetta/polib.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/user/login.html",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/user/register.html",
+				"/home/ahmed/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/ahmed/.config/sublime-text-2/Packages/User/CSS.sublime-settings",
+				"/home/dubizzle/webapps/django/dubizzle/locale/ar/LC_MESSAGES/django.po",
+				"/usr/lib/python2.7/urllib.py",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/Django-1.4_pre_alpha-py2.7.egg-info/SOURCES.txt",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/login_register.html",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/complete.html",
+				"/home/dubizzle/webapps/django/dubizzle/media/js/modernizr.js",
+				"/home/dubizzle/webapps/django/dubizzle/media/js/page-js/base.js",
+				"/home/ahmed/.config/sublime-text-2/Packages/Sublimerge/Sublimerge.sublime-settings",
+				"/home/ahmed/.config/sublime-text-2/Packages/GitGutter/GitGutter.sublime-settings",
+				"/home/dubizzle/webapps/django/dubizzle/media/css/application.css",
+				"/home/ahmed/.bashrc",
+				"/home/dubizzle/webapps/django/dubizzle/media/.sass-cache/21727cf147955282b781ac1ce33254f22f8ef0a1/_general.scssc",
+				"/home/dubizzle/webapps/django/dubizzle/classified/__init__.py",
+				"/home/dubizzle/webapps/django/dubizzle/templates/mobile/classified/place_an_ad_details.html"
+			],
+			"find":
+			{
+				"height": 52.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/home/dubizzle/webapps/django/dubizzle/paa",
+					"/home/dubizzle/webapps/django/dubizzle/",
+					"/home/dubizzle/webapps/django/dubizzle/paa/",
+					"/home/dubizzle/webapps/django/dubizzle/paa/tests",
+					"/home/dubizzle/webapps/django/dubizzle/paa/",
+					"/home/dubizzle/webapps/django/dubizzle/paa/views",
+					"/home/dubizzle/webapps/django/dubizzle/paa/tests",
+					"/home/dubizzle/webapps/django/dubizzle/paa/",
+					"/home/dubizzle/webapps/django/dubizzle/paa/tests",
+					"/home/dubizzle/webapps/django/dubizzle/paa/",
+					"/home/dubizzle/webapps/django/dubizzle/paa/tests",
+					"/home/dubizzle/webapps/django/dubizzle",
+					"/home/ahmed/.config/sublime-text-2/Packages/SublimeLinter",
+					"/home/dubizzle/webapps/django/dubizzle",
+					"/home/dubizzle/webapps/django/dubizzle/media/sass",
+					"/home/dubizzle/webapps/django/media/sass",
+					"/home/dubizzle/webapps/django/",
+					"/home/dubizzle/webapps/django/dubizzle",
+					"/home/dubizzle/webapps/django/",
+					"/home/dubizzle/webapps/django/dubizzle",
+					"/home/dubizzle/webapps/django/",
+					"/home/dubizzle/webapps/django/dubizzle",
+					"/home/dubizzle/webapps/django/dubizzle/media/sass",
+					"/home/dubizzle/webapps/django/dubizzle",
+					"/home/dubizzle/webapps/django/dubizzle/terra",
+					"/home/dubizzle/webapps/django/dubizzle/",
+					"/home/dubizzle/webapps/django/dubizzle/terra",
+					"/home/dubizzle/webapps/django/dubizzle/",
+					"/home/dubizzle/webapps/django/dubizzle/terra",
+					"/home/dubizzle/webapps/django/dubizzle",
+					"/home/dubizzle/webapps/django/dubizzle/templates",
+					"/home/dubizzle/webapps/django/dubizzle/template",
+					"/home/dubizzle/webapps/django/dubizzle",
+					"/home/dubizzle/webapps/django/dubizzle/templates",
+					"/home/dubizzle/webapps/django/dubizzle/",
+					"/home/dubizzle/webapps/django/dubizzle/templates",
+					"/home/dubizzle/webapps/django/dubizzle/",
+					"/home/dubizzle/webapps/django/dubizzle/templates",
+					"/home/dubizzle/webapps/django/dubizzle/",
+					"/home/dubizzle/webapps/django/dubizzle/extras",
+					"/home/dubizzle/webapps/django/dubizzle/",
+					"/home/dubizzle/webapps/django/dubizzle/media/sitemaps",
+					"/home/dubizzle/webapps/django/dubizzle",
+					"/home/dubizzle/webapps/django/",
+					"/home/dubizzle/webapps/django/dubizzle",
+					"/home/dubizzle/Downloads/2012/2012/",
+					"/home/dubizzle/Downloads/2012/2012/scss",
+					"/home/dubizzle/webapps/django/dubizzle/",
+					"/home/dubizzle/webapps/django/dubizzle/main",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"photo",
+					"Http404",
+					"404",
+					".codi",
+					"codi",
+					"codi_return_count",
+					"',\n",
+					"property",
+					"todo",
+					"PICK_A_CATEGORY_URL",
+					"'',\n",
+					"redirect(",
+					"redirect",
+					"taxonomy_select_category",
+					"taxo",
+					"taxo\\",
+					"redirect",
+					"httpredirect",
+					"===",
+					"| should |",
+					"TAB",
+					"settings.py",
+					"BASE_DOMAIN",
+					"base_domain",
+					"detect_slow_plugins",
+					"and_raise",
+					"form",
+					"self.view.form",
+					"form_valid",
+					"Enter",
+					"form_valid",
+					"form",
+					"()\n",
+					"slow",
+					"time",
+					"super",
+					"super((.*), self).dispatch",
+					"super(.?, self).dispatch",
+					"super(.*, self).dispatch",
+					"super(LoginView, self).dispatch",
+					"CompleteView",
+					"super",
+					"redirect_mock",
+					"NEW_USER_ID",
+					"inactive_user_redirect_url_nameg",
+					"redirect",
+					"change_mobile_number_url_name",
+					"redirect",
+					"is_auth",
+					"        # slug_mock = object()\n        # listing_id = object()",
+					"mock_user",
+					"User",
+					"user.",
+					"if user.",
+					"user.",
+					"user.is_active",
+					"user_mock",
+					"SMS_VALIDATION_PAGE",
+					"should_receive('reverse_lazy')",
+					"SMS_VALIDATION_PAGE",
+					"PICK_A_CATEGORY_URL",
+					"redirect(self",
+					"User",
+					"objects",
+					"User",
+					"RegisterViewTest",
+					"reverse",
+					"Select Some options",
+					"rules_template_name",
+					"rules",
+					"HTTPresp",
+					"responseredirect",
+					"redirect",
+					"http",
+					".lobster",
+					"get_classified_item",
+					"place_an_ad_choose.html",
+					"for=\"rad2_landlord\"",
+					"_check_can_place_ad",
+					"mock",
+					"with_args",
+					"request",
+					"request.user",
+					"user",
+					"user=",
+					"self.view.request",
+					" self.view.request = mock_request()",
+					"self.view.request",
+					"mock_request",
+					"self.view.request",
+					"_get_rule_key",
+					"(.*)\\n",
+					"\\n",
+					"'",
+					"',  '",
+					"\\n",
+					"|",
+					"operator",
+					"undefinedname",
+					"builtIns",
+					"_MAGIC_GLOBALS",
+					"undefinedname",
+					"|should|",
+					"Undefined",
+					"name",
+					"undefined",
+					"_jobs_mock",
+					"_mock_codi",
+					"_amount_mock",
+					"title_mock",
+					"_section_mock",
+					"_title_mock",
+					"_mock_guesses",
+					"ClassifyCategoryView",
+					"'js'",
+					"get_form_from_slug",
+					"'js'",
+					"JobsSplitView",
+					"ClassifyCategoryView",
+					"console.",
+					"import paa.users.views.facebook_error_message",
+					"facebook_error_message",
+					"import paa.users.views.f",
+					"images_loaded",
+					"5.79.37.76",
+					"export",
+					"form_valid",
+					"save"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"|should|",
+					"\"$1\", ",
+					"\\n\"",
+					"\"",
+					"', '",
+					", ",
+					"\\n\\n--",
+					"",
+					"{% url paa:enter_details codi_response.0.2 %}",
+					"classify_category_submit",
+					"[ English ]",
+					"[ English] >>>>",
+					"[ Trans ]",
+					"classify_category_list_title",
+					"codi_submit",
+					"classify_category_submit",
+					"",
+					"id_selectors",
+					"engage",
+					"TERRA",
+					"/images",
+					"/paa/images/chosen",
+					"autosuggestFields[i]",
+					"/paa/images/chosen-sprite",
+					"/paa/images/chosen-sprite.png",
+					"/paa/images/chosen-sprite@2x.png",
+					"multiple",
+					"text_multiple",
+					"",
+					"/paa/fonts/",
+					"/paa1/",
+					"/paa/fonts/",
+					"/paa1/fonts/",
+					"/paa/fonts/",
+					"/fonts/",
+					"paa/fonts/",
+					"/fonts/",
+					"../fonts/",
+					"fonts",
+					" false",
+					"false",
+					"false,",
+					"/paa/fonts/",
+					"$",
+					"#{$$dark-red}",
+					" 2.666vw",
+					"settings.BASE_DOMAIN",
+					"jquery.formLabels1.0",
+					"jquery.cookie",
+					"jquery.formLabels1.0",
+					"jquery.formLabels1.0.js",
+					"jquery.cookie.js",
+					"jquery.selectboxes",
+					"jquery.mobile.autoSuggest",
+					"jquery.jqEasyCharCounter",
+					"jquery-ie6fix",
+					"jquery.chosen",
+					"jquery.fieldtag",
+					"jquery.placeholder",
+					"jquery.modal",
+					"jquery.autocomplete",
+					"jquery.ui.accordion",
+					"jquery.ui.position",
+					"jquery.ui.slider.js",
+					"jquery.ui.mouse",
+					"jquery.ui.dialog",
+					"jquery.ui.widget",
+					"jquery.ui.core",
+					"125 88",
+					"298\n125 88",
+					"298\n104",
+					"298\n289px",
+					"",
+					";\\n",
+					"",
+					"$('#photo4').toggleClass('fhidden'); $('#sphoto4').toggleClass('fhidden');\"",
+					"$('#photo3').toggleClass('fhidden'); $('#sphoto3').toggleClass('fhidden');\"",
+					"$('#photo2').toggleClass('fhidden'); $('#sphoto2').toggleClass('fhidden');\"",
+					"$('#photo1').toggleClass('fhidden'); $('#sphoto1').toggleClass('fhidden');\"",
+					"$('#photo10').toggleClass('fhidden'); $('#sphoto10').toggleClass('fhidden');\"",
+					"$('#photo9').toggleClass('fhidden'); $('#sphoto9').toggleClass('fhidden');\"",
+					"$('#photo8').toggleClass('fhidden'); $('#sphoto8').toggleClass('fhidden');\"",
+					"$('#photo7').toggleClass('fhidden'); $('#sphoto7').toggleClass('fhidden');\"",
+					"$('#photo6').toggleClass('fhidden'); $('#sphoto6').toggleClass('fhidden');\"",
+					"$('#photo5').toggleClass('fhidden'); $('#sphoto5').toggleClass('fhidden');\"",
+					"$('#photo4').toggleClass('fhidden'); $('#sphoto4').toggleClass('fhidden');\"",
+					"$('#photo4').toggleClass('fhidden'); $('#sphoto4').toggleClass('fhidden');",
+					"$('#photo3').toggleClass('fhidden'); $('#sphoto3').toggleClass('fhidden');",
+					"$('#photo2').toggleClass('fhidden'); $('#sphoto2').toggleClass('fhidden');",
+					"$('#photo1').toggleClass('fhidden'); $('#sphoto1').toggleClass('fhidden');",
+					"submit_btn",
+					"edit_btn",
+					"attr",
+					"fhidden",
+					": 9px;",
+					"relative",
+					"\\n",
+					"color",
+					"KM",
+					"year",
+					"image_container",
+					"class=\"thumb_container\" onclick=\"$('#image_file').click();$('#textarea_anchor').click(); $(this).val('Manage Photos'); $('#location_container').show()\"",
+					"template_dict",
+					"child",
+					"STATIC_PAGES",
+					"LANGUAGES",
+					"DOMAIN",
+					"langs",
+					"site_name",
+					"SITE_NAME",
+					"subsubsections",
+					"level3",
+					"subsections",
+					"sections",
+					"\\n<loc>",
+					"\\n",
+					"</lastmod></url>\n",
+					"</lastmod></url>\\n",
+					"120%",
+					"  min-width: 50vw;\n80%",
+					"  min-width: 50vw;\n",
+					"sublime.desktop"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 87.0
+			},
+			"output.git":
+			{
+				"height": 118.0
+			},
+			"output.jslint_result_view":
+			{
+				"height": 124.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 197.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"global",
+						"globalsettings.py"
+					],
+					[
+						"run",
+						"terra/deploy/run_terra.sh"
+					],
+					[
+						"terr",
+						"terra/deploy/terra_uwsgi.ini"
+					],
+					[
+						"paa/views",
+						"paa/sms/views.py"
+					],
+					[
+						"usersviews",
+						"paa/users/views.py"
+					],
+					[
+						"codi_res",
+						"paa/templates/paa/codi_results.html"
+					],
+					[
+						"classify",
+						"paa/templates/paa/classify_category.html"
+					],
+					[
+						"codi.js",
+						"media/js/paa/Codi.js"
+					],
+					[
+						"paaurls",
+						"paa/urls.py"
+					],
+					[
+						"paaview",
+						"paa/views/classifier_views.py"
+					],
+					[
+						"paatemplates",
+						"paa/templates/paa/enter_details.html"
+					],
+					[
+						"paaenter",
+						"paa/templates/paa/enter_details.html"
+					],
+					[
+						"endter",
+						"templates/classified/paa_enter_details/enter_details.html"
+					],
+					[
+						"setting",
+						"settings.py"
+					],
+					[
+						"paaviews",
+						"paa/views.py.orig"
+					],
+					[
+						"paatestsviews",
+						"paa/tests/views/edit_views_test.py"
+					],
+					[
+						"paausersview",
+						"paa/users/views.py"
+					],
+					[
+						"view_test",
+						"paa/tests/views/classifier_views_test.py"
+					],
+					[
+						"testcompletev",
+						"paa/tests/views/complete_views_test.py"
+					],
+					[
+						"paatesthelp",
+						"paa/tests/helpers.py"
+					],
+					[
+						"paauserstest",
+						"paa/tests/users/views_test.py"
+					],
+					[
+						"paa/tests/user",
+						"paa/tests/users/view_test.py"
+					],
+					[
+						"paatestuser",
+						"paa/tests/users/view_test.py"
+					],
+					[
+						"paausersviews",
+						"paa/users/views.py"
+					],
+					[
+						"pagescodi",
+						"media/sass/pages/_codi.scss"
+					],
+					[
+						"views",
+						"paa/views.py"
+					],
+					[
+						"codi",
+						"paa/templates/paa/codi_results.html"
+					],
+					[
+						"media/js/paa/",
+						"media/js/paa/Autosuggest.js"
+					],
+					[
+						"paabasejs",
+						"media/js/paa/paa_base.js"
+					],
+					[
+						"paabase",
+						"paa/templates/paa/base.html"
+					],
+					[
+						"fonts",
+						"media/sass/typography/_fonts.scss"
+					],
+					[
+						"base.html",
+						"paa/templates/paa/base.html"
+					],
+					[
+						"base",
+						"media/sass/base/_base.scss"
+					],
+					[
+						"rules",
+						"paa/templates/paa/rules.html"
+					],
+					[
+						"testsms",
+						"paa/tests/sms/views_test.py"
+					],
+					[
+						"paatestsms",
+						"paa/tests/sms/views_test.py"
+					],
+					[
+						"paausers",
+						"paa/users/views.py"
+					],
+					[
+						"paahel",
+						"paa/helpers.py"
+					],
+					[
+						"paaviewtes",
+						"paa/tests/views_test.py"
+					],
+					[
+						"testview",
+						"paa/tests/views_test.py"
+					],
+					[
+						"paauserview",
+						"paa/users/views.py"
+					],
+					[
+						"refresh",
+						"cronjobs/refresh_cached_sitemap.py"
+					],
+					[
+						"rule",
+						"paa/templates/paa/rules.html"
+					],
+					[
+						"colors",
+						"media/sass/variables/_colors.scss"
+					],
+					[
+						"paaurl",
+						"paa/urls.py"
+					],
+					[
+						"paaur",
+						"paa/urls.py"
+					],
+					[
+						"urls",
+						"urls.py"
+					],
+					[
+						"_scss",
+						"media/sass/base/_header.scss"
+					],
+					[
+						"viewtest",
+						"paa/tests/views_test.py"
+					],
+					[
+						"sett",
+						"settings.py"
+					],
+					[
+						"djangosphinx/utils/config.py",
+						"djangosphinx/utils/config.py"
+					],
+					[
+						"paatestvi",
+						"paa/tests/views_test.py"
+					],
+					[
+						"classi",
+						"paa/templates/paa/classify_category.html"
+					],
+					[
+						"paa_base",
+						"media/js/paa/paa_base.js"
+					],
+					[
+						"classif",
+						"paa/templates/paa/classify_category.html"
+					],
+					[
+						"_cate",
+						"media/sass/pages/_category.scss"
+					],
+					[
+						"_cat",
+						"media/.sass-cache/cc3be12b2459cc16df55fd9528b9bb5108f2beb4/_category.scssc"
+					],
+					[
+						"user/views",
+						"paa/users/views.py"
+					],
+					[
+						"userviews",
+						"paa/users/views.py"
+					],
+					[
+						"paalogin",
+						"paa/templates/paa/users/login.html"
+					],
+					[
+						"enter",
+						"paa/templates/paa/enter_details.html"
+					],
+					[
+						"pick",
+						"paa/templates/paa/pick_a_category.html"
+					],
+					[
+						"codi.sc",
+						"media/sass/pages/_codi.scss"
+					],
+					[
+						"_codi",
+						"media/sass/pages/_codi.scss"
+					],
+					[
+						"base.sc",
+						"media/sass/base/_base.scss"
+					],
+					[
+						"applic",
+						"media/sass/application.scss"
+					],
+					[
+						"color",
+						"media/sass/variables/_colors.scss"
+					],
+					[
+						"glo",
+						"globalsettings.py"
+					],
+					[
+						"resul",
+						"paa/templates/paa/codi_results.html"
+					],
+					[
+						"runterr",
+						"terra/deploy/run_terra.sh"
+					],
+					[
+						"odi_results.html",
+						"paa/templates/paa/codi_results.html"
+					],
+					[
+						"jobs_spl",
+						"paa/templates/paa/jobs_split.html"
+					],
+					[
+						"globa",
+						"globalsettings.py"
+					],
+					[
+						"glob",
+						"globalsettings.py"
+					],
+					[
+						"paa_ba",
+						"media/js/paa/paa_base.js"
+					],
+					[
+						"class",
+						"paa/templates/paa/classify_category.html"
+					],
+					[
+						"picka",
+						"paa/templates/paa/pick_a_category.html"
+					],
+					[
+						"manage",
+						"manage.py"
+					],
+					[
+						"paabase.html",
+						"paa/templates/paa/base.html"
+					],
+					[
+						"result",
+						"paa/templates/paa/codi_results.html"
+					],
+					[
+						"",
+						"paa/templates/paa/classify_category.html"
+					],
+					[
+						"codi_re",
+						"paa/templates/paa/codi_results.html"
+					],
+					[
+						"appl",
+						"media/sass/application.scss"
+					],
+					[
+						"_ge",
+						"media/sass/base/_general.scss"
+					],
+					[
+						"appli",
+						"media/sass/application.scss"
+					],
+					[
+						"paa/template",
+						"paa/templatetags/paa.py"
+					],
+					[
+						"paa/codi_results.html",
+						"paa/templates/paa/codi_results.html"
+					],
+					[
+						"enterdetail",
+						"paa/templates/paa/enter_details.html"
+					],
+					[
+						"paa_",
+						"media/js/paa/paa_base.js"
+					],
+					[
+						"complete",
+						"paa/templates/paa/complete.html"
+					],
+					[
+						"main/mode",
+						"main/models.py"
+					],
+					[
+						"paa/templatesen",
+						"paa/templates/paa/enter_details.html"
+					],
+					[
+						"paadetail",
+						"templates/mobile/classified/place_an_ad_details.html"
+					],
+					[
+						"_bas",
+						"media/sass/base/_base.scss"
+					],
+					[
+						"_base",
+						"media/sass/base/_base.scss"
+					],
+					[
+						"applica",
+						"media/sass/application.scss"
+					],
+					[
+						"scss",
+						"media/sass/application.scss"
+					],
+					[
+						"paaappli",
+						"media/css/paa/application.css"
+					],
+					[
+						"pic",
+						"paa/templates/paa/pick_a_category.html"
+					],
+					[
+						"autosuggest",
+						"media/js/paa/Autosuggest.js"
+					],
+					[
+						"moderni",
+						"media/js/modernizr.js"
+					],
+					[
+						"chosen",
+						"media/js/tools/chosen.jquery.min.js"
+					],
+					[
+						"compl",
+						"paa/templates/paa/complete.html"
+					],
+					[
+						"terraus",
+						"terra/deploy/terra_uwsgi.ini"
+					],
+					[
+						"run_t",
+						"terra/deploy/run_terra.sh"
+					],
+					[
+						"settings",
+						"settings.py"
+					],
+					[
+						"paa.sc",
+						"media/sass/paa/paa_mobile.scss"
+					],
+					[
+						"paaresults",
+						"paa/templates/paa/codi_results.html"
+					],
+					[
+						"paacomplete",
+						"paa/templates/paa/complete.html"
+					],
+					[
+						"globalsettings.py",
+						"globalsettings.py"
+					],
+					[
+						"server",
+						"terra/terra/server.py"
+					],
+					[
+						"paa/forms.py",
+						"paa/forms.py"
+					],
+					[
+						"upload",
+						"media/js/tools/image-upload.js"
+					],
+					[
+						"setti",
+						"settings.py"
+					],
+					[
+						"base.htm",
+						"templates/base.html"
+					],
+					[
+						"templates/templatetags/render_listing_featured.html",
+						"templates/templatetags/render_listing_featured.html"
+					],
+					[
+						"templates/templatetags/render_listing.html",
+						"templates/templatetags/render_listing.html"
+					],
+					[
+						"templates/classified/classified_detail_include.html",
+						"templates/classified/classified_detail_include.html"
+					],
+					[
+						"image_",
+						"extras/templatetags/image_helper.py"
+					],
+					[
+						"paa/templates/paa/base.html",
+						"paa/templates/paa/base.html"
+					],
+					[
+						"cronjobs/refresh_cached_sitemap.py",
+						"cronjobs/refresh_cached_sitemap.py"
+					],
+					[
+						"urls.py",
+						"urls.py"
+					],
+					[
+						"settig",
+						"settings.py"
+					],
+					[
+						"jquery-",
+						"media/js/lib/jquery-1.4.2.js"
+					],
+					[
+						"mobile_css_1354641641.css",
+						"media/css/mobile_css_1354641641.css"
+					],
+					[
+						"mobile_1367404047.js",
+						"media/js/mobile_1367404047.js"
+					],
+					[
+						"topjs",
+						"media/js/top_1367171207.js"
+					],
+					[
+						"top.js",
+						"media/js/customer_support/tooltip.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 176.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 683.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Codi",
+						"codi_url"
+					],
+					[
+						"image",
+						"images_count  (variable)"
+					],
+					[
+						"guesses",
+						"guesses_mock"
+					],
+					[
+						"should",
+						"should_receive  (function)"
+					],
+					[
+						"mock_request",
+						"mock_requests"
+					],
+					[
+						"image_",
+						"images_currently_uploading  (variable)"
+					],
+					[
+						"mock_",
+						"mock_request"
+					],
+					[
+						"form",
+						"form_valid  (function)"
+					],
+					[
+						"shoud",
+						"should_receive  (function)"
+					],
+					[
+						"uni",
+						"unittest"
+					],
+					[
+						"shoul",
+						"should_receive  (function)"
+					],
+					[
+						"im",
+						"images_count  (variable)"
+					],
+					[
+						"prevent",
+						"preventDefault"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"requ",
+						"requests"
+					],
+					[
+						"id",
+						"id_selectors"
+					],
+					[
+						"http",
+						"HttpResponse"
+					],
+					[
+						"section",
+						"section_slug"
+					],
+					[
+						"rede",
+						"redirect	(imported, instance)"
+					],
+					[
+						"spli",
+						"splitView"
+					],
+					[
+						"upload",
+						"uploadContainer"
+					],
+					[
+						"mod",
+						"Modernizr"
+					],
+					[
+						"autosu",
+						"Autosuggest"
+					],
+					[
+						"box-s",
+						"box-sizing:   (property)"
+					],
+					[
+						"backgrou",
+						"background-color"
+					],
+					[
+						"margin-",
+						"margin-bottom"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"scr",
+						"script"
+					],
+					[
+						"prevet",
+						"preventDefault"
+					],
+					[
+						"new",
+						"new_height"
+					],
+					[
+						"con",
+						"container_width"
+					],
+					[
+						"fixed",
+						"fixed_width"
+					],
+					[
+						"scro",
+						"scrollable_img_container"
+					],
+					[
+						"paddin",
+						"padding-left"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"i",
+						"important"
+					],
+					[
+						"SITE",
+						"SiteProfile"
+					],
+					[
+						"co",
+						"console"
+					],
+					[
+						"file",
+						"fileType"
+					],
+					[
+						"ex",
+						"exif_info"
+					],
+					[
+						"Remo",
+						"REMOVE_URL_REGEX"
+					],
+					[
+						"class",
+						"classifier"
+					],
+					[
+						"user",
+						"user"
+					],
+					[
+						"rotat",
+						"rotateImage"
+					],
+					[
+						"remain",
+						"remaining_width"
+					],
+					[
+						"border-bo",
+						"border-bottom-width"
+					],
+					[
+						"elem",
+						"elem_width"
+					],
+					[
+						"padd",
+						"padding-left"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"BACK",
+						"background-color"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"thumb",
+						"thumb_container"
+					],
+					[
+						"border-bottom-l",
+						"border-bottom-left-radius:   (property)"
+					],
+					[
+						"backro",
+						"background-color"
+					],
+					[
+						"site_",
+						"site_id"
+					],
+					[
+						"write",
+						"write_sitemap"
+					],
+					[
+						"setSe",
+						"setSectionBySlug  (function)"
+					],
+					[
+						"sitemap",
+						"sitemap_index"
+					],
+					[
+						"LI",
+						"LIMIT_SIZE"
+					],
+					[
+						"lag",
+						"languages"
+					],
+					[
+						"cat",
+						"category"
+					],
+					[
+						"get",
+						"get_absolute_url"
+					],
+					[
+						"loop",
+						"loop_offset"
+					],
+					[
+						"random",
+						"randomString"
+					],
+					[
+						"sub",
+						"suburb_name"
+					],
+					[
+						"query",
+						"queryset"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/enter_details.html",
+					"settings":
+					{
+						"buffer_size": 4074,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/dubizzle/webapps/django/dubizzle/media/sass/pages/_enter-details.scss",
+					"settings":
+					{
+						"buffer_size": 713,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "(function() {\n    'use strict';\n\n    //Please append # before ids and\n    var id_selectors = {\n        paa_page_nav: '#paa-page-nav',\n        classify_category_list_title: '#list-title',\n        classify_category_submit: '#codi-submit',\n        detail_page_form: '#details_page_form',\n        pick_a_category_overlay: '#pick-a-category-overlay',\n        enter_details_submit: '#enter-details-submit',\n        enter_details_overlay: \"#enter-details-overlay\",\n        enter_details_alert: \"#enter-details-alert\",\n        enter_details_return: \"#enter-details-return\",\n        form_wrapper: \"#form_wrapper\",\n        enter_details_submit_form: \"#enter-details-submit-form\"\n    };\n\n    var class_selectors = {\n        split_view: '.split-view'\n    };\n\n    var classes = {\n        active_button: \"inactive\",\n        thumbs_image_container: \"thumbs-image-container\",\n        micro_thumb: \"micro-thumb\",\n        bar: \"bar\",\n        red_button: \"red-button\",\n        photo_count: \"photo-count\",\n        hidden: 'hidden',\n        image_preview: \"image-preview\"\n    };\n\n    var urls = {\n        terra: window.terraUrl\n    };\n\n    var assigned_ids = {\n        upload_container: \"upload-container\",\n        image_container: \"image-container\",\n        upload_image_container: \"upload-image-container\",\n        progress: \"progress\",\n        micro_thumb_container: \"micro-thumb-container\",\n        upload_button_container: \"upload-button-container\",\n        upload_button: \"upload-button\",\n        photo_uploader: \"photo_uploader\",\n        uploaded_images: \"uploaded-images\",\n        image_upload_errors: \"image-upload-errors\"\n    };\n\n    var cache = {\n        images_count: (window.photoCount) -1,\n        images_currently_uploading: 0,\n        bytes_total: 0,\n        bytes_uploaded: 0,\n        failed_image_count: 0,\n        images_loaded: -1\n    };\n\n    // This method handles paa events and transitions\n    //////////////////////Transitions START//////////////////////////\n    var Transitions = {\n        init: function() {\n            this.events();\n        },\n        TODO\n        events: function() {\n            this.activateButton(id_selectors.classify_category_list_title);\n            $('#' + assigned_ids.photo_uploader).length && this.addTerraUploader();\n            $('div[view=\"split\"]').length && this.splitView();\n            this.delete_photo();\n        },\n        activateButton: function(buttonObj) {\n\n            //Deactivate the submit button\n            $(id_selectors.classify_category_submit).prop('disabled', true);\n\n            if ($(buttonObj)) {\n                $(buttonObj).keyup(function() {\n                    // Deactivate\n                    if($(buttonObj).val().length === 0 && $(id_selectors.classify_category_submit).hasClass(classes.active_button) === false)\n                        $(id_selectors.classify_category_submit).toggleClass(classes.active_button);\n                    //Activate\n                    else if ($(id_selectors.classify_category_submit).hasClass(classes.active_button) === true && $(buttonObj).val().length > 0){\n                        $(id_selectors.classify_category_submit).toggleClass(classes.active_button);\n                        $(id_selectors.classify_category_submit).prop('disabled', false);\n                    }\n                });\n            }\n        },\n        addTerraUploader: function() {\n            //Change uploader location\n            $('#' + assigned_ids.photo_uploader).attr('data-url', window.terraUrl);\n            // add the div container for hidden inputs\n            $('<div>')\n                .attr('id', assigned_ids.uploaded_images)\n                .css('display', 'none')\n                .insertAfter($(id_selectors.form_wrapper));\n            // Add click listener\n            $('#' + assigned_ids.upload_button).click(function() {\n                $('#' + assigned_ids.photo_uploader).click();\n            });\n\n            //Add event listener for terra uploader\n            $('#'+assigned_ids.photo_uploader).fileupload({\n                dataType: 'json',\n                previewMaxWidth: 80,\n                previewMaxHeight: 60,\n                previewCrop: true,\n                fail: function(e){\n                    cache.failed_image_count++;\n                    cache.images_currently_uploading--;\n\n                    if(cache.images_currently_uploading === 0)\n                         this.stop();\n                    $('#'+assigned_ids.image_upload_errors).html('Opps! This is embarrassing '+cache.failed_image_count+' of your images upload failed!');\n                },\n                change: function(e){\n                    cache.images_count++;\n                    cache.images_currently_uploading++;\n                    $('#'+assigned_ids.progress).show();\n                    e = e.originalEvent;\n                    window.loadImage(\n                        e.target.files[0],\n                        function (img) {\n                            $('#'+assigned_ids.micro_thumb_container).html(img);\n                            $('#'+classes.photo_count).html('[ '+cache.images_currently_uploading+' ] Images Uploading');\n                        },\n                        {\n                            fixedWidth: 80,\n                            fixedHeight: 60,\n                            canvas: true,\n                            crop:true\n                        }\n                    );\n                },\n                done: function (e, data) {\n                    cache.images_currently_uploading--;\n                    var count_images = $('#'+assigned_ids.image_container).size() -1;\n                    var urls = data.result['urls'];\n                    var single_image_container = $('<div>')\n                        .attr('class', 'enter-details-single-image-container');\n                    var image = $('<img />')\n                        .attr('class', classes.image_preview)\n                        .attr('src', urls['thumb'])\n                        .attr('id', cache.images_count);\n                    var delete_button = $('<div>')\n                        .attr('id', 'delete_photo_'+ cache.images_count)\n                        .attr('class', 'enter_details_delete_photo SSPika')\n                        .html('&#x2421;');\n\n                    $('#'+assigned_ids.upload_container).append(single_image_container);\n                    $(single_image_container).append(delete_button);\n                    $(single_image_container).append(image);\n\n                    $(image).load(function(){\n                        cache.images_loaded++;\n                        if (cache.images_loaded == cache.images_count)\n                        {\n                            // Hide loading bar and image count\n                            $('#'+assigned_ids.upload_image_container).hide();\n                            $('#'+classes.photo_count).hide();\n                        }\n                    });\n\n                    //update on page image count\n                    $('#'+classes.photo_count).html('[ '+cache.images_currently_uploading+' ] Images Uploading');\n                    //add hidden input to form with\n                    var $container = $(\"#\"+assigned_ids.uploaded_images);\n                    $container.append($('<input />')\n                        .attr('id', 'photo_'+count_images)\n                        .attr('name', 'photo['+cache.images_count+']')\n                        .attr('value', escape(JSON.stringify(data.result)))\n                        );\n\n                    // Listen to all delete buttons (rebind)\n                    $(\"[id^='delete_photo_']\").click(function(){\n                        alert(\"hi fucker\");\n                    });\n\n                    // if number of images is 10 prevent uploading\n                    console.log(cache.images_count);\n                    if (cache.images_count == 9)\n                        $('#'+assigned_ids.photo_uploader).fileupload('disable');\n                },\n                progressall: function (e, data) {\n                    var progress = parseInt(data.loaded / data.total * 100, 10);\n\n                    $('#'+classes.photo_count).show();\n                    $('#'+assigned_ids.upload_image_container).show();\n                    $('#'+assigned_ids.progress+' .'+classes.bar).css(\n                        'width',\n                        progress + '%'\n                    );\n\n                    //Monitor clicks on submit button while uploading (prevent)\n                    $(id_selectors.enter_details_submit).click(function(e) {\n                        e.preventDefault();\n                        $(id_selectors.enter_details_overlay).toggleClass(classes.hidden);\n                        $(id_selectors.enter_details_alert).toggleClass(classes.hidden);\n\n                        $(id_selectors.enter_details_submit_form).click(function(){\n                            $(id_selectors.detail_page_form).submit();\n                        });\n\n                        $(id_selectors.enter_details_return).click(function() {\n                           $(id_selectors.enter_details_overlay).toggleClass(classes.hidden);\n                           $(id_selectors.enter_details_alert).toggleClass(classes.hidden);\n                        });\n                    });\n                },\n                stop: function (e, data){\n                    // Allow click on submit\n                    $(id_selectors.enter_details_submit).unbind('click');\n                    $('#'+assigned_ids.progress).hide();\n                }\n            });\n        },\n        delete_photo: function(){\n            $(\"[id^='delete_photo_']\").click(function(){\n                alert(\"hi fucker\");\n            });\n        },\n        splitView: function(){\n            $('div[view=\"split\"]').click(function(e){\n                if ($(this).children('.section-box').is(\":visible\")){\n                    e.preventDefault();\n                }\n                $(this).children().siblings().hide();\n                $(this).children(class_selectors.split_view).show();\n                $(this).css('position', 'relative');\n                $(this).css('z-index', '15');\n                $(id_selectors.pick_a_category_overlay).show();\n\n                var _this = this;\n                $(id_selectors.pick_a_category_overlay).click(function(){\n                    $(_this).css('', '');\n                    $(_this).children().siblings().show();\n                    $(_this).children(class_selectors.split_view).hide();\n                    $(this).hide();\n                });\n\n            });\n        }\n    };\n    //////////////////////Transitions END//////////////////////////\n\n    $(function() {\n        if ($(id_selectors.paa_page_nav).length) {\n            Transitions.init();\n        }\n    });\n})(jQuery);\n",
+					"file": "/home/dubizzle/webapps/django/dubizzle/media/js/paa/paa_base.js",
+					"file_size": 10768,
+					"file_write_time": 1371390234000000,
+					"settings":
+					{
+						"buffer_size": 10781,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/dubizzle/webapps/django/dubizzle/media/js/paa/Codi.js",
+					"settings":
+					{
+						"buffer_size": 3570,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/Sublime-Text-2-Compass-Build-System/Compass.sublime-build",
+			"command_palette":
+			{
+				"height": 327.0,
+				"selected_items":
+				[
+					[
+						"js",
+						"JSLint: Show JSLint Result"
+					],
+					[
+						"sublime",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"lintw",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"ch",
+						"Git: Checkout Current File"
+					],
+					[
+						"chec",
+						"Git: Checkout Current File"
+					],
+					[
+						"check",
+						"Git: Checkout Current File"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"disa",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"diff",
+						"Sublimerge: View Diff"
+					],
+					[
+						"pep",
+						"User: Python PEP8 Autoformat"
+					],
+					[
+						"merge",
+						"Sublimerge: View Diff"
+					],
+					[
+						"pep8",
+						"User: Python PEP8 Autoformat"
+					],
+					[
+						"back",
+						"SublimeLinter: Background Linting"
+					],
+					[
+						"dis",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"lint",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"bak",
+						"SublimeLinter: Background Linting"
+					],
+					[
+						"bla",
+						"Git: Blame"
+					],
+					[
+						"blam",
+						"Git: Blame"
+					],
+					[
+						"lin",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"syntax py",
+						"Set Syntax: Python Django"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"link",
+						"SublimeLinter: Background Linting"
+					],
+					[
+						"dif",
+						"Git: Diff Current File"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"add",
+						"Package Control: Add Repository"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"tidy",
+						"Tidy HTML"
+					],
+					[
+						"form",
+						"Format: Javascript"
+					],
+					[
+						"snipp comm",
+						"Snippet: comment"
+					],
+					[
+						"Snippet:if",
+						"Snippet: if"
+					],
+					[
+						"int",
+						"SublimeCodeIntel: Reset"
+					],
+					[
+						"codein",
+						"SublimeCodeIntel: Reset"
+					],
+					[
+						"inter",
+						"SublimeCodeIntel: Reset"
+					],
+					[
+						"cod",
+						"SublimeCodeIntel: Reset"
+					],
+					[
+						"code",
+						"SublimeCodeIntel: Reset"
+					],
+					[
+						"di",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
+					],
+					[
+						"syntax",
+						"Set Syntax: Go"
+					],
+					[
+						"javasc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"synta",
+						"Set Syntax: XML"
+					],
+					[
+						"syn",
+						"Set Syntax: CSS"
+					],
+					[
+						"disal",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"trans",
+						"Snippet: trans"
+					],
+					[
+						"block",
+						"Snippet: blocktrans"
+					],
+					[
+						"blocktran",
+						"Snippet: blocktrans"
+					],
+					[
+						"tran",
+						"Snippet: trans"
+					],
+					[
+						"che",
+						"Git: Checkout Current File"
+					],
+					[
+						"bloc",
+						"Snippet: blocktrans"
+					],
+					[
+						"Snippet: ",
+						"Snippet: autoescape"
+					],
+					[
+						"checkou",
+						"Git: Checkout Current File"
+					],
+					[
+						"ba",
+						"SublimeLinter: Background Linting"
+					],
+					[
+						"for",
+						"Format: Javascript"
+					],
+					[
+						"merg",
+						"Sublimerge: View Diff"
+					],
+					[
+						"linter",
+						"SublimeLinter: Background Linting"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"forma",
+						"Format: Javascript"
+					],
+					[
+						"syntax sq",
+						"Set Syntax: SQL"
+					],
+					[
+						"djan",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"ds",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"disabl",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"",
+						"Bookmarks: Select Next"
+					],
+					[
+						"disab",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"backgro",
+						"SublimeLinter: Background Linting"
+					],
+					[
+						"diable",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"disable",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"disbale",
+						"SublimeCodeIntel: Disable Live Autocompletion"
+					],
+					[
+						"disb",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"backgroun",
+						"SublimeLinter: Background Linting"
+					],
+					[
+						"errr",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"backg",
+						"SublimeLinter: Background Linting"
+					],
+					[
+						"linte",
+						"SublimeLinter: Lint Current File"
+					],
+					[
+						"LIN",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"LINTER",
+						"SublimeLinter: Lint Current File"
+					],
+					[
+						"curr",
+						"Git: Add Current File"
+					],
+					[
+						"enable l",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"sublimelin",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"lint cu",
+						"Tag: Lint Selection or Document"
+					],
+					[
+						"sublimeLi",
+						"SublimeLinter: Lint Current File"
+					],
+					[
+						"sublimeLin",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"sublimel",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"show ",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"subl",
+						"SublimeLinter: Extract Annotations"
+					],
+					[
+						"Snippet: var",
+						"Snippet: var"
+					]
+				],
+				"width": 602.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/dubizzle/webapps/django/dubizzle/media/js/paa/Codi.js",
+				"/home/dubizzle/webapps/django/dubizzle/media/sass/pages/_enter-details.scss",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/enter_details.html",
+				"/home/dubizzle/webapps/django/dubizzle/media/js/paa/paa_base.js",
+				"/home/ahmed/.config/sublime-text-2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/home/dubizzle/webapps/django/dubizzle/paa/views/classifier_views.py",
+				"/home/ahmed/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/ahmed/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/dubizzle/webapps/django/dubizzle/paa/views/enter_details_views.py",
+				"/home/dubizzle/webapps/django/dubizzle/globalsettings.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/views/classifier_views_test.py",
+				"/home/dubizzle/webapps/django/dubizzle/media/.sass-cache/cc3be12b2459cc16df55fd9528b9bb5108f2beb4/_enter-details.scssc",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/conf/__init__.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/views/classifier_views.py.orig",
+				"/home/dubizzle/webapps/django/dubizzle/paa/views/create_views.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/utils.py",
+				"/usr/lib/python2.7/pdb.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/factory_test.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/views/create_views_test.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/users/views_test.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/factory.py",
+				"/home/dubizzle/webapps/django/local/lib/python2.7/site-packages/django/forms/models.py",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/forms/models.py",
+				"/home/dubizzle/webapps/django/dubizzle/media/sass/typography/_fonts.scss",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/sms/utils_test.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/sms/views_test.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/sms/views_test.pyc",
+				"/home/ahmed/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/users/view_test.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/views/create_views_tests.pyc",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/views_test.pyc",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/views/complete_views_test.py",
+				"/home/ahmed/Desktop/codi.js",
+				"/home/ahmed/.config/sublime-text-2/Packages/Codeivate/codeivated/ActivityMonitor.pyc",
+				"/home/ahmed/.config/sublime-text-2/Packages/Codeivate/codeivate.py",
+				"/home/ahmed/.config/sublime-text-2/Packages/Codeivate/gntp/notifier.py",
+				"/home/ahmed/.config/sublime-text-2/Packages/Codeivate/gntp/cli.py",
+				"/home/ahmed/.config/sublime-text-2/Packages/Codeivate/gntp/config.py",
+				"/home/ahmed/.config/sublime-text-2/Packages/Codeivate/package-metadata.json",
+				"/home/ahmed/.config/sublime-text-2/Packages/Codeivate/Main.sublime-menu",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/rules.html",
+				"/home/dubizzle/webapps/django/dubizzle/paa/urls.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/views/taxonomy_views_test.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/sms/views.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/sms/utils.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/classify_category.html",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/views/generic/edit.py",
+				"/home/dubizzle/webapps/django/dubizzle/main/models.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/views/edit_views_test.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/views/create_views_tests.py",
+				"/home/dubizzle/webapps/django/dubizzle/terra/deploy/terra_uwsgi.ini",
+				"/home/dubizzle/webapps/django/dubizzle/terra/deploy/run_terra.sh",
+				"/home/ahmed/Desktop/untitled.json",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/codi_results.html",
+				"/home/dubizzle/webapps/django/dubizzle/media/sass/base/_general.scss",
+				"/home/dubizzle/webapps/django/dubizzle/media/js/tools/chosen.jquery.min.js",
+				"/home/ahmed/Desktop/dubizzle logo/index.html",
+				"/home/dubizzle/webapps/django/dubizzle/paa/users/views.py",
+				"/home/dubizzle/webapps/django/dubizzle/templates/classified/paa_enter_details/enter_details.html",
+				"/home/ahmed/.config/sublime-text-2/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+				"/home/ahmed/.config/sublime-text-2/Packages/User/pep8_autoformat.sublime-settings",
+				"/home/dubizzle/webapps/django/dubizzle/settings.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/views.py.orig",
+				"/home/ahmed/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+				"/home/ahmed/.config/sublime-text-2/Packages/User/JSON.sublime-settings",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/helpers_test.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/helpers.py",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/flexmock.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/users/tests/views_test.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/tests/views_test.py",
+				"/home/dubizzle/webapps/django/dubizzle/media/sass/pages/_codi.scss",
+				"/home/dubizzle/webapps/django/dubizzle/paa/views.py",
+				"/home/dubizzle/webapps/django/dubizzle/media/js/paa/Autosuggest.js",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/base.html",
+				"/home/dubizzle/webapps/django/dubizzle/media/sass/base/_base.scss",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/simplejson/__init__.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/helpers.py",
+				"/home/ahmed/.config/sublime-text-2/Packages/SublimeLinter/SublimeLinter.py",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/should_dsl/matchers.py",
+				"/home/ahmed/.config/sublime-text-2/Packages/SublimeLinter/sublimelinter/modules/libs/pyflakes/checker.py",
+				"/home/ahmed/.config/sublime-text-2/Packages/SublimeLinter/sublimelinter/modules/libs/pep8.py",
+				"/home/dubizzle/webapps/django/dubizzle/classified/views.py",
+				"/home/ahmed/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/ahmed/.config/sublime-text-2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+				"/home/ahmed/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/db/models/fields/__init__.py",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/contrib/auth/models.py",
+				"/home/ahmed/.config/sublime-text-2/Packages/User/codeivate-st.sublime-settings",
+				"/home/ahmed/.config/sublime-text-2/Packages/SublimeCodeIntel/Default (Linux).sublime-mousemap",
+				"/home/ahmed/.config/sublime-text-2/Packages/User/Default (Linux).sublime-mousemap",
+				"/home/dubizzle/webapps/django/dubizzle/user/views.py",
+				"/home/dubizzle/webapps/django/dubizzle/.gitignore",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/shortcuts/__init__.py",
+				"/home/dubizzle/webapps/django/dubizzle/cronjobs/refresh_cached_sitemap.py",
+				"/home/ahmed/Desktop/sitemap.log",
+				"/home/ahmed/.config/sublime-text-2/Packages/codeivate-st/codeivate-st.sublime-settings",
+				"/home/ahmed/.config/sublime-text-2/Packages/SublimeCodeIntel/Default (Linux).sublime-keymap",
+				"/home/ahmed/.config/sublime-text-2/Packages/SublimeLinter/README.md",
+				"/home/ahmed/Desktop/dubizzle logo/style.css",
+				"/home/dubizzle/webapps/django/dubizzle/media/sass/pages/_category.scss",
+				"/home/dubizzle/webapps/django/dubizzle/media/css/paa/application.css",
+				"/home/dubizzle/webapps/django/dubizzle/media/sass/variables/_colors.scss",
+				"/home/dubizzle/webapps/django/dubizzle/classified/forms.py",
+				"/home/ahmed/.config/sublime-text-2/Packages/Git/Git.sublime-settings",
+				"/home/ahmed/.config/sublime-text-2/Packages/User/Git.sublime-settings",
+				"/home/dubizzle/webapps/django/dubizzle/djangosphinx/utils/config.py",
+				"/home/dubizzle/webapps/django/dubizzle/urls.py",
+				"/home/dubizzle/webapps/django/dubizzle/media/sass/base/_header.scss",
+				"/home/dubizzle/webapps/django/dubizzle/paa/forms.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/users/forms.py",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/views/generic/base.py",
+				"/home/dubizzle/webapps/django/dubizzle/media/.sass-cache/cc3be12b2459cc16df55fd9528b9bb5108f2beb4/_category.scssc",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/forms/forms.py",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/utils/encoding.py",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/forms/__init__.py",
+				"/home/ahmed/.config/sublime-text-2/Packages/SublimeCodeIntel/.codeintel/config",
+				"/home/ahmed/.config/sublime-text-2/Packages/SublimeCodeIntel/.codeintel/config~",
+				"/home/dubizzle/webapps/django/dubizzle/templates/registration/fb_login_modal.html",
+				"/home/dubizzle/webapps/django/dubizzle/paa/translations.txt",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/select_category.html",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/select_section.html",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templatetags/paa.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/users/login.html",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/pick_a_category.html",
+				"/home/dubizzle/webapps/django/dubizzle/media/stylesheets/application.css",
+				"/home/dubizzle/webapps/django/dubizzle/media/config.rb",
+				"/home/dubizzle/webapps/django/dubizzle/media/sass/application.scss",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/jobs_split.html"
+			],
+			"find":
+			{
+				"height": 52.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/home/dubizzle/webapps/django/dubizzle/paa/tests",
+					"/home/dubizzle/webapps/django/dubizzle/paa",
+					"/home/dubizzle/webapps/django/dubizzle/",
+					"/home/dubizzle/webapps/django/dubizzle/paa/",
+					"/home/dubizzle/webapps/django/dubizzle/paa/tests",
+					"/home/dubizzle/webapps/django/dubizzle/paa/",
+					"/home/dubizzle/webapps/django/dubizzle/paa/views",
+					"/home/dubizzle/webapps/django/dubizzle/paa/tests",
+					"/home/dubizzle/webapps/django/dubizzle/paa/",
+					"/home/dubizzle/webapps/django/dubizzle/paa/tests",
+					"/home/dubizzle/webapps/django/dubizzle/paa/",
+					"/home/dubizzle/webapps/django/dubizzle/paa/tests",
+					"/home/dubizzle/webapps/django/dubizzle",
+					"/home/ahmed/.config/sublime-text-2/Packages/SublimeLinter",
+					"/home/dubizzle/webapps/django/dubizzle",
+					"/home/dubizzle/webapps/django/dubizzle/media/sass",
+					"/home/dubizzle/webapps/django/media/sass",
+					"/home/dubizzle/webapps/django/",
+					"/home/dubizzle/webapps/django/dubizzle",
+					"/home/dubizzle/webapps/django/",
+					"/home/dubizzle/webapps/django/dubizzle",
+					"/home/dubizzle/webapps/django/",
+					"/home/dubizzle/webapps/django/dubizzle",
+					"/home/dubizzle/webapps/django/dubizzle/media/sass",
+					"/home/dubizzle/webapps/django/dubizzle",
+					"/home/dubizzle/webapps/django/dubizzle/terra",
+					"/home/dubizzle/webapps/django/dubizzle/",
+					"/home/dubizzle/webapps/django/dubizzle/terra",
+					"/home/dubizzle/webapps/django/dubizzle/",
+					"/home/dubizzle/webapps/django/dubizzle/terra",
+					"/home/dubizzle/webapps/django/dubizzle",
+					"/home/dubizzle/webapps/django/dubizzle/templates",
+					"/home/dubizzle/webapps/django/dubizzle/template",
+					"/home/dubizzle/webapps/django/dubizzle",
+					"/home/dubizzle/webapps/django/dubizzle/templates",
+					"/home/dubizzle/webapps/django/dubizzle/",
+					"/home/dubizzle/webapps/django/dubizzle/templates",
+					"/home/dubizzle/webapps/django/dubizzle/",
+					"/home/dubizzle/webapps/django/dubizzle/templates",
+					"/home/dubizzle/webapps/django/dubizzle/",
+					"/home/dubizzle/webapps/django/dubizzle/extras",
+					"/home/dubizzle/webapps/django/dubizzle/",
+					"/home/dubizzle/webapps/django/dubizzle/media/sitemaps",
+					"/home/dubizzle/webapps/django/dubizzle",
+					"/home/dubizzle/webapps/django/",
+					"/home/dubizzle/webapps/django/dubizzle",
+					"/home/dubizzle/Downloads/2012/2012/",
+					"/home/dubizzle/Downloads/2012/2012/scss",
+					"/home/dubizzle/webapps/django/dubizzle/",
+					"/home/dubizzle/webapps/django/dubizzle/main",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"each",
+					"upload_container",
+					"upload_image_container",
+					"upload-image-container",
+					"_this",
+					"codi",
+					"_content",
+					"_get_data_from_codi",
+					"fail_redirect_url",
+					"console",
+					"progress",
+					"upload-container",
+					"img",
+					"urls",
+					"\"\n",
+					"uploaded_images",
+					"photo_store",
+					"SMSValidationMetaClass",
+					"create_dispatch_method",
+					"can_place_ad",
+					"((mock_model).should_receive('__name__')\n            .and_return(mock_class_name)\n            .once())",
+					"auto",
+					"tab",
+					"new_class",
+					"exclude_fields",
+					"self.view.request",
+					"photo",
+					"Http404",
+					"404",
+					".codi",
+					"codi",
+					"codi_return_count",
+					"',\n",
+					"property",
+					"todo",
+					"PICK_A_CATEGORY_URL",
+					"'',\n",
+					"redirect(",
+					"redirect",
+					"taxonomy_select_category",
+					"taxo",
+					"taxo\\",
+					"redirect",
+					"httpredirect",
+					"===",
+					"| should |",
+					"TAB",
+					"settings.py",
+					"BASE_DOMAIN",
+					"base_domain",
+					"detect_slow_plugins",
+					"and_raise",
+					"form",
+					"self.view.form",
+					"form_valid",
+					"Enter",
+					"form_valid",
+					"form",
+					"()\n",
+					"slow",
+					"time",
+					"super",
+					"super((.*), self).dispatch",
+					"super(.?, self).dispatch",
+					"super(.*, self).dispatch",
+					"super(LoginView, self).dispatch",
+					"CompleteView",
+					"super",
+					"redirect_mock",
+					"NEW_USER_ID",
+					"inactive_user_redirect_url_nameg",
+					"redirect",
+					"change_mobile_number_url_name",
+					"redirect",
+					"is_auth",
+					"        # slug_mock = object()\n        # listing_id = object()",
+					"mock_user",
+					"User",
+					"user.",
+					"if user.",
+					"user.",
+					"user.is_active",
+					"user_mock",
+					"SMS_VALIDATION_PAGE",
+					"should_receive('reverse_lazy')",
+					"SMS_VALIDATION_PAGE",
+					"PICK_A_CATEGORY_URL",
+					"redirect(self",
+					"User",
+					"objects",
+					"User",
+					"RegisterViewTest",
+					"reverse",
+					"Select Some options",
+					"rules_template_name",
+					"rules",
+					"HTTPresp",
+					"responseredirect",
+					"redirect",
+					"http",
+					".lobster",
+					"get_classified_item",
+					"place_an_ad_choose.html",
+					"for=\"rad2_landlord\"",
+					"_check_can_place_ad",
+					"mock",
+					"with_args",
+					"request",
+					"request.user",
+					"user",
+					"user=",
+					"self.view.request",
+					" self.view.request = mock_request()",
+					"self.view.request",
+					"mock_request",
+					"self.view.request",
+					"_get_rule_key",
+					"(.*)\\n",
+					"\\n",
+					"'",
+					"',  '",
+					"\\n",
+					"|",
+					"operator",
+					"undefinedname",
+					"builtIns",
+					"_MAGIC_GLOBALS",
+					"undefinedname"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"|should|",
+					"\"$1\", ",
+					"\\n\"",
+					"\"",
+					"', '",
+					", ",
+					"\\n\\n--",
+					"",
+					"{% url paa:enter_details codi_response.0.2 %}",
+					"classify_category_submit",
+					"[ English ]",
+					"[ English] >>>>",
+					"[ Trans ]",
+					"classify_category_list_title",
+					"codi_submit",
+					"classify_category_submit",
+					"",
+					"id_selectors",
+					"engage",
+					"TERRA",
+					"/images",
+					"/paa/images/chosen",
+					"autosuggestFields[i]",
+					"/paa/images/chosen-sprite",
+					"/paa/images/chosen-sprite.png",
+					"/paa/images/chosen-sprite@2x.png",
+					"multiple",
+					"text_multiple",
+					"",
+					"/paa/fonts/",
+					"/paa1/",
+					"/paa/fonts/",
+					"/paa1/fonts/",
+					"/paa/fonts/",
+					"/fonts/",
+					"paa/fonts/",
+					"/fonts/",
+					"../fonts/",
+					"fonts",
+					" false",
+					"false",
+					"false,",
+					"/paa/fonts/",
+					"$",
+					"#{$$dark-red}",
+					" 2.666vw",
+					"settings.BASE_DOMAIN",
+					"jquery.formLabels1.0",
+					"jquery.cookie",
+					"jquery.formLabels1.0",
+					"jquery.formLabels1.0.js",
+					"jquery.cookie.js",
+					"jquery.selectboxes",
+					"jquery.mobile.autoSuggest",
+					"jquery.jqEasyCharCounter",
+					"jquery-ie6fix",
+					"jquery.chosen",
+					"jquery.fieldtag",
+					"jquery.placeholder",
+					"jquery.modal",
+					"jquery.autocomplete",
+					"jquery.ui.accordion",
+					"jquery.ui.position",
+					"jquery.ui.slider.js",
+					"jquery.ui.mouse",
+					"jquery.ui.dialog",
+					"jquery.ui.widget",
+					"jquery.ui.core",
+					"125 88",
+					"298\n125 88",
+					"298\n104",
+					"298\n289px",
+					"",
+					";\\n",
+					"",
+					"$('#photo4').toggleClass('fhidden'); $('#sphoto4').toggleClass('fhidden');\"",
+					"$('#photo3').toggleClass('fhidden'); $('#sphoto3').toggleClass('fhidden');\"",
+					"$('#photo2').toggleClass('fhidden'); $('#sphoto2').toggleClass('fhidden');\"",
+					"$('#photo1').toggleClass('fhidden'); $('#sphoto1').toggleClass('fhidden');\"",
+					"$('#photo10').toggleClass('fhidden'); $('#sphoto10').toggleClass('fhidden');\"",
+					"$('#photo9').toggleClass('fhidden'); $('#sphoto9').toggleClass('fhidden');\"",
+					"$('#photo8').toggleClass('fhidden'); $('#sphoto8').toggleClass('fhidden');\"",
+					"$('#photo7').toggleClass('fhidden'); $('#sphoto7').toggleClass('fhidden');\"",
+					"$('#photo6').toggleClass('fhidden'); $('#sphoto6').toggleClass('fhidden');\"",
+					"$('#photo5').toggleClass('fhidden'); $('#sphoto5').toggleClass('fhidden');\"",
+					"$('#photo4').toggleClass('fhidden'); $('#sphoto4').toggleClass('fhidden');\"",
+					"$('#photo4').toggleClass('fhidden'); $('#sphoto4').toggleClass('fhidden');",
+					"$('#photo3').toggleClass('fhidden'); $('#sphoto3').toggleClass('fhidden');",
+					"$('#photo2').toggleClass('fhidden'); $('#sphoto2').toggleClass('fhidden');",
+					"$('#photo1').toggleClass('fhidden'); $('#sphoto1').toggleClass('fhidden');",
+					"submit_btn",
+					"edit_btn",
+					"attr",
+					"fhidden",
+					": 9px;",
+					"relative",
+					"\\n",
+					"color",
+					"KM",
+					"year",
+					"image_container",
+					"class=\"thumb_container\" onclick=\"$('#image_file').click();$('#textarea_anchor').click(); $(this).val('Manage Photos'); $('#location_container').show()\"",
+					"template_dict",
+					"child",
+					"STATIC_PAGES",
+					"LANGUAGES",
+					"DOMAIN",
+					"langs",
+					"site_name",
+					"SITE_NAME",
+					"subsubsections",
+					"level3",
+					"subsections",
+					"sections",
+					"\\n<loc>",
+					"\\n",
+					"</lastmod></url>\n",
+					"</lastmod></url>\\n",
+					"120%",
+					"  min-width: 50vw;\n80%",
+					"  min-width: 50vw;\n",
+					"sublime.desktop"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/dubizzle/webapps/django/dubizzle"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/enter_details.html",
+							"settings":
+							{
+								"buffer_size": 4074,
+								"regions":
+								{
+									"TagLint":
+									{
+										"flags": 52,
+										"icon": "dot",
+										"regions":
+										[
+											[
+												1429,
+												1527
+											]
+										],
+										"scope": "variable.parameter"
+									}
+								},
+								"selection":
+								[
+									[
+										1991,
+										1991
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"is_xml": false,
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+										"be",
+										"equal_to",
+										"throw",
+										"be_like",
+										"have",
+										"have_at_least",
+										"have_at_most",
+										"respond_to",
+										"close_to",
+										"change",
+										"like",
+										"include_keys",
+										"include_values",
+										"be_empty",
+										"have_same_attribute_values_as",
+										"include",
+										"contain",
+										"be_into",
+										"be_greater_than",
+										"be_greater_than_or_equal_to",
+										"be_less_than",
+										"be_less_than_or_equal_to",
+										"be_thrown_by",
+										"include_in_any_order",
+										"include_all_of",
+										"include_any_of",
+										"be_kind_of",
+										"be_instance_of",
+										"start_with",
+										"end_with",
+										"equal_to_ignoring_case",
+										"into",
+										"greater_than",
+										"greater_than_or_equal_to",
+										"less_than",
+										"less_than_or_equal_to",
+										"thrown_by",
+										"in_any_order",
+										"all_of",
+										"any_of",
+										"kind_of",
+										"ended_with"
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+										"*.css",
+										"*.scss"
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 270.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/dubizzle/webapps/django/dubizzle/media/sass/pages/_enter-details.scss",
+							"settings":
+							{
+								"buffer_size": 713,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										498,
+										498
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+										"be",
+										"equal_to",
+										"throw",
+										"be_like",
+										"have",
+										"have_at_least",
+										"have_at_most",
+										"respond_to",
+										"close_to",
+										"change",
+										"like",
+										"include_keys",
+										"include_values",
+										"be_empty",
+										"have_same_attribute_values_as",
+										"include",
+										"contain",
+										"be_into",
+										"be_greater_than",
+										"be_greater_than_or_equal_to",
+										"be_less_than",
+										"be_less_than_or_equal_to",
+										"be_thrown_by",
+										"include_in_any_order",
+										"include_all_of",
+										"include_any_of",
+										"be_kind_of",
+										"be_instance_of",
+										"start_with",
+										"end_with",
+										"equal_to_ignoring_case",
+										"into",
+										"greater_than",
+										"greater_than_or_equal_to",
+										"less_than",
+										"less_than_or_equal_to",
+										"thrown_by",
+										"in_any_order",
+										"all_of",
+										"any_of",
+										"kind_of",
+										"ended_with"
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+										"*.css",
+										"*.scss"
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/CSS/CSS.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 341.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/dubizzle/webapps/django/dubizzle/media/js/paa/paa_base.js",
+							"settings":
+							{
+								"buffer_size": 10781,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1803,
+										1803
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"glue_views_last_row": null,
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+										"be",
+										"equal_to",
+										"throw",
+										"be_like",
+										"have",
+										"have_at_least",
+										"have_at_most",
+										"respond_to",
+										"close_to",
+										"change",
+										"like",
+										"include_keys",
+										"include_values",
+										"be_empty",
+										"have_same_attribute_values_as",
+										"include",
+										"contain",
+										"be_into",
+										"be_greater_than",
+										"be_greater_than_or_equal_to",
+										"be_less_than",
+										"be_less_than_or_equal_to",
+										"be_thrown_by",
+										"include_in_any_order",
+										"include_all_of",
+										"include_any_of",
+										"be_kind_of",
+										"be_instance_of",
+										"start_with",
+										"end_with",
+										"equal_to_ignoring_case",
+										"into",
+										"greater_than",
+										"greater_than_or_equal_to",
+										"less_than",
+										"less_than_or_equal_to",
+										"thrown_by",
+										"in_any_order",
+										"all_of",
+										"any_of",
+										"kind_of",
+										"ended_with"
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+										"*.css",
+										"*.scss"
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 859.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/dubizzle/webapps/django/dubizzle/media/js/paa/Codi.js",
+							"settings":
+							{
+								"buffer_size": 3570,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2609,
+										2609
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+										"be",
+										"equal_to",
+										"throw",
+										"be_like",
+										"have",
+										"have_at_least",
+										"have_at_most",
+										"respond_to",
+										"close_to",
+										"change",
+										"like",
+										"include_keys",
+										"include_values",
+										"be_empty",
+										"have_same_attribute_values_as",
+										"include",
+										"contain",
+										"be_into",
+										"be_greater_than",
+										"be_greater_than_or_equal_to",
+										"be_less_than",
+										"be_less_than_or_equal_to",
+										"be_thrown_by",
+										"include_in_any_order",
+										"include_all_of",
+										"include_any_of",
+										"be_kind_of",
+										"be_instance_of",
+										"start_with",
+										"end_with",
+										"equal_to_ignoring_case",
+										"into",
+										"greater_than",
+										"greater_than_or_equal_to",
+										"less_than",
+										"less_than_or_equal_to",
+										"thrown_by",
+										"in_any_order",
+										"all_of",
+										"any_of",
+										"kind_of",
+										"ended_with"
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+										"*.css",
+										"*.scss"
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1188.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 87.0
+			},
+			"output.git":
+			{
+				"height": 118.0
+			},
+			"output.jslint_result_view":
+			{
+				"height": 124.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 197.0
+			},
+			"position": "0,1,0,0,0,684,324,1367,1016,3286,1080",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"codi",
+						"media/js/paa/Codi.js"
+					],
+					[
+						"paa_base",
+						"media/js/paa/paa_base.js"
+					],
+					[
+						"_enter",
+						"media/sass/pages/_enter-details.scss"
+					],
+					[
+						"details",
+						"paa/templates/paa/enter_details.html"
+					],
+					[
+						"enter_details",
+						"paa/templates/paa/enter_details.html"
+					],
+					[
+						"enter",
+						"paa/templates/paa/enter_details.html"
+					],
+					[
+						"paatestsclassi",
+						"paa/tests/views/classifier_views_test.py"
+					],
+					[
+						"globa",
+						"globalsettings.py"
+					],
+					[
+						"enter_details_views.py",
+						"paa/views/enter_details_views.py"
+					],
+					[
+						"codi.",
+						"media/js/paa/Codi.js"
+					],
+					[
+						"paabasejs",
+						"media/js/paa/paa_base.js"
+					],
+					[
+						"create",
+						"paa/views/create_views.py"
+					],
+					[
+						"fonts",
+						"media/sass/typography/_fonts.scss"
+					],
+					[
+						"paafac",
+						"paa/factory.py"
+					],
+					[
+						"rule.",
+						"paa/templates/paa/rules.html"
+					],
+					[
+						"global",
+						"globalsettings.py"
+					],
+					[
+						"run",
+						"terra/deploy/run_terra.sh"
+					],
+					[
+						"terr",
+						"terra/deploy/terra_uwsgi.ini"
+					],
+					[
+						"paa/views",
+						"paa/sms/views.py"
+					],
+					[
+						"usersviews",
+						"paa/users/views.py"
+					],
+					[
+						"codi_res",
+						"paa/templates/paa/codi_results.html"
+					],
+					[
+						"classify",
+						"paa/templates/paa/classify_category.html"
+					],
+					[
+						"codi.js",
+						"media/js/paa/Codi.js"
+					],
+					[
+						"paaurls",
+						"paa/urls.py"
+					],
+					[
+						"paaview",
+						"paa/views/classifier_views.py"
+					],
+					[
+						"paatemplates",
+						"paa/templates/paa/enter_details.html"
+					],
+					[
+						"paaenter",
+						"paa/templates/paa/enter_details.html"
+					],
+					[
+						"endter",
+						"templates/classified/paa_enter_details/enter_details.html"
+					],
+					[
+						"setting",
+						"settings.py"
+					],
+					[
+						"paaviews",
+						"paa/views.py.orig"
+					],
+					[
+						"paatestsviews",
+						"paa/tests/views/edit_views_test.py"
+					],
+					[
+						"paausersview",
+						"paa/users/views.py"
+					],
+					[
+						"view_test",
+						"paa/tests/views/classifier_views_test.py"
+					],
+					[
+						"testcompletev",
+						"paa/tests/views/complete_views_test.py"
+					],
+					[
+						"paatesthelp",
+						"paa/tests/helpers.py"
+					],
+					[
+						"paauserstest",
+						"paa/tests/users/views_test.py"
+					],
+					[
+						"paa/tests/user",
+						"paa/tests/users/view_test.py"
+					],
+					[
+						"paatestuser",
+						"paa/tests/users/view_test.py"
+					],
+					[
+						"paausersviews",
+						"paa/users/views.py"
+					],
+					[
+						"pagescodi",
+						"media/sass/pages/_codi.scss"
+					],
+					[
+						"views",
+						"paa/views.py"
+					],
+					[
+						"media/js/paa/",
+						"media/js/paa/Autosuggest.js"
+					],
+					[
+						"paabase",
+						"paa/templates/paa/base.html"
+					],
+					[
+						"base.html",
+						"paa/templates/paa/base.html"
+					],
+					[
+						"base",
+						"media/sass/base/_base.scss"
+					],
+					[
+						"rules",
+						"paa/templates/paa/rules.html"
+					],
+					[
+						"testsms",
+						"paa/tests/sms/views_test.py"
+					],
+					[
+						"paatestsms",
+						"paa/tests/sms/views_test.py"
+					],
+					[
+						"paausers",
+						"paa/users/views.py"
+					],
+					[
+						"paahel",
+						"paa/helpers.py"
+					],
+					[
+						"paaviewtes",
+						"paa/tests/views_test.py"
+					],
+					[
+						"testview",
+						"paa/tests/views_test.py"
+					],
+					[
+						"paauserview",
+						"paa/users/views.py"
+					],
+					[
+						"refresh",
+						"cronjobs/refresh_cached_sitemap.py"
+					],
+					[
+						"rule",
+						"paa/templates/paa/rules.html"
+					],
+					[
+						"colors",
+						"media/sass/variables/_colors.scss"
+					],
+					[
+						"paaurl",
+						"paa/urls.py"
+					],
+					[
+						"paaur",
+						"paa/urls.py"
+					],
+					[
+						"urls",
+						"urls.py"
+					],
+					[
+						"_scss",
+						"media/sass/base/_header.scss"
+					],
+					[
+						"viewtest",
+						"paa/tests/views_test.py"
+					],
+					[
+						"sett",
+						"settings.py"
+					],
+					[
+						"djangosphinx/utils/config.py",
+						"djangosphinx/utils/config.py"
+					],
+					[
+						"paatestvi",
+						"paa/tests/views_test.py"
+					],
+					[
+						"classi",
+						"paa/templates/paa/classify_category.html"
+					],
+					[
+						"classif",
+						"paa/templates/paa/classify_category.html"
+					],
+					[
+						"_cate",
+						"media/sass/pages/_category.scss"
+					],
+					[
+						"_cat",
+						"media/.sass-cache/cc3be12b2459cc16df55fd9528b9bb5108f2beb4/_category.scssc"
+					],
+					[
+						"user/views",
+						"paa/users/views.py"
+					],
+					[
+						"userviews",
+						"paa/users/views.py"
+					],
+					[
+						"paalogin",
+						"paa/templates/paa/users/login.html"
+					],
+					[
+						"pick",
+						"paa/templates/paa/pick_a_category.html"
+					],
+					[
+						"codi.sc",
+						"media/sass/pages/_codi.scss"
+					],
+					[
+						"_codi",
+						"media/sass/pages/_codi.scss"
+					],
+					[
+						"base.sc",
+						"media/sass/base/_base.scss"
+					],
+					[
+						"applic",
+						"media/sass/application.scss"
+					],
+					[
+						"color",
+						"media/sass/variables/_colors.scss"
+					],
+					[
+						"glo",
+						"globalsettings.py"
+					],
+					[
+						"resul",
+						"paa/templates/paa/codi_results.html"
+					],
+					[
+						"runterr",
+						"terra/deploy/run_terra.sh"
+					],
+					[
+						"odi_results.html",
+						"paa/templates/paa/codi_results.html"
+					],
+					[
+						"jobs_spl",
+						"paa/templates/paa/jobs_split.html"
+					],
+					[
+						"glob",
+						"globalsettings.py"
+					],
+					[
+						"paa_ba",
+						"media/js/paa/paa_base.js"
+					],
+					[
+						"class",
+						"paa/templates/paa/classify_category.html"
+					],
+					[
+						"picka",
+						"paa/templates/paa/pick_a_category.html"
+					],
+					[
+						"manage",
+						"manage.py"
+					],
+					[
+						"paabase.html",
+						"paa/templates/paa/base.html"
+					],
+					[
+						"result",
+						"paa/templates/paa/codi_results.html"
+					],
+					[
+						"",
+						"paa/templates/paa/classify_category.html"
+					],
+					[
+						"codi_re",
+						"paa/templates/paa/codi_results.html"
+					],
+					[
+						"appl",
+						"media/sass/application.scss"
+					],
+					[
+						"_ge",
+						"media/sass/base/_general.scss"
+					],
+					[
+						"appli",
+						"media/sass/application.scss"
+					],
+					[
+						"paa/template",
+						"paa/templatetags/paa.py"
+					],
+					[
+						"paa/codi_results.html",
+						"paa/templates/paa/codi_results.html"
+					],
+					[
+						"enterdetail",
+						"paa/templates/paa/enter_details.html"
+					],
+					[
+						"paa_",
+						"media/js/paa/paa_base.js"
+					],
+					[
+						"complete",
+						"paa/templates/paa/complete.html"
+					],
+					[
+						"main/mode",
+						"main/models.py"
+					],
+					[
+						"paa/templatesen",
+						"paa/templates/paa/enter_details.html"
+					],
+					[
+						"paadetail",
+						"templates/mobile/classified/place_an_ad_details.html"
+					],
+					[
+						"_bas",
+						"media/sass/base/_base.scss"
+					],
+					[
+						"_base",
+						"media/sass/base/_base.scss"
+					],
+					[
+						"applica",
+						"media/sass/application.scss"
+					],
+					[
+						"scss",
+						"media/sass/application.scss"
+					],
+					[
+						"paaappli",
+						"media/css/paa/application.css"
+					],
+					[
+						"pic",
+						"paa/templates/paa/pick_a_category.html"
+					],
+					[
+						"autosuggest",
+						"media/js/paa/Autosuggest.js"
+					],
+					[
+						"moderni",
+						"media/js/modernizr.js"
+					],
+					[
+						"chosen",
+						"media/js/tools/chosen.jquery.min.js"
+					],
+					[
+						"compl",
+						"paa/templates/paa/complete.html"
+					],
+					[
+						"terraus",
+						"terra/deploy/terra_uwsgi.ini"
+					],
+					[
+						"run_t",
+						"terra/deploy/run_terra.sh"
+					],
+					[
+						"settings",
+						"settings.py"
+					],
+					[
+						"paa.sc",
+						"media/sass/paa/paa_mobile.scss"
+					],
+					[
+						"paaresults",
+						"paa/templates/paa/codi_results.html"
+					],
+					[
+						"paacomplete",
+						"paa/templates/paa/complete.html"
+					],
+					[
+						"globalsettings.py",
+						"globalsettings.py"
+					],
+					[
+						"server",
+						"terra/terra/server.py"
+					],
+					[
+						"paa/forms.py",
+						"paa/forms.py"
+					],
+					[
+						"upload",
+						"media/js/tools/image-upload.js"
+					],
+					[
+						"setti",
+						"settings.py"
+					],
+					[
+						"base.htm",
+						"templates/base.html"
+					],
+					[
+						"templates/templatetags/render_listing_featured.html",
+						"templates/templatetags/render_listing_featured.html"
+					],
+					[
+						"templates/templatetags/render_listing.html",
+						"templates/templatetags/render_listing.html"
+					],
+					[
+						"templates/classified/classified_detail_include.html",
+						"templates/classified/classified_detail_include.html"
+					],
+					[
+						"image_",
+						"extras/templatetags/image_helper.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 176.0,
+			"status_bar_visible": true,
+			"window_id": 8,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
