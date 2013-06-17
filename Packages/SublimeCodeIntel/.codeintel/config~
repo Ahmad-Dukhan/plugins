@@ -1,0 +1,7 @@
+{
+"Python": {
+"python": '/home/dubizzle/webapps/django/bin/python',
+"pythonExtraPaths": ['/home/dubizzle/webapps/django/lib/python2.7/site-packages',
+]
+},
+}

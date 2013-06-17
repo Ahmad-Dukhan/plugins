@@ -1,0 +1,15 @@
+{
+	"dialog": false,
+	"growl_active": true,
+	"machine_name":
+	{
+		"": "",
+		"40368350011002": "Olin Slusar"
+	},
+	"notify_send_active": true,
+	"notify_send_path": "/usr/bin/notify-send",
+	"pushover_active": false,
+	"pushover_user_id": "",
+	"user_id": "",
+	"user_token": ""
+}
