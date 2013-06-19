@@ -161,6 +161,8 @@ REMARK_QUEUES = (
         ('WAITING', 'remark.waiting'),
         ('DONE', 'remark.done'),
         ('CANCELED', 'remark.note'),
+        ('console', 'remark.note'),
+        ('dukhan', 'remark.note'),
     )),
 
     ('Code remarks',
