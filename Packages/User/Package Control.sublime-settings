@@ -11,5 +11,10 @@
 	[
 		"https://github.com/codeivate/codeivate-st.git",
 		"https://github.com/eliquious/Python-Auto-Complete.git"
+	],
+	"repository_channels":
+	[
+		"https://sublime.wbond.net/repositories.json",
+		"https://raw.github.com/cancerhermit/Sublime-package-channel/master/repositories.json"
 	]
 }

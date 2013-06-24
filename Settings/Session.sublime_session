@@ -5,7 +5,7 @@
 		"/home/dubizzle",
 		"/home/dubizzle/webapps/django"
 	],
-	"last_window_id": 28,
+	"last_window_id": 34,
 	"settings":
 	{
 		"new_window_height": 692.0,
@@ -16,16 +16,24 @@
 				"selected_items":
 				[
 					[
+						"image",
+						"image_preview"
+					],
+					[
+						"single",
+						"single_image_container"
+					],
+					[
+						"ima",
+						"image_container"
+					],
+					[
 						"wa",
 						"watchDog"
 					],
 					[
 						"Codi",
 						"codi_url"
-					],
-					[
-						"image",
-						"images_count  (variable)"
 					],
 					[
 						"guesses",
@@ -296,15 +304,27 @@
 			"build_system": "Packages/Sublime-Text-2-Compass-Build-System/Compass.sublime-build",
 			"command_palette":
 			{
-				"height": 117.0,
+				"height": 327.0,
 				"selected_items":
 				[
 					[
-						"chec",
-						"Git: Checkout Current File"
+						"diff",
+						"Sublimerge: View Diff"
+					],
+					[
+						"view",
+						"Sublimerge: View Diff"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
 					],
 					[
 						"check",
+						"Git: Checkout Current File"
+					],
+					[
+						"chec",
 						"Git: Checkout Current File"
 					],
 					[
@@ -330,10 +350,6 @@
 					[
 						"disa",
 						"SublimeLinter: Disable Linting"
-					],
-					[
-						"diff",
-						"Sublimerge: View Diff"
 					],
 					[
 						"pep",
@@ -378,10 +394,6 @@
 					[
 						"syntax py",
 						"Set Syntax: Python Django"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
 					],
 					[
 						"link",
@@ -657,6 +669,18 @@
 			},
 			"file_history":
 			[
+				"/home/dubizzle/webapps/django/dubizzle/templates/classified/paa_enter_details/enter_details.html",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/enter_details.html",
+				"/home/dubizzle/webapps/django/dubizzle/media/sass/pages/_codi.scss",
+				"/home/dubizzle/webapps/django/dubizzle/globalsettings.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/views/classifier_views.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templatetags/paa.py",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/requests/__init__.py",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/requests/api.py",
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/requests/sessions.py",
+				"/home/dubizzle/webapps/django/dubizzle/media/css/chosen.css",
+				"/home/ahmed/Desktop/compare.css",
+				"/home/dubizzle/webapps/django/dubizzle/media/sass/forms/_forms.scss",
 				"/home/ahmed/Desktop/compare.js",
 				"/home/dubizzle/webapps/django/dubizzle/media/js/paa/paa_base.js",
 				"/home/dubizzle/webapps/django/dubizzle/media/sass/pages/_enter-details.scss",
@@ -672,13 +696,10 @@
 				"/home/ahmed/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
 				"/home/ahmed/.config/sublime-text-2/Packages/sublime_plugins/auto_complete_ext.py",
 				"/home/dubizzle/webapps/django/dubizzle/media/js/paa/Codi.js",
-				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/enter_details.html",
 				"/home/ahmed/.config/sublime-text-2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
-				"/home/dubizzle/webapps/django/dubizzle/paa/views/classifier_views.py",
 				"/home/ahmed/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
 				"/home/ahmed/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
 				"/home/dubizzle/webapps/django/dubizzle/paa/views/enter_details_views.py",
-				"/home/dubizzle/webapps/django/dubizzle/globalsettings.py",
 				"/home/dubizzle/webapps/django/dubizzle/paa/tests/views/classifier_views_test.py",
 				"/home/dubizzle/webapps/django/dubizzle/media/.sass-cache/cc3be12b2459cc16df55fd9528b9bb5108f2beb4/_enter-details.scssc",
 				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/conf/__init__.py",
@@ -726,7 +747,6 @@
 				"/home/dubizzle/webapps/django/dubizzle/media/js/tools/chosen.jquery.min.js",
 				"/home/ahmed/Desktop/dubizzle logo/index.html",
 				"/home/dubizzle/webapps/django/dubizzle/paa/users/views.py",
-				"/home/dubizzle/webapps/django/dubizzle/templates/classified/paa_enter_details/enter_details.html",
 				"/home/ahmed/.config/sublime-text-2/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
 				"/home/ahmed/.config/sublime-text-2/Packages/User/pep8_autoformat.sublime-settings",
 				"/home/dubizzle/webapps/django/dubizzle/paa/views.py.orig",
@@ -737,7 +757,6 @@
 				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/flexmock.py",
 				"/home/dubizzle/webapps/django/dubizzle/paa/users/tests/views_test.py",
 				"/home/dubizzle/webapps/django/dubizzle/paa/tests/views_test.py",
-				"/home/dubizzle/webapps/django/dubizzle/media/sass/pages/_codi.scss",
 				"/home/dubizzle/webapps/django/dubizzle/paa/views.py",
 				"/home/dubizzle/webapps/django/dubizzle/media/js/paa/Autosuggest.js",
 				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/base.html",
@@ -777,22 +796,15 @@
 				"/home/dubizzle/webapps/django/dubizzle/paa/forms.py",
 				"/home/dubizzle/webapps/django/dubizzle/paa/users/forms.py",
 				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/views/generic/base.py",
-				"/home/dubizzle/webapps/django/dubizzle/media/.sass-cache/cc3be12b2459cc16df55fd9528b9bb5108f2beb4/_category.scssc",
-				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/forms/forms.py",
-				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/utils/encoding.py",
-				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/forms/__init__.py",
-				"/home/ahmed/.config/sublime-text-2/Packages/SublimeCodeIntel/.codeintel/config",
-				"/home/ahmed/.config/sublime-text-2/Packages/SublimeCodeIntel/.codeintel/config~",
-				"/home/dubizzle/webapps/django/dubizzle/templates/registration/fb_login_modal.html",
-				"/home/dubizzle/webapps/django/dubizzle/paa/translations.txt"
+				"/home/dubizzle/webapps/django/dubizzle/media/.sass-cache/cc3be12b2459cc16df55fd9528b9bb5108f2beb4/_category.scssc"
 			],
 			"find":
 			{
-				"height": 63.0
+				"height": 78.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 93.0,
 				"where_history":
 				[
 					"/home/dubizzle/webapps/django/dubizzle/paa/",
@@ -854,6 +866,31 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"click",
+					"\"[id^='delete_photo_']\"",
+					"div[",
+					"view=",
+					"vie=",
+					"view",
+					"split",
+					"div[view=\"split\"]",
+					"split",
+					"hidden",
+					"enter-details-single-image-containe",
+					"enter_details_delete_photo",
+					"section-box",
+					"upload-container",
+					"\n",
+					"single_image_container",
+					");\n",
+					"window.terraUrl",
+					"window",
+					"URLS",
+					"ajax",
+					"terra",
+					"__this",
+					"_t_his",
+					"TODO",
 					"width",
 					"195",
 					"width:",
@@ -956,31 +993,6 @@
 					"inactive_user_redirect_url_nameg",
 					"redirect",
 					"change_mobile_number_url_name",
-					"redirect",
-					"is_auth",
-					"        # slug_mock = object()\n        # listing_id = object()",
-					"mock_user",
-					"User",
-					"user.",
-					"if user.",
-					"user.",
-					"user.is_active",
-					"user_mock",
-					"SMS_VALIDATION_PAGE",
-					"should_receive('reverse_lazy')",
-					"SMS_VALIDATION_PAGE",
-					"PICK_A_CATEGORY_URL",
-					"redirect(self",
-					"User",
-					"objects",
-					"User",
-					"RegisterViewTest",
-					"reverse",
-					"Select Some options",
-					"rules_template_name",
-					"rules",
-					"HTTPresp",
-					"responseredirect",
 					"redirect"
 				],
 				"highlight": true,
@@ -989,6 +1001,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"CLASSES.delete_photo_button",
 					"|should|",
 					"\"$1\", ",
 					"\\n\"",
@@ -1176,6 +1189,54 @@
 				"selected_items":
 				[
 					[
+						"paabase.html",
+						"paa/templates/paa/base.html"
+					],
+					[
+						"glo",
+						"globalsettings.py"
+					],
+					[
+						"paabasejs",
+						"media/js/paa/paa_base.js"
+					],
+					[
+						"enter",
+						"templates/classified/paa_enter_details/enter_details.html"
+					],
+					[
+						"_codi.scss",
+						"media/sass/pages/_codi.scss"
+					],
+					[
+						"settings",
+						"settings.py"
+					],
+					[
+						"globa",
+						"globalsettings.py"
+					],
+					[
+						"clasify",
+						"paa/templates/paa/classify_category.html"
+					],
+					[
+						"",
+						"paa/templates/paa/codi_results.html"
+					],
+					[
+						"codi",
+						"paa/templates/paa/codi_results.html"
+					],
+					[
+						"paa_base",
+						"media/js/paa/paa_base.js"
+					],
+					[
+						"classify",
+						"paa/views/classifier_views.py"
+					],
+					[
 						"_forms.",
 						"media/sass/forms/_forms.scss"
 					],
@@ -1192,28 +1253,12 @@
 						"globalsettings.py"
 					],
 					[
-						"enter",
-						"paa/templates/paa/enter_details.html"
-					],
-					[
 						"paaform",
 						"paa/forms.py"
 					],
 					[
-						"",
-						"paa/views/enter_details_views.py"
-					],
-					[
 						"sett",
 						"settings.py"
-					],
-					[
-						"codi",
-						"media/js/paa/Codi.js"
-					],
-					[
-						"paa_base",
-						"media/js/paa/paa_base.js"
 					],
 					[
 						"_enter",
@@ -1232,20 +1277,12 @@
 						"paa/tests/views/classifier_views_test.py"
 					],
 					[
-						"globa",
-						"globalsettings.py"
-					],
-					[
 						"enter_details_views.py",
 						"paa/views/enter_details_views.py"
 					],
 					[
 						"codi.",
 						"media/js/paa/Codi.js"
-					],
-					[
-						"paabasejs",
-						"media/js/paa/paa_base.js"
 					],
 					[
 						"create",
@@ -1282,10 +1319,6 @@
 					[
 						"codi_res",
 						"paa/templates/paa/codi_results.html"
-					],
-					[
-						"classify",
-						"paa/templates/paa/classify_category.html"
 					],
 					[
 						"codi.js",
@@ -1500,10 +1533,6 @@
 						"media/sass/variables/_colors.scss"
 					],
 					[
-						"glo",
-						"globalsettings.py"
-					],
-					[
 						"resul",
 						"paa/templates/paa/codi_results.html"
 					],
@@ -1538,10 +1567,6 @@
 					[
 						"manage",
 						"manage.py"
-					],
-					[
-						"paabase.html",
-						"paa/templates/paa/base.html"
 					],
 					[
 						"result",
@@ -1644,10 +1669,6 @@
 						"terra/deploy/run_terra.sh"
 					],
 					[
-						"settings",
-						"settings.py"
-					],
-					[
 						"paa.sc",
 						"media/sass/paa/paa_mobile.scss"
 					],
@@ -1678,14 +1699,6 @@
 					[
 						"setti",
 						"settings.py"
-					],
-					[
-						"base.htm",
-						"templates/base.html"
-					],
-					[
-						"templates/templatetags/render_listing_featured.html",
-						"templates/templatetags/render_listing_featured.html"
 					]
 				],
 				"width": 0.0
@@ -1702,7 +1715,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 297.0,
+			"side_bar_width": 209.0,
 			"status_bar_visible": true
 		},
 		"new_window_width": 683.0
@@ -1715,16 +1728,28 @@
 				"selected_items":
 				[
 					[
+						"find",
+						"find_element"
+					],
+					[
+						"image",
+						"image_preview"
+					],
+					[
+						"single",
+						"single_image_container"
+					],
+					[
+						"ima",
+						"image_container"
+					],
+					[
 						"wa",
 						"watchDog"
 					],
 					[
 						"Codi",
 						"codi_url"
-					],
-					[
-						"image",
-						"images_count  (variable)"
 					],
 					[
 						"guesses",
@@ -1995,101 +2020,91 @@
 			"buffers":
 			[
 				{
-					"file": "/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/enter_details.html",
+					"file": "/home/dubizzle/webapps/django/dubizzle/paa/features/rules.feature",
 					"settings":
 					{
-						"buffer_size": 5199,
+						"buffer_size": 2025,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"contents": "(function() {\n    'use strict';\n\n    //Please append # before ids and\n    var id_selectors = {\n        paa_page_nav: '#paa-page-nav',\n        classify_category_list_title: '#list-title',\n        classify_category_submit: '#codi-submit',\n        detail_page_form: '#details_page_form',\n        pick_a_category_overlay: '#pick-a-category-overlay',\n        enter_details_submit: '#enter-details-submit',\n        enter_details_overlay: \"#enter-details-overlay\",\n        enter_details_alert: \"#enter-details-alert\",\n        enter_details_return: \"#enter-details-return\",\n        form_wrapper: \"#form_wrapper\",\n        enter_details_submit_form: \"#enter-details-submit-form\"\n    };\n\n    var class_selectors = {\n        split_view: '.split-view'\n    };\n\n    var classes = {\n        active_button: \"inactive\",\n        thumbs_image_container: \"thumbs-image-container\",\n        micro_thumb: \"micro-thumb\",\n        bar: \"bar\",\n        red_button: \"red-button\",\n        photo_count: \"photo-count\",\n        hidden: 'hidden',\n        image_preview: \"image-preview\"\n    };\n\n    var urls = {\n        terra: window.terraUrl\n    };\n\n    var assigned_ids = {\n        upload_container: \"upload-container\",\n        image_container: \"image-container\",\n        upload_image_container: \"upload-image-container\",\n        progress: \"progress\",\n        micro_thumb_container: \"micro-thumb-container\",\n        upload_button_container: \"upload-button-container\",\n        upload_button: \"upload-button\",\n        photo_uploader: \"photo_uploader\",\n        uploaded_images: \"uploaded-images\",\n        image_upload_errors: \"image-upload-errors\"\n    };\n\n    var cache = {\n        images_count: (window.photoCount) -1,\n        images_currently_uploading: 0,\n        bytes_total: 0,\n        bytes_uploaded: 0,\n        failed_image_count: 0,\n        images_loaded: -1\n    };\n\n    // This method handles paa events and transitions\n    //////////////////////Transitions START//////////////////////////\n    var Transitions = {\n        init: function() {\n            this.events();\n        },\n        events: function() {\n            this.activateButton(id_selectors.classify_category_list_title);\n            $('#' + assigned_ids.photo_uploader).length && this.addTerraUploader();\n            $('div[view=\"split\"]').length && this.splitView();\n            this.delete_photo();\n        },\n        activateButton: function(buttonObj) {\n            //Deactivate the submit button\n            $(id_selectors.classify_category_submit).prop('disabled', true);\n\n            if ($(buttonObj)) {\n                $(buttonObj).keyup(function() {\n                    // Deactivate\n                    if($(buttonObj).val().length === 0 && $(id_selectors.classify_category_submit).hasClass(classes.active_button) === false)\n                        $(id_selectors.classify_category_submit).toggleClass(classes.active_button);\n                    //Activate\n                    else if ($(id_selectors.classify_category_submit).hasClass(classes.active_button) === true && $(buttonObj).val().length > 0){\n                        $(id_selectors.classify_category_submit).toggleClass(classes.active_button);\n                        $(id_selectors.classify_category_submit).prop('disabled', false);\n                    }\n                });\n            }\n        },\n        addTerraUploader: function() {\n            // Preserve main scope 'this'\n            var __this = this;\n\n            //Change uploader location\n            $('#' + assigned_ids.photo_uploader).attr('data-url', window.terraUrl);\n\n            // Add click listener\n            $('#' + assigned_ids.upload_button).click(function() {\n                $('#' + assigned_ids.photo_uploader).click();\n            });\n\n            //Add event listener for terra uploader\n            $('#'+assigned_ids.photo_uploader).fileupload({\n                dataType: 'json',\n                previewMaxWidth: 80,\n                previewMaxHeight: 60,\n                previewCrop: true,\n                fail: function(e){\n                    cache.failed_image_count++;\n                    cache.images_currently_uploading--;\n\n                    if(cache.images_currently_uploading === 0)\n                         this.stop();\n                    $('#'+assigned_ids.image_upload_errors).html('Opps! This is embarrassing '+cache.failed_image_count+' of your images upload failed!');\n                },\n                change: function(e, data){\n                    // if number of images is 10 prevent uploading\n                    if (cache.images_count > 9 || (cache.images_count+ data.files.length) >9)\n                    {\n                        $('#'+assigned_ids.photo_uploader).fileupload('disable');\n                        alert(\"Not done yet what should I do when limit exceeded\");\n                        return;\n                    }\n\n                    cache.images_count+= data.files.length;\n                    cache.images_currently_uploading+= data.files.length;\n                    $('#'+assigned_ids.progress).show();\n                    e = e.originalEvent;\n                    window.loadImage(\n                        e.target.files[0],\n                        function (img) {\n                            $('#'+assigned_ids.micro_thumb_container).html(img);\n                            $('#'+classes.photo_count).html('[ '+cache.images_currently_uploading+' ] Images Uploading');\n                        },\n                        {\n                            fixedWidth: 80,\n                            fixedHeight: 60,\n                            canvas: true,\n                            crop:true\n                        }\n                    );\n                },\n                done: function (e, data) {\n                    var _this = this;\n\n                    // Decrement the uploading images counter\n                    cache.images_currently_uploading--;\n\n                    // Add the image to the page along with its delete button\n                    var count_images = $('#'+assigned_ids.image_container).size() -1;\n                    var urls = data.result['urls'];\n                    var single_image_container = $('<div>')\n                        .attr('class', 'enter-details-single-image-container');\n                    var image = $('<img />')\n                        .attr('class', classes.image_preview)\n                        .attr('id', '_'+cache.images_count);\n                    var delete_button = $('<div>')\n                        .attr('id', 'delete_photo_'+ cache.images_count)\n                        .attr('class', 'enter_details_delete_photo SSPika')\n                        .html('&#x2421;');\n                    $('#'+assigned_ids.upload_container).append(single_image_container);\n                    $(single_image_container).append(delete_button);\n                    $(single_image_container).append(image);\n\n                    // $(single_image_container).parent().show().animate({height:\"100%\", opacity:1}, 800);\n\n                      $(single_image_container).hide() //Hide it\n                        .one('load', function() { //Set something to run when it finishes loading\n                          $(this).fadeIn(); //Fade it in when loaded\n                          $(this).show();\n                          console.log(\"eeee\");\n                        })\n                        .children(\":last\").attr('src', urls['thumb']) //Set the source so it begins fetching\n                        .each(function() {\n                          //Cache fix for browsers that don't trigger .load()\n                          if(this.complete) $(this).trigger('load');\n                        });\n                    // Once image is loaded into the page check if all images uploaded and hide progress bar\n                    $(image).load(function(){\n                        cache.images_loaded++;\n                        if (cache.images_loaded == cache.images_count)\n                        {\n                            // Hide loading bar and image count\n                            $('#'+assigned_ids.upload_image_container).hide();\n                            $('#'+classes.photo_count).hide();\n                        }\n                    });\n\n                    //update on page image count\n                    $('#'+classes.photo_count).html('[ '+cache.images_currently_uploading+' ] Images Uploading');\n\n                    //add hidden input to form with\n                    var $container = $(\"#\"+assigned_ids.uploaded_images);\n                    $container.append($('<input />')\n                        .attr('id', 'photo_'+cache.images_count)\n                        .attr('name', 'photo['+cache.images_count+']')\n                        .attr('value', escape(JSON.stringify(data.result)))\n                        );\n\n                    // Reload the delete_photo listener\n                    __this.delete_photo();\n                },\n                progressall: function (e, data) {\n                    var progress = parseInt(data.loaded / data.total * 100, 10);\n\n                    $('#'+classes.photo_count).show();\n                    $('#'+assigned_ids.upload_image_container).show();\n                    $('#'+assigned_ids.progress+' .'+classes.bar).css(\n                        'width',\n                        progress + '%'\n                    );\n\n                    //Monitor clicks on submit button while uploading (prevent)\n                    $(id_selectors.enter_details_submit).click(function(e) {\n                        e.preventDefault();\n                        $(id_selectors.enter_details_overlay).toggleClass(classes.hidden);\n                        $(id_selectors.enter_details_alert).toggleClass(classes.hidden);\n\n                        $(id_selectors.enter_details_submit_form).click(function(){\n                            $(id_selectors.detail_page_form).submit();\n                        });\n\n                        $(id_selectors.enter_details_return).click(function() {\n                           $(id_selectors.enter_details_overlay).toggleClass(classes.hidden);\n                           $(id_selectors.enter_details_alert).toggleClass(classes.hidden);\n                        });\n                    });\n                },\n                stop: function (e, data){\n                    console.log(cache.images_count);\n                    // Allow click on submit\n                    $(id_selectors.enter_details_submit).unbind('click');\n                    $('#'+assigned_ids.progress).hide();\n                }\n            });\n        },\n        delete_photo: function(){\n                $(\"[id^='delete_photo_']\").unbind('click');\n\n                $(\"[id^='delete_photo_']\").click(function(){\n                $(this).parent().animate({height:\"0px\", overflow:'hidden', opacity:0}, 800, function(){\n                    $(this).remove();\n                    $('#photo'+$(this).children(\":last\").attr('id')).remove();\n                    cache.images_count--;\n                });\n            });\n        },\n        splitView: function(){\n            $('div[view=\"split\"]').click(function(e){\n                if ($(this).children('.section-box').is(\":visible\")){\n                    e.preventDefault();\n                }\n                $(this).children().siblings().hide();\n                $(this).children(class_selectors.split_view).show();\n                $(this).css('position', 'relative');\n                $(this).css('z-index', '15');\n                $(id_selectors.pick_a_category_overlay).show();\n\n                var _this = this;\n                $(id_selectors.pick_a_category_overlay).click(function(){\n                    $(_this).css('', '');\n                    $(_this).children().siblings().show();\n                    $(_this).children(class_selectors.split_view).hide();\n                    $(this).hide();\n                });\n\n            });\n        }\n    };\n    //////////////////////Transitions END//////////////////////////\n\n    $(function() {\n        if ($(id_selectors.paa_page_nav).length) {\n            Transitions.init();\n        }\n    });\n})(jQuery);\n",
+					"file": "/home/dubizzle/webapps/django/dubizzle/quicktest/lettuce/steps/browser/dubizzle/user/steps.py",
 					"settings":
 					{
-						"buffer_size": 12100,
+						"buffer_size": 3224,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/dubizzle/webapps/django/dubizzle/media/js/paa/Codi.js",
+					"file": "/home/dubizzle/webapps/django/dubizzle/paa/features/facebook_connect.feature",
 					"settings":
 					{
-						"buffer_size": 3571,
+						"buffer_size": 6713,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/dubizzle/webapps/django/dubizzle/paa/views/enter_details_views.py",
+					"file": "/home/dubizzle/webapps/django/dubizzle/quicktest/lettuce/steps/browser/elements/steps.py",
 					"settings":
 					{
-						"buffer_size": 6023,
+						"buffer_size": 9773,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/dubizzle/webapps/django/dubizzle/paa/forms.py",
+					"file": "/home/dubizzle/webapps/django/lib/python2.7/site-packages/lettuce/decorators.py",
 					"settings":
 					{
-						"buffer_size": 41513,
+						"buffer_size": 1852,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/base.html",
+					"file": "/home/dubizzle/webapps/django/dubizzle/quicktest/lettuce/steps/browser/elements/finders.py",
 					"settings":
 					{
-						"buffer_size": 4313,
+						"buffer_size": 7837,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/dubizzle/webapps/django/dubizzle/media/js/tools/chosen.jquery.min.js",
+					"file": "/home/dubizzle/webapps/django/dubizzle/settings.py",
 					"settings":
 					{
-						"buffer_size": 38887,
+						"buffer_size": 15670,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"contents": "// Chosen, a Select Box Enhancer for jQuery and Prototype\n// by Patrick Filler for Harvest, http://getharvest.com\n//\n// Version 0.9.14\n// Full source at https://github.com/harvesthq/chosen\n// Copyright (c) 2011 Harvest http://getharvest.com\n\n// MIT License, https://github.com/harvesthq/chosen/blob/master/LICENSE.md\n// This file is generated by `cake build`, do not edit it by hand.\n(function() {\n  var SelectParser;\n\n  SelectParser = (function() {\n\n    function SelectParser() {\n      this.options_index = 0;\n      this.parsed = [];\n    }\n\n    SelectParser.prototype.add_node = function(child) {\n      if (child.nodeName.toUpperCase() === \"OPTGROUP\") {\n        return this.add_group(child);\n      } else {\n        return this.add_option(child);\n      }\n    };\n\n    SelectParser.prototype.add_group = function(group) {\n      var group_position, option, _i, _len, _ref, _results;\n      group_position = this.parsed.length;\n      this.parsed.push({\n        array_index: group_position,\n        group: true,\n        label: group.label,\n        children: 0,\n        disabled: group.disabled\n      });\n      _ref = group.childNodes;\n      _results = [];\n      for (_i = 0, _len = _ref.length; _i < _len; _i++) {\n        option = _ref[_i];\n        _results.push(this.add_option(option, group_position, group.disabled));\n      }\n      return _results;\n    };\n\n    SelectParser.prototype.add_option = function(option, group_position, group_disabled) {\n      if (option.nodeName.toUpperCase() === \"OPTION\") {\n        if (option.text !== \"\") {\n          if (group_position != null) {\n            this.parsed[group_position].children += 1;\n          }\n          this.parsed.push({\n            array_index: this.parsed.length,\n            options_index: this.options_index,\n            value: option.value,\n            text: option.text,\n            html: option.innerHTML,\n            selected: option.selected,\n            disabled: group_disabled === true ? group_disabled : option.disabled,\n            group_array_index: group_position,\n            classes: option.className,\n            style: option.style.cssText\n          });\n        } else {\n          this.parsed.push({\n            array_index: this.parsed.length,\n            options_index: this.options_index,\n            empty: true\n          });\n        }\n        return this.options_index += 1;\n      }\n    };\n\n    return SelectParser;\n\n  })();\n\n  SelectParser.select_to_array = function(select) {\n    var child, parser, _i, _len, _ref;\n    parser = new SelectParser();\n    _ref = select.childNodes;\n    for (_i = 0, _len = _ref.length; _i < _len; _i++) {\n      child = _ref[_i];\n      parser.add_node(child);\n    }\n    return parser.parsed;\n  };\n\n  this.SelectParser = SelectParser;\n\n}).call(this);\n\n/*\nChosen source: generate output using 'cake build'\nCopyright (c) 2011 by Harvest\n*/\n\n\n(function() {\n  var AbstractChosen, root;\n\n  root = this;\n\n  AbstractChosen = (function() {\n\n    function AbstractChosen(form_field, options) {\n      this.form_field = form_field;\n      this.options = options != null ? options : {};\n      if (!AbstractChosen.browser_is_supported()) {\n        return;\n      }\n      this.is_multiple = this.form_field.multiple;\n      this.set_default_text();\n      this.set_default_values();\n      this.setup();\n      this.set_up_html();\n      this.register_observers();\n      this.finish_setup();\n    }\n\n    AbstractChosen.prototype.set_default_values = function() {\n      var _this = this;\n      this.click_test_action = function(evt) {\n        return _this.test_active_click(evt);\n      };\n      this.activate_action = function(evt) {\n        return _this.activate_field(evt);\n      };\n      this.active_field = false;\n      this.mouse_on_container = false;\n      this.results_showing = false;\n      this.result_highlighted = null;\n      this.result_single_selected = null;\n      this.allow_single_deselect = (this.options.allow_single_deselect != null) && (this.form_field.options[0] != null) && this.form_field.options[0].text === \"\" ? this.options.allow_single_deselect : false;\n      this.disable_search_threshold = this.options.disable_search_threshold || 0;\n      this.disable_search = this.options.disable_search || false;\n      this.enable_split_word_search = this.options.enable_split_word_search != null ? this.options.enable_split_word_search : true;\n      this.search_contains = this.options.search_contains || false;\n      this.choices = 0;\n      this.single_backstroke_delete = this.options.single_backstroke_delete || false;\n      this.max_selected_options = 1;\n      return this.inherit_select_classes = this.options.inherit_select_classes || false;\n    };\n\n    AbstractChosen.prototype.set_default_text = function() {\n      if (this.form_field.getAttribute(\"data-placeholder\")) {\n        this.default_text = this.form_field.getAttribute(\"data-placeholder\");\n      } else if (this.is_multiple) {\n        this.default_text = this.options.placeholder_text_multiple || this.options.placeholder_text || AbstractChosen.default_multiple_text;\n      } else {\n        this.default_text = this.options.placeholder_text_single || this.options.placeholder_text || AbstractChosen.default_single_text;\n      }\n      return this.results_none_found = this.form_field.getAttribute(\"data-no_results_text\") || this.options.no_results_text || AbstractChosen.default_no_result_text;\n    };\n\n    AbstractChosen.prototype.mouse_enter = function() {\n      return this.mouse_on_container = true;\n    };\n\n    AbstractChosen.prototype.mouse_leave = function() {\n      return this.mouse_on_container = false;\n    };\n\n    AbstractChosen.prototype.input_focus = function(evt) {\n      var _this = this;\n      if (this.is_multiple) {\n        if (!this.active_field) {\n          return setTimeout((function() {\n            return _this.container_mousedown();\n          }), 50);\n        }\n      } else {\n        if (!this.active_field) {\n          return this.activate_field();\n        }\n      }\n    };\n\n    AbstractChosen.prototype.input_blur = function(evt) {\n      var _this = this;\n      if (!this.mouse_on_container) {\n        this.active_field = false;\n        return setTimeout((function() {\n          return _this.blur_test();\n        }), 100);\n      }\n    };\n\n    AbstractChosen.prototype.result_add_option = function(option) {\n      var classes, style;\n      if (!option.disabled) {\n        option.dom_id = this.container_id + \"_o_\" + option.array_index;\n        classes = option.selected && this.is_multiple ? [] : [\"active-result\"];\n        if (option.selected) {\n          classes.push(\"result-selected\");\n        }\n        if (option.group_array_index != null) {\n          classes.push(\"group-option\");\n        }\n        if (option.classes !== \"\") {\n          classes.push(option.classes);\n        }\n        style = option.style.cssText !== \"\" ? \" style=\\\"\" + option.style + \"\\\"\" : \"\";\n        return '<li id=\"' + option.dom_id + '\" class=\"' + classes.join(' ') + '\"' + style + '>' + option.html + '</li>';\n      } else {\n        return \"\";\n      }\n    };\n\n    AbstractChosen.prototype.results_update_field = function() {\n      this.set_default_text();\n      if (!this.is_multiple) {\n        this.results_reset_cleanup();\n      }\n      this.result_clear_highlight();\n      this.result_single_selected = null;\n      return this.results_build();\n    };\n\n    AbstractChosen.prototype.results_toggle = function() {\n      if (this.results_showing) {\n        return this.results_hide();\n      } else {\n        return this.results_show();\n      }\n    };\n\n    AbstractChosen.prototype.results_search = function(evt) {\n      if (this.results_showing) {\n        return this.winnow_results();\n      } else {\n        return this.results_show();\n      }\n    };\n\n    AbstractChosen.prototype.choices_click = function(evt) {\n      evt.preventDefault();\n      if (!this.results_showing) {\n        return this.results_show();\n      }\n    };\n\n    AbstractChosen.prototype.keyup_checker = function(evt) {\n      var stroke, _ref;\n      stroke = (_ref = evt.which) != null ? _ref : evt.keyCode;\n      this.search_field_scale();\n      switch (stroke) {\n        case 8:\n          if (this.is_multiple && this.backstroke_length < 1 && this.choices > 0) {\n            return this.keydown_backstroke();\n          } else if (!this.pending_backstroke) {\n            this.result_clear_highlight();\n            return this.results_search();\n          }\n          break;\n        case 13:\n          evt.preventDefault();\n          if (this.results_showing) {\n            return this.result_select(evt);\n          }\n          break;\n        case 27:\n          if (this.results_showing) {\n            this.results_hide();\n          }\n          return true;\n        case 9:\n        case 38:\n        case 40:\n        case 16:\n        case 91:\n        case 17:\n          break;\n        default:\n          return this.results_search();\n      }\n    };\n\n    AbstractChosen.prototype.generate_field_id = function() {\n      var new_id;\n      new_id = this.generate_random_id();\n      this.form_field.id = new_id;\n      return new_id;\n    };\n\n    AbstractChosen.prototype.generate_random_char = function() {\n      var chars, newchar, rand;\n      chars = \"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ\";\n      rand = Math.floor(Math.random() * chars.length);\n      return newchar = chars.substring(rand, rand + 1);\n    };\n\n    AbstractChosen.prototype.container_width = function() {\n      var width;\n      if (this.options.width != null) {\n        return this.options.width;\n      }\n      width = window.getComputedStyle != null ? parseFloat(window.getComputedStyle(this.form_field).getPropertyValue('width')) : (typeof jQuery !== \"undefined\" && jQuery !== null) && (this.form_field_jq != null) ? this.form_field_jq.outerWidth() : this.form_field.getWidth();\n      return width + \"px\";\n    };\n\n    AbstractChosen.browser_is_supported = function() {\n      var _ref;\n      if (window.navigator.appName === \"Microsoft Internet Explorer\") {\n        return (null !== (_ref = document.documentMode) && _ref >= 8);\n      }\n      return true;\n    };\n\n    AbstractChosen.default_multiple_text = \"Please make a selection\";\n\n    AbstractChosen.default_single_text = \"Please make a selection\";\n\n    AbstractChosen.default_no_result_text = \"No results match\";\n\n    return AbstractChosen;\n\n  })();\n\n  root.AbstractChosen = AbstractChosen;\n\n}).call(this);\n\n/*\nChosen source: generate output using 'cake build'\nCopyright (c) 2011 by Harvest\n*/\n\n\n(function() {\n  var $, Chosen, root,\n    __hasProp = {}.hasOwnProperty,\n    __extends = function(child, parent) { for (var key in parent) { if (__hasProp.call(parent, key)) child[key] = parent[key]; } function ctor() { this.constructor = child; } ctor.prototype = parent.prototype; child.prototype = new ctor(); child.__super__ = parent.prototype; return child; };\n\n  root = this;\n\n  $ = jQuery;\n\n  $.fn.extend({\n    chosen: function(options) {\n      if (!AbstractChosen.browser_is_supported()) {\n        return this;\n      }\n      return this.each(function(input_field) {\n        var $this;\n        $this = $(this);\n        if (!$this.hasClass(\"chzn-done\")) {\n          return $this.data('chosen', new Chosen(this, options));\n        }\n      });\n    }\n  });\n\n  Chosen = (function(_super) {\n\n    __extends(Chosen, _super);\n\n    function Chosen() {\n      return Chosen.__super__.constructor.apply(this, arguments);\n    }\n\n    Chosen.prototype.setup = function() {\n      this.form_field_jq = $(this.form_field);\n      this.current_selectedIndex = this.form_field.selectedIndex;\n      return this.is_rtl = this.form_field_jq.hasClass(\"chzn-rtl\");\n    };\n\n    Chosen.prototype.finish_setup = function() {\n      return this.form_field_jq.addClass(\"chzn-done\");\n    };\n\n    Chosen.prototype.set_up_html = function() {\n      var container_classes, container_props;\n      this.container_id = this.form_field.id.length ? this.form_field.id.replace(/[^\\w]/g, '_') : this.generate_field_id();\n      this.container_id += \"_chzn\";\n      container_classes = [\"chzn-container\"];\n      container_classes.push(\"chzn-container-\" + (this.is_multiple ? \"multi\" : \"single\"));\n      if (this.inherit_select_classes && this.form_field.className) {\n        container_classes.push(this.form_field.className);\n      }\n      if (this.is_rtl) {\n        container_classes.push(\"chzn-rtl\");\n      }\n      container_props = {\n        'id': this.container_id,\n        'class': container_classes.join(' '),\n        'title': this.form_field.title\n      };\n      this.container = $(\"<div />\", container_props);\n      if (this.is_multiple) {\n        this.container.html('<ul class=\"chzn-choices\"><li class=\"search-field\"><input type=\"text\" value=\"' + this.default_text + '\" class=\"default\" autocomplete=\"off\" style=\"width:25px;\" /></li></ul><div class=\"chzn-drop\"><ul class=\"chzn-results\"></ul></div>');\n      } else {\n        this.container.html('<a href=\"javascript:void(0)\" class=\"chzn-single chzn-default\" tabindex=\"-1\"><span>' + this.default_text + '</span><div><b></b></div></a><div class=\"chzn-drop\"><div class=\"chzn-search\"><input type=\"text\" autocomplete=\"off\" /></div><ul class=\"chzn-results\"></ul></div>');\n      }\n      this.form_field_jq.hide().after(this.container);\n      this.dropdown = this.container.find('div.chzn-drop').first();\n      this.search_field = this.container.find('input').first();\n      this.search_results = this.container.find('ul.chzn-results').first();\n      this.search_field_scale();\n      this.search_no_results = this.container.find('li.no-results').first();\n      if (this.is_multiple) {\n        this.search_choices = this.container.find('ul.chzn-choices').first();\n        this.search_container = this.container.find('li.search-field').first();\n      } else {\n        this.search_container = this.container.find('div.chzn-search').first();\n        this.selected_item = this.container.find('.chzn-single').first();\n      }\n      this.results_build();\n      this.set_tab_index();\n      this.set_label_behavior();\n      return this.form_field_jq.trigger(\"liszt:ready\", {\n        chosen: this\n      });\n    };\n\n    Chosen.prototype.register_observers = function() {\n      var _this = this;\n      this.container.mousedown(function(evt) {\n        _this.container_mousedown(evt);\n      });\n      this.container.mouseup(function(evt) {\n        _this.container_mouseup(evt);\n      });\n      this.container.mouseenter(function(evt) {\n        _this.mouse_enter(evt);\n      });\n      this.container.mouseleave(function(evt) {\n        _this.mouse_leave(evt);\n      });\n      this.search_results.mouseup(function(evt) {\n        _this.search_results_mouseup(evt);\n      });\n      this.search_results.mouseover(function(evt) {\n        _this.search_results_mouseover(evt);\n      });\n      this.search_results.mouseout(function(evt) {\n        _this.search_results_mouseout(evt);\n      });\n      this.search_results.bind('mousewheel DOMMouseScroll', function(evt) {\n        _this.search_results_mousewheel(evt);\n      });\n      this.form_field_jq.bind(\"liszt:updated\", function(evt) {\n        _this.results_update_field(evt);\n      });\n      this.form_field_jq.bind(\"liszt:activate\", function(evt) {\n        _this.activate_field(evt);\n      });\n      this.form_field_jq.bind(\"liszt:open\", function(evt) {\n        _this.container_mousedown(evt);\n      });\n      this.search_field.blur(function(evt) {\n        _this.input_blur(evt);\n      });\n      this.search_field.keyup(function(evt) {\n        _this.keyup_checker(evt);\n      });\n      this.search_field.keydown(function(evt) {\n        _this.keydown_checker(evt);\n      });\n      this.search_field.focus(function(evt) {\n        _this.input_focus(evt);\n      });\n      if (this.is_multiple) {\n        return this.search_choices.click(function(evt) {\n          _this.choices_click(evt);\n        });\n      } else {\n        return this.container.click(function(evt) {\n          evt.preventDefault();\n        });\n      }\n    };\n\n    Chosen.prototype.search_field_disabled = function() {\n      this.is_disabled = this.form_field_jq[0].disabled;\n      if (this.is_disabled) {\n        this.container.addClass('chzn-disabled');\n        this.search_field[0].disabled = true;\n        if (!this.is_multiple) {\n          this.selected_item.unbind(\"focus\", this.activate_action);\n        }\n        return this.close_field();\n      } else {\n        this.container.removeClass('chzn-disabled');\n        this.search_field[0].disabled = false;\n        if (!this.is_multiple) {\n          return this.selected_item.bind(\"focus\", this.activate_action);\n        }\n      }\n    };\n\n    Chosen.prototype.container_mousedown = function(evt) {\n      if (!this.is_disabled) {\n        if (evt && evt.type === \"mousedown\" && !this.results_showing) {\n          evt.preventDefault();\n        }\n        if (!((evt != null) && ($(evt.target)).hasClass(\"search-choice-close\"))) {\n          if (!this.active_field) {\n            if (this.is_multiple) {\n              this.search_field.val(\"\");\n            }\n            $(document).click(this.click_test_action);\n            this.results_show();\n          } else if (!this.is_multiple && evt && (($(evt.target)[0] === this.selected_item[0]) || $(evt.target).parents(\"a.chzn-single\").length)) {\n            evt.preventDefault();\n            this.results_toggle();\n          }\n          return this.activate_field();\n        }\n      }\n    };\n\n    Chosen.prototype.container_mouseup = function(evt) {\n      if (evt.target.nodeName === \"ABBR\" && !this.is_disabled) {\n        return this.results_reset(evt);\n      }\n    };\n\n    Chosen.prototype.search_results_mousewheel = function(evt) {\n      var delta, _ref, _ref1;\n      delta = -((_ref = evt.originalEvent) != null ? _ref.wheelDelta : void 0) || ((_ref1 = evt.originialEvent) != null ? _ref1.detail : void 0);\n      if (delta != null) {\n        evt.preventDefault();\n        if (evt.type === 'DOMMouseScroll') {\n          delta = delta * 40;\n        }\n        return this.search_results.scrollTop(delta + this.search_results.scrollTop());\n      }\n    };\n\n    Chosen.prototype.blur_test = function(evt) {\n      if (!this.active_field && this.container.hasClass(\"chzn-container-active\")) {\n        return this.close_field();\n      }\n    };\n\n    Chosen.prototype.close_field = function() {\n      $(document).unbind(\"click\", this.click_test_action);\n      this.active_field = false;\n      this.results_hide();\n      this.container.removeClass(\"chzn-container-active\");\n      this.winnow_results_clear();\n      this.clear_backstroke();\n      this.show_search_field_default();\n      return this.search_field_scale();\n    };\n\n    Chosen.prototype.activate_field = function() {\n      this.container.addClass(\"chzn-container-active\");\n      this.active_field = true;\n      this.search_field.val(this.search_field.val());\n      return this.search_field.focus();\n    };\n\n    Chosen.prototype.test_active_click = function(evt) {\n      if ($(evt.target).parents('#' + this.container_id).length) {\n        return this.active_field = true;\n      } else {\n        return this.close_field();\n      }\n    };\n\n    Chosen.prototype.results_build = function() {\n      var content, data, _i, _len, _ref;\n      this.parsing = true;\n      this.results_data = root.SelectParser.select_to_array(this.form_field);\n      if (this.is_multiple && this.choices > 0) {\n        this.search_choices.find(\"li.search-choice\").remove();\n        this.choices = 0;\n      } else if (!this.is_multiple) {\n        this.selected_item.addClass(\"chzn-default\").find(\"span\").text(this.default_text);\n        if (this.disable_search || this.form_field.options.length <= this.disable_search_threshold) {\n          this.container.addClass(\"chzn-container-single-nosearch\");\n        } else {\n          this.container.removeClass(\"chzn-container-single-nosearch\");\n        }\n      }\n      content = '';\n      _ref = this.results_data;\n      for (_i = 0, _len = _ref.length; _i < _len; _i++) {\n        data = _ref[_i];\n        if (data.group) {\n          content += this.result_add_group(data);\n        } else if (!data.empty) {\n          content += this.result_add_option(data);\n          if (data.selected && this.is_multiple) {\n            this.choice_build(data);\n          } else if (data.selected && !this.is_multiple) {\n            this.selected_item.removeClass(\"chzn-default\").find(\"span\").text(data.text);\n            if (this.allow_single_deselect) {\n              this.single_deselect_control_build();\n            }\n          }\n        }\n      }\n      this.search_field_disabled();\n      this.show_search_field_default();\n      this.search_field_scale();\n      this.search_results.html(content);\n      return this.parsing = false;\n    };\n\n    Chosen.prototype.result_add_group = function(group) {\n      if (!group.disabled) {\n        group.dom_id = this.container_id + \"_g_\" + group.array_index;\n        return '<li id=\"' + group.dom_id + '\" class=\"group-result\">' + $(\"<div />\").text(group.label).html() + '</li>';\n      } else {\n        return \"\";\n      }\n    };\n\n    Chosen.prototype.result_do_highlight = function(el) {\n      var high_bottom, high_top, maxHeight, visible_bottom, visible_top;\n      if (el.length) {\n        this.result_clear_highlight();\n        this.result_highlight = el;\n        this.result_highlight.addClass(\"highlighted\");\n        maxHeight = parseInt(this.search_results.css(\"maxHeight\"), 10);\n        visible_top = this.search_results.scrollTop();\n        visible_bottom = maxHeight + visible_top;\n        high_top = this.result_highlight.position().top + this.search_results.scrollTop();\n        high_bottom = high_top + this.result_highlight.outerHeight();\n        if (high_bottom >= visible_bottom) {\n          return this.search_results.scrollTop((high_bottom - maxHeight) > 0 ? high_bottom - maxHeight : 0);\n        } else if (high_top < visible_top) {\n          return this.search_results.scrollTop(high_top);\n        }\n      }\n    };\n\n    Chosen.prototype.result_clear_highlight = function() {\n      if (this.result_highlight) {\n        this.result_highlight.removeClass(\"highlighted\");\n      }\n      return this.result_highlight = null;\n    };\n\n    Chosen.prototype.results_show = function() {\n      if (this.result_single_selected != null) {\n        this.result_do_highlight(this.result_single_selected);\n      } else if (this.is_multiple && this.max_selected_options <= this.choices) {\n        this.form_field_jq.trigger(\"liszt:maxselected\", {\n          chosen: this\n        });\n        return false;\n      }\n      this.container.addClass(\"chzn-with-drop\");\n      this.form_field_jq.trigger(\"liszt:showing_dropdown\", {\n        chosen: this\n      });\n      this.results_showing = true;\n      this.search_field.focus();\n      this.search_field.val(this.search_field.val());\n      return this.winnow_results();\n    };\n\n    Chosen.prototype.results_hide = function() {\n      this.result_clear_highlight();\n      this.container.removeClass(\"chzn-with-drop\");\n      this.form_field_jq.trigger(\"liszt:hiding_dropdown\", {\n        chosen: this\n      });\n      return this.results_showing = false;\n    };\n\n    Chosen.prototype.set_tab_index = function(el) {\n      var ti;\n      if (this.form_field_jq.attr(\"tabindex\")) {\n        ti = this.form_field_jq.attr(\"tabindex\");\n        this.form_field_jq.attr(\"tabindex\", -1);\n        return this.search_field.attr(\"tabindex\", ti);\n      }\n    };\n\n    Chosen.prototype.set_label_behavior = function() {\n      var _this = this;\n      this.form_field_label = this.form_field_jq.parents(\"label\");\n      if (!this.form_field_label.length && this.form_field.id.length) {\n        this.form_field_label = $(\"label[for=\" + this.form_field.id + \"]\");\n      }\n      if (this.form_field_label.length > 0) {\n        return this.form_field_label.click(function(evt) {\n          if (_this.is_multiple) {\n            return _this.container_mousedown(evt);\n          } else {\n            return _this.activate_field();\n          }\n        });\n      }\n    };\n\n    Chosen.prototype.show_search_field_default = function() {\n      if (this.is_multiple && this.choices < 1 && !this.active_field) {\n        this.search_field.val(this.default_text);\n        return this.search_field.addClass(\"default\");\n      } else {\n        this.search_field.val(\"\");\n        return this.search_field.removeClass(\"default\");\n      }\n    };\n\n    Chosen.prototype.search_results_mouseup = function(evt) {\n      var target;\n      target = $(evt.target).hasClass(\"active-result\") ? $(evt.target) : $(evt.target).parents(\".active-result\").first();\n      if (target.length) {\n        this.result_highlight = target;\n        this.result_select(evt);\n        return this.search_field.focus();\n      }\n    };\n\n    Chosen.prototype.search_results_mouseover = function(evt) {\n      var target;\n      target = $(evt.target).hasClass(\"active-result\") ? $(evt.target) : $(evt.target).parents(\".active-result\").first();\n      if (target) {\n        return this.result_do_highlight(target);\n      }\n    };\n\n    Chosen.prototype.search_results_mouseout = function(evt) {\n      if ($(evt.target).hasClass(\"active-result\" || $(evt.target).parents('.active-result').first())) {\n        return this.result_clear_highlight();\n      }\n    };\n\n    Chosen.prototype.choice_build = function(item) {\n      var choice_id, html, link,\n        _this = this;\n      if (this.is_multiple && this.max_selected_options <= this.choices) {\n        this.form_field_jq.trigger(\"liszt:maxselected\", {\n          chosen: this\n        });\n        return false;\n      }\n      choice_id = this.container_id + \"_c_\" + item.array_index;\n      this.choices += 1;\n      if (item.disabled) {\n        html = '<li class=\"search-choice search-choice-disabled\" id=\"' + choice_id + '\"><span>' + item.html + '</span></li>';\n      } else {\n        html = '<li class=\"search-choice\" id=\"' + choice_id + '\"><span>' + item.html + '</span><a href=\"javascript:void(0)\" class=\"search-choice-close\" rel=\"' + item.array_index + '\"></a></li>';\n      }\n      this.search_container.before(html);\n      link = $('#' + choice_id).find(\"a\").first();\n      return link.click(function(evt) {\n        return _this.choice_destroy_link_click(evt);\n      });\n    };\n\n    Chosen.prototype.choice_destroy_link_click = function(evt) {\n      evt.preventDefault();\n      evt.stopPropagation();\n      if (!this.is_disabled) {\n        return this.choice_destroy($(evt.target));\n      }\n    };\n\n    Chosen.prototype.choice_destroy = function(link) {\n      if (this.result_deselect(link.attr(\"rel\"))) {\n        this.choices -= 1;\n        this.show_search_field_default();\n        if (this.is_multiple && this.choices > 0 && this.search_field.val().length < 1) {\n          this.results_hide();\n        }\n        link.parents('li').first().remove();\n        return this.search_field_scale();\n      }\n    };\n\n    Chosen.prototype.results_reset = function() {\n      this.form_field.options[0].selected = true;\n      this.selected_item.find(\"span\").text(this.default_text);\n      if (!this.is_multiple) {\n        this.selected_item.addClass(\"chzn-default\");\n      }\n      this.show_search_field_default();\n      this.results_reset_cleanup();\n      this.form_field_jq.trigger(\"change\");\n      if (this.active_field) {\n        return this.results_hide();\n      }\n    };\n\n    Chosen.prototype.results_reset_cleanup = function() {\n      this.current_selectedIndex = this.form_field.selectedIndex;\n      return this.selected_item.find(\"abbr\").remove();\n    };\n\n    Chosen.prototype.result_select = function(evt) {\n      var high, high_id, item, position;\n      if (this.result_highlight) {\n        high = this.result_highlight;\n        high_id = high.attr(\"id\");\n        this.result_clear_highlight();\n        if (this.is_multiple) {\n          this.result_deactivate(high);\n        } else {\n          this.search_results.find(\".result-selected\").removeClass(\"result-selected\");\n          this.result_single_selected = high;\n          this.selected_item.removeClass(\"chzn-default\");\n        }\n        high.addClass(\"result-selected\");\n        position = high_id.substr(high_id.lastIndexOf(\"_\") + 1);\n        item = this.results_data[position];\n        item.selected = true;\n        this.form_field.options[item.options_index].selected = true;\n        if (this.is_multiple) {\n          this.choice_build(item);\n        } else {\n          this.selected_item.find(\"span\").first().text(item.text);\n          if (this.allow_single_deselect) {\n            this.single_deselect_control_build();\n          }\n        }\n        if (!((evt.metaKey || evt.ctrlKey) && this.is_multiple)) {\n          this.results_hide();\n        }\n        this.search_field.val(\"\");\n        if (this.is_multiple || this.form_field.selectedIndex !== this.current_selectedIndex) {\n          this.form_field_jq.trigger(\"change\", {\n            'selected': this.form_field.options[item.options_index].value\n          });\n        }\n        this.current_selectedIndex = this.form_field.selectedIndex;\n        return this.search_field_scale();\n      }\n    };\n\n    Chosen.prototype.result_activate = function(el) {\n      return el.addClass(\"active-result\");\n    };\n\n    Chosen.prototype.result_deactivate = function(el) {\n      return el.removeClass(\"active-result\");\n    };\n\n    Chosen.prototype.result_deselect = function(pos) {\n      var result, result_data;\n      result_data = this.results_data[pos];\n      if (!this.form_field.options[result_data.options_index].disabled) {\n        result_data.selected = false;\n        this.form_field.options[result_data.options_index].selected = false;\n        result = $(\"#\" + this.container_id + \"_o_\" + pos);\n        result.removeClass(\"result-selected\").addClass(\"active-result\").show();\n        this.result_clear_highlight();\n        this.winnow_results();\n        this.form_field_jq.trigger(\"change\", {\n          deselected: this.form_field.options[result_data.options_index].value\n        });\n        this.search_field_scale();\n        return true;\n      } else {\n        return false;\n      }\n    };\n\n    Chosen.prototype.single_deselect_control_build = function() {\n      if (this.allow_single_deselect && this.selected_item.find(\"abbr\").length < 1) {\n        return this.selected_item.find(\"span\").first().after(\"<abbr class=\\\"search-choice-close\\\"></abbr>\");\n      }\n    };\n\n    Chosen.prototype.winnow_results = function() {\n      var found, option, part, parts, regex, regexAnchor, result, result_id, results, searchText, startpos, text, zregex, _i, _j, _len, _len1, _ref;\n      this.no_results_clear();\n      results = 0;\n      searchText = this.search_field.val() === this.default_text ? \"\" : $('<div/>').text($.trim(this.search_field.val())).html();\n      regexAnchor = this.search_contains ? \"\" : \"^\";\n      regex = new RegExp(regexAnchor + searchText.replace(/[-[\\]{}()*+?.,\\\\^$|#\\s]/g, \"\\\\$&\"), 'i');\n      zregex = new RegExp(searchText.replace(/[-[\\]{}()*+?.,\\\\^$|#\\s]/g, \"\\\\$&\"), 'i');\n      _ref = this.results_data;\n      for (_i = 0, _len = _ref.length; _i < _len; _i++) {\n        option = _ref[_i];\n        if (!option.disabled && !option.empty) {\n          if (option.group) {\n            $('#' + option.dom_id).css('display', 'none');\n          } else if (!(this.is_multiple && option.selected)) {\n            found = false;\n            result_id = option.dom_id;\n            result = $(\"#\" + result_id);\n            if (regex.test(option.html)) {\n              found = true;\n              results += 1;\n            } else if (this.enable_split_word_search && (option.html.indexOf(\" \") >= 0 || option.html.indexOf(\"[\") === 0)) {\n              parts = option.html.replace(/\\[|\\]/g, \"\").split(\" \");\n              if (parts.length) {\n                for (_j = 0, _len1 = parts.length; _j < _len1; _j++) {\n                  part = parts[_j];\n                  if (regex.test(part)) {\n                    found = true;\n                    results += 1;\n                  }\n                }\n              }\n            }\n            if (found) {\n              if (searchText.length) {\n                startpos = option.html.search(zregex);\n                text = option.html.substr(0, startpos + searchText.length) + '</em>' + option.html.substr(startpos + searchText.length);\n                text = text.substr(0, startpos) + '<em>' + text.substr(startpos);\n              } else {\n                text = option.html;\n              }\n              result.html(text);\n              this.result_activate(result);\n              if (option.group_array_index != null) {\n                $(\"#\" + this.results_data[option.group_array_index].dom_id).css('display', 'list-item');\n              }\n            } else {\n              if (this.result_highlight && result_id === this.result_highlight.attr('id')) {\n                this.result_clear_highlight();\n              }\n              this.result_deactivate(result);\n            }\n          }\n        }\n      }\n      if (results < 1 && searchText.length) {\n        return this.no_results(searchText);\n      } else {\n        return this.winnow_results_set_highlight();\n      }\n    };\n\n    Chosen.prototype.winnow_results_clear = function() {\n      var li, lis, _i, _len, _results;\n      this.search_field.val(\"\");\n      lis = this.search_results.find(\"li\");\n      _results = [];\n      for (_i = 0, _len = lis.length; _i < _len; _i++) {\n        li = lis[_i];\n        li = $(li);\n        if (li.hasClass(\"group-result\")) {\n          _results.push(li.css('display', 'auto'));\n        } else if (!this.is_multiple || !li.hasClass(\"result-selected\")) {\n          _results.push(this.result_activate(li));\n        } else {\n          _results.push(void 0);\n        }\n      }\n      return _results;\n    };\n\n    Chosen.prototype.winnow_results_set_highlight = function() {\n      var do_high, selected_results;\n      if (!this.result_highlight) {\n        selected_results = !this.is_multiple ? this.search_results.find(\".result-selected.active-result\") : [];\n        do_high = selected_results.length ? selected_results.first() : this.search_results.find(\".active-result\").first();\n        if (do_high != null) {\n          return this.result_do_highlight(do_high);\n        }\n      }\n    };\n\n    Chosen.prototype.no_results = function(terms) {\n      var no_results_html;\n      no_results_html = $('<li class=\"no-results\">' + this.results_none_found + ' \"<span></span>\"</li>');\n      no_results_html.find(\"span\").first().html(terms);\n      return this.search_results.append(no_results_html);\n    };\n\n    Chosen.prototype.no_results_clear = function() {\n      return this.search_results.find(\".no-results\").remove();\n    };\n\n    Chosen.prototype.keydown_arrow = function() {\n      var first_active, next_sib;\n      if (!this.result_highlight) {\n        first_active = this.search_results.find(\"li.active-result\").first();\n        if (first_active) {\n          this.result_do_highlight($(first_active));\n        }\n      } else if (this.results_showing) {\n        next_sib = this.result_highlight.nextAll(\"li.active-result\").first();\n        if (next_sib) {\n          this.result_do_highlight(next_sib);\n        }\n      }\n      if (!this.results_showing) {\n        return this.results_show();\n      }\n    };\n\n    Chosen.prototype.keyup_arrow = function() {\n      var prev_sibs;\n      if (!this.results_showing && !this.is_multiple) {\n        return this.results_show();\n      } else if (this.result_highlight) {\n        prev_sibs = this.result_highlight.prevAll(\"li.active-result\");\n        if (prev_sibs.length) {\n          return this.result_do_highlight(prev_sibs.first());\n        } else {\n          if (this.choices > 0) {\n            this.results_hide();\n          }\n          return this.result_clear_highlight();\n        }\n      }\n    };\n\n    Chosen.prototype.keydown_backstroke = function() {\n      var next_available_destroy;\n      if (this.pending_backstroke) {\n        this.choice_destroy(this.pending_backstroke.find(\"a\").first());\n        return this.clear_backstroke();\n      } else {\n        next_available_destroy = this.search_container.siblings(\"li.search-choice\").last();\n        if (next_available_destroy.length && !next_available_destroy.hasClass(\"search-choice-disabled\")) {\n          this.pending_backstroke = next_available_destroy;\n          if (this.single_backstroke_delete) {\n            return this.keydown_backstroke();\n          } else {\n            return this.pending_backstroke.addClass(\"search-choice-focus\");\n          }\n        }\n      }\n    };\n\n    Chosen.prototype.clear_backstroke = function() {\n      if (this.pending_backstroke) {\n        this.pending_backstroke.removeClass(\"search-choice-focus\");\n      }\n      return this.pending_backstroke = null;\n    };\n\n    Chosen.prototype.keydown_checker = function(evt) {\n      var stroke, _ref;\n      stroke = (_ref = evt.which) != null ? _ref : evt.keyCode;\n      this.search_field_scale();\n      if (stroke !== 8 && this.pending_backstroke) {\n        this.clear_backstroke();\n      }\n      switch (stroke) {\n        case 8:\n          this.backstroke_length = this.search_field.val().length;\n          break;\n        case 9:\n          if (this.results_showing && !this.is_multiple) {\n            this.result_select(evt);\n          }\n          this.mouse_on_container = false;\n          break;\n        case 13:\n          evt.preventDefault();\n          break;\n        case 38:\n          evt.preventDefault();\n          this.keyup_arrow();\n          break;\n        case 40:\n          this.keydown_arrow();\n          break;\n      }\n    };\n\n    Chosen.prototype.search_field_scale = function() {\n      var div, h, style, style_block, styles, w, _i, _len;\n      if (this.is_multiple) {\n        h = 0;\n        w = 0;\n        style_block = \"position:absolute; left: -1000px; top: -1000px; display:none;\";\n        styles = ['font-size', 'font-style', 'font-weight', 'font-family', 'line-height', 'text-transform', 'letter-spacing'];\n        for (_i = 0, _len = styles.length; _i < _len; _i++) {\n          style = styles[_i];\n          style_block += style + \":\" + this.search_field.css(style) + \";\";\n        }\n        div = $('<div />', {\n          'style': style_block\n        });\n        div.text(this.search_field.val());\n        $('body').append(div);\n        w = div.width() + 25;\n        div.remove();\n        if (!this.f_width) {\n          this.f_width = this.container.outerWidth();\n        }\n        if (w > this.f_width - 10) {\n          w = this.f_width - 10;\n        }\n        return this.search_field.css({\n          'width':  '95%'\n        });\n      }\n    };\n\n    Chosen.prototype.generate_random_id = function() {\n      var string;\n      string = \"sel\" + this.generate_random_char() + this.generate_random_char() + this.generate_random_char();\n      while ($(\"#\" + string).length > 0) {\n        string += this.generate_random_char();\n      }\n      return string;\n    };\n\n    return Chosen;\n\n  })(AbstractChosen);\n\n  root.Chosen = Chosen;\n\n}).call(this);\n",
+					"file": "/home/dubizzle/webapps/django/dubizzle/paa/features/steps.py",
 					"settings":
 					{
-						"buffer_size": 38853,
+						"buffer_size": 3711,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"contents": "// Chosen, a Select Box Enhancer for jQuery and Prototype\n// by Patrick Filler for Harvest, http://getharvest.com\n//\n// Version 0.9.14\n// Full source at https://github.com/harvesthq/chosen\n// Copyright (c) 2011 Harvest http://getharvest.com\n\n// MIT License, https://github.com/harvesthq/chosen/blob/master/LICENSE.md\n// This file is generated by `cake build`, do not edit it by hand.\n(function() {\n  var SelectParser;\n\n  SelectParser = (function() {\n\n    function SelectParser() {\n      this.options_index = 0;\n      this.parsed = [];\n    }\n\n    SelectParser.prototype.add_node = function(child) {\n      if (child.nodeName.toUpperCase() === \"OPTGROUP\") {\n        return this.add_group(child);\n      } else {\n        return this.add_option(child);\n      }\n    };\n\n    SelectParser.prototype.add_group = function(group) {\n      var group_position, option, _i, _len, _ref, _results;\n      group_position = this.parsed.length;\n      this.parsed.push({\n        array_index: group_position,\n        group: true,\n        label: group.label,\n        children: 0,\n        disabled: group.disabled\n      });\n      _ref = group.childNodes;\n      _results = [];\n      for (_i = 0, _len = _ref.length; _i < _len; _i++) {\n        option = _ref[_i];\n        _results.push(this.add_option(option, group_position, group.disabled));\n      }\n      return _results;\n    };\n\n    SelectParser.prototype.add_option = function(option, group_position, group_disabled) {\n      if (option.nodeName.toUpperCase() === \"OPTION\") {\n        if (option.text !== \"\") {\n          if (group_position != null) {\n            this.parsed[group_position].children += 1;\n          }\n          this.parsed.push({\n            array_index: this.parsed.length,\n            options_index: this.options_index,\n            value: option.value,\n            text: option.text,\n            html: option.innerHTML,\n            selected: option.selected,\n            disabled: group_disabled === true ? group_disabled : option.disabled,\n            group_array_index: group_position,\n            classes: option.className,\n            style: option.style.cssText\n          });\n        } else {\n          this.parsed.push({\n            array_index: this.parsed.length,\n            options_index: this.options_index,\n            empty: true\n          });\n        }\n        return this.options_index += 1;\n      }\n    };\n\n    return SelectParser;\n\n  })();\n\n  SelectParser.select_to_array = function(select) {\n    var child, parser, _i, _len, _ref;\n    parser = new SelectParser();\n    _ref = select.childNodes;\n    for (_i = 0, _len = _ref.length; _i < _len; _i++) {\n      child = _ref[_i];\n      parser.add_node(child);\n    }\n    return parser.parsed;\n  };\n\n  this.SelectParser = SelectParser;\n\n}).call(this);\n\n/*\nChosen source: generate output using 'cake build'\nCopyright (c) 2011 by Harvest\n*/\n\n\n(function() {\n  var AbstractChosen, root;\n\n  root = this;\n\n  AbstractChosen = (function() {\n\n    function AbstractChosen(form_field, options) {\n      this.form_field = form_field;\n      this.options = options != null ? options : {};\n      if (!AbstractChosen.browser_is_supported()) {\n        return;\n      }\n      this.is_multiple = this.form_field.multiple;\n      this.set_default_text();\n      this.set_default_values();\n      this.setup();\n      this.set_up_html();\n      this.register_observers();\n      this.finish_setup();\n    }\n\n    AbstractChosen.prototype.set_default_values = function() {\n      var _this = this;\n      this.click_test_action = function(evt) {\n        return _this.test_active_click(evt);\n      };\n      this.activate_action = function(evt) {\n        return _this.activate_field(evt);\n      };\n      this.active_field = false;\n      this.mouse_on_container = false;\n      this.results_showing = false;\n      this.result_highlighted = null;\n      this.result_single_selected = null;\n      this.allow_single_deselect = (this.options.allow_single_deselect != null) && (this.form_field.options[0] != null) && this.form_field.options[0].text === \"\" ? this.options.allow_single_deselect : false;\n      this.disable_search_threshold = this.options.disable_search_threshold || 0;\n      this.disable_search = this.options.disable_search || false;\n      this.enable_split_word_search = this.options.enable_split_word_search != null ? this.options.enable_split_word_search : true;\n      this.search_contains = this.options.search_contains || false;\n      this.choices = 0;\n      this.single_backstroke_delete = this.options.single_backstroke_delete || false;\n      this.max_selected_options = 1;\n      return this.inherit_select_classes = this.options.inherit_select_classes || false;\n    };\n\n    AbstractChosen.prototype.set_default_text = function() {\n      if (this.form_field.getAttribute(\"data-placeholder\")) {\n        this.default_text = this.form_field.getAttribute(\"data-placeholder\");\n      } else if (this.is_multiple) {\n        this.default_text = this.options.placeholder_text_multiple || this.options.placeholder_text || AbstractChosen.default_multiple_text;\n      } else {\n        this.default_text = this.options.placeholder_text_single || this.options.placeholder_text || AbstractChosen.default_single_text;\n      }\n      return this.results_none_found = this.form_field.getAttribute(\"data-no_results_text\") || this.options.no_results_text || AbstractChosen.default_no_result_text;\n    };\n\n    AbstractChosen.prototype.mouse_enter = function() {\n      return this.mouse_on_container = true;\n    };\n\n    AbstractChosen.prototype.mouse_leave = function() {\n      return this.mouse_on_container = false;\n    };\n\n    AbstractChosen.prototype.input_focus = function(evt) {\n      var _this = this;\n      if (this.is_multiple) {\n        if (!this.active_field) {\n          return setTimeout((function() {\n            return _this.container_mousedown();\n          }), 50);\n        }\n      } else {\n        if (!this.active_field) {\n          return this.activate_field();\n        }\n      }\n    };\n\n    AbstractChosen.prototype.input_blur = function(evt) {\n      var _this = this;\n      if (!this.mouse_on_container) {\n        this.active_field = false;\n        return setTimeout((function() {\n          return _this.blur_test();\n        }), 100);\n      }\n    };\n\n    AbstractChosen.prototype.result_add_option = function(option) {\n      var classes, style;\n      if (!option.disabled) {\n        option.dom_id = this.container_id + \"_o_\" + option.array_index;\n        classes = option.selected && this.is_multiple ? [] : [\"active-result\"];\n        if (option.selected) {\n          classes.push(\"result-selected\");\n        }\n        if (option.group_array_index != null) {\n          classes.push(\"group-option\");\n        }\n        if (option.classes !== \"\") {\n          classes.push(option.classes);\n        }\n        style = option.style.cssText !== \"\" ? \" style=\\\"\" + option.style + \"\\\"\" : \"\";\n        return '<li id=\"' + option.dom_id + '\" class=\"' + classes.join(' ') + '\"' + style + '>' + option.html + '</li>';\n      } else {\n        return \"\";\n      }\n    };\n\n    AbstractChosen.prototype.results_update_field = function() {\n      this.set_default_text();\n      if (!this.is_multiple) {\n        this.results_reset_cleanup();\n      }\n      this.result_clear_highlight();\n      this.result_single_selected = null;\n      return this.results_build();\n    };\n\n    AbstractChosen.prototype.results_toggle = function() {\n      if (this.results_showing) {\n        return this.results_hide();\n      } else {\n        return this.results_show();\n      }\n    };\n\n    AbstractChosen.prototype.results_search = function(evt) {\n      if (this.results_showing) {\n        return this.winnow_results();\n      } else {\n        return this.results_show();\n      }\n    };\n\n    AbstractChosen.prototype.choices_click = function(evt) {\n      evt.preventDefault();\n      if (!this.results_showing) {\n        return this.results_show();\n      }\n    };\n\n    AbstractChosen.prototype.keyup_checker = function(evt) {\n      var stroke, _ref;\n      stroke = (_ref = evt.which) != null ? _ref : evt.keyCode;\n      this.search_field_scale();\n      switch (stroke) {\n        case 8:\n          if (this.is_multiple && this.backstroke_length < 1 && this.choices > 0) {\n            return this.keydown_backstroke();\n          } else if (!this.pending_backstroke) {\n            this.result_clear_highlight();\n            return this.results_search();\n          }\n          break;\n        case 13:\n          evt.preventDefault();\n          if (this.results_showing) {\n            return this.result_select(evt);\n          }\n          break;\n        case 27:\n          if (this.results_showing) {\n            this.results_hide();\n          }\n          return true;\n        case 9:\n        case 38:\n        case 40:\n        case 16:\n        case 91:\n        case 17:\n          break;\n        default:\n          return this.results_search();\n      }\n    };\n\n    AbstractChosen.prototype.generate_field_id = function() {\n      var new_id;\n      new_id = this.generate_random_id();\n      this.form_field.id = new_id;\n      return new_id;\n    };\n\n    AbstractChosen.prototype.generate_random_char = function() {\n      var chars, newchar, rand;\n      chars = \"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ\";\n      rand = Math.floor(Math.random() * chars.length);\n      return newchar = chars.substring(rand, rand + 1);\n    };\n\n    AbstractChosen.prototype.container_width = function() {\n      var width;\n      if (this.options.width != null) {\n        return this.options.width;\n      }\n      width = window.getComputedStyle != null ? parseFloat(window.getComputedStyle(this.form_field).getPropertyValue('width')) : (typeof jQuery !== \"undefined\" && jQuery !== null) && (this.form_field_jq != null) ? this.form_field_jq.outerWidth() : this.form_field.getWidth();\n      return width + \"px\";\n    };\n\n    AbstractChosen.browser_is_supported = function() {\n      var _ref;\n      if (window.navigator.appName === \"Microsoft Internet Explorer\") {\n        return (null !== (_ref = document.documentMode) && _ref >= 8);\n      }\n      return true;\n    };\n\n    AbstractChosen.default_multiple_text = \"Please make a selection\";\n\n    AbstractChosen.default_single_text = \"Please make a selection\";\n\n    AbstractChosen.default_no_result_text = \"No results match\";\n\n    return AbstractChosen;\n\n  })();\n\n  root.AbstractChosen = AbstractChosen;\n\n}).call(this);\n\n/*\nChosen source: generate output using 'cake build'\nCopyright (c) 2011 by Harvest\n*/\n\n\n(function() {\n  var $, Chosen, root,\n    __hasProp = {}.hasOwnProperty,\n    __extends = function(child, parent) { for (var key in parent) { if (__hasProp.call(parent, key)) child[key] = parent[key]; } function ctor() { this.constructor = child; } ctor.prototype = parent.prototype; child.prototype = new ctor(); child.__super__ = parent.prototype; return child; };\n\n  root = this;\n\n  $ = jQuery;\n\n  $.fn.extend({\n    chosen: function(options) {\n      if (!AbstractChosen.browser_is_supported()) {\n        return this;\n      }\n      return this.each(function(input_field) {\n        var $this;\n        $this = $(this);\n        if (!$this.hasClass(\"chzn-done\")) {\n          return $this.data('chosen', new Chosen(this, options));\n        }\n      });\n    }\n  });\n\n  Chosen = (function(_super) {\n\n    __extends(Chosen, _super);\n\n    function Chosen() {\n      return Chosen.__super__.constructor.apply(this, arguments);\n    }\n\n    Chosen.prototype.setup = function() {\n      this.form_field_jq = $(this.form_field);\n      this.current_selectedIndex = this.form_field.selectedIndex;\n      return this.is_rtl = this.form_field_jq.hasClass(\"chzn-rtl\");\n    };\n\n    Chosen.prototype.finish_setup = function() {\n      return this.form_field_jq.addClass(\"chzn-done\");\n    };\n\n    Chosen.prototype.set_up_html = function() {\n      var container_classes, container_props;\n      this.container_id = this.form_field.id.length ? this.form_field.id.replace(/[^\\w]/g, '_') : this.generate_field_id();\n      this.container_id += \"_chzn\";\n      container_classes = [\"chzn-container\"];\n      container_classes.push(\"chzn-container-\" + (this.is_multiple ? \"multi\" : \"single\"));\n      if (this.inherit_select_classes && this.form_field.className) {\n        container_classes.push(this.form_field.className);\n      }\n      if (this.is_rtl) {\n        container_classes.push(\"chzn-rtl\");\n      }\n      container_props = {\n        'id': this.container_id,\n        'class': container_classes.join(' '),\n        'title': this.form_field.title\n      };\n      this.container = $(\"<div />\", container_props);\n      if (this.is_multiple) {\n        this.container.html('<ul class=\"chzn-choices\"><li class=\"search-field\"><input type=\"text\" value=\"' + this.default_text + '\" class=\"default\" autocomplete=\"off\" style=\"width:25px;\" /></li></ul><div class=\"chzn-drop\"><ul class=\"chzn-results\"></ul></div>');\n      } else {\n        this.container.html('<a href=\"javascript:void(0)\" class=\"chzn-single chzn-default\" tabindex=\"-1\"><span>' + this.default_text + '</span><div><b></b></div></a><div class=\"chzn-drop\"><div class=\"chzn-search\"><input type=\"text\" autocomplete=\"off\" /></div><ul class=\"chzn-results\"></ul></div>');\n      }\n      this.form_field_jq.hide().after(this.container);\n      this.dropdown = this.container.find('div.chzn-drop').first();\n      this.search_field = this.container.find('input').first();\n      this.search_results = this.container.find('ul.chzn-results').first();\n      this.search_field_scale();\n      this.search_no_results = this.container.find('li.no-results').first();\n      if (this.is_multiple) {\n        this.search_choices = this.container.find('ul.chzn-choices').first();\n        this.search_container = this.container.find('li.search-field').first();\n      } else {\n        this.search_container = this.container.find('div.chzn-search').first();\n        this.selected_item = this.container.find('.chzn-single').first();\n      }\n      this.results_build();\n      this.set_tab_index();\n      this.set_label_behavior();\n      return this.form_field_jq.trigger(\"liszt:ready\", {\n        chosen: this\n      });\n    };\n\n    Chosen.prototype.register_observers = function() {\n      var _this = this;\n      this.container.mousedown(function(evt) {\n        _this.container_mousedown(evt);\n      });\n      this.container.mouseup(function(evt) {\n        _this.container_mouseup(evt);\n      });\n      this.container.mouseenter(function(evt) {\n        _this.mouse_enter(evt);\n      });\n      this.container.mouseleave(function(evt) {\n        _this.mouse_leave(evt);\n      });\n      this.search_results.mouseup(function(evt) {\n        _this.search_results_mouseup(evt);\n      });\n      this.search_results.mouseover(function(evt) {\n        _this.search_results_mouseover(evt);\n      });\n      this.search_results.mouseout(function(evt) {\n        _this.search_results_mouseout(evt);\n      });\n      this.search_results.bind('mousewheel DOMMouseScroll', function(evt) {\n        _this.search_results_mousewheel(evt);\n      });\n      this.form_field_jq.bind(\"liszt:updated\", function(evt) {\n        _this.results_update_field(evt);\n      });\n      this.form_field_jq.bind(\"liszt:activate\", function(evt) {\n        _this.activate_field(evt);\n      });\n      this.form_field_jq.bind(\"liszt:open\", function(evt) {\n        _this.container_mousedown(evt);\n      });\n      this.search_field.blur(function(evt) {\n        _this.input_blur(evt);\n      });\n      this.search_field.keyup(function(evt) {\n        _this.keyup_checker(evt);\n      });\n      this.search_field.keydown(function(evt) {\n        _this.keydown_checker(evt);\n      });\n      this.search_field.focus(function(evt) {\n        _this.input_focus(evt);\n      });\n      if (this.is_multiple) {\n        return this.search_choices.click(function(evt) {\n          _this.choices_click(evt);\n        });\n      } else {\n        return this.container.click(function(evt) {\n          evt.preventDefault();\n        });\n      }\n    };\n\n    Chosen.prototype.search_field_disabled = function() {\n      this.is_disabled = this.form_field_jq[0].disabled;\n      if (this.is_disabled) {\n        this.container.addClass('chzn-disabled');\n        this.search_field[0].disabled = true;\n        if (!this.is_multiple) {\n          this.selected_item.unbind(\"focus\", this.activate_action);\n        }\n        return this.close_field();\n      } else {\n        this.container.removeClass('chzn-disabled');\n        this.search_field[0].disabled = false;\n        if (!this.is_multiple) {\n          return this.selected_item.bind(\"focus\", this.activate_action);\n        }\n      }\n    };\n\n    Chosen.prototype.container_mousedown = function(evt) {\n      if (!this.is_disabled) {\n        if (evt && evt.type === \"mousedown\" && !this.results_showing) {\n          evt.preventDefault();\n        }\n        if (!((evt != null) && ($(evt.target)).hasClass(\"search-choice-close\"))) {\n          if (!this.active_field) {\n            if (this.is_multiple) {\n              this.search_field.val(\"\");\n            }\n            $(document).click(this.click_test_action);\n            this.results_show();\n          } else if (!this.is_multiple && evt && (($(evt.target)[0] === this.selected_item[0]) || $(evt.target).parents(\"a.chzn-single\").length)) {\n            evt.preventDefault();\n            this.results_toggle();\n          }\n          return this.activate_field();\n        }\n      }\n    };\n\n    Chosen.prototype.container_mouseup = function(evt) {\n      if (evt.target.nodeName === \"ABBR\" && !this.is_disabled) {\n        return this.results_reset(evt);\n      }\n    };\n\n    Chosen.prototype.search_results_mousewheel = function(evt) {\n      var delta, _ref, _ref1;\n      delta = -((_ref = evt.originalEvent) != null ? _ref.wheelDelta : void 0) || ((_ref1 = evt.originialEvent) != null ? _ref1.detail : void 0);\n      if (delta != null) {\n        evt.preventDefault();\n        if (evt.type === 'DOMMouseScroll') {\n          delta = delta * 40;\n        }\n        return this.search_results.scrollTop(delta + this.search_results.scrollTop());\n      }\n    };\n\n    Chosen.prototype.blur_test = function(evt) {\n      if (!this.active_field && this.container.hasClass(\"chzn-container-active\")) {\n        return this.close_field();\n      }\n    };\n\n    Chosen.prototype.close_field = function() {\n      $(document).unbind(\"click\", this.click_test_action);\n      this.active_field = false;\n      this.results_hide();\n      this.container.removeClass(\"chzn-container-active\");\n      this.winnow_results_clear();\n      this.clear_backstroke();\n      this.show_search_field_default();\n      return this.search_field_scale();\n    };\n\n    Chosen.prototype.activate_field = function() {\n      this.container.addClass(\"chzn-container-active\");\n      this.active_field = true;\n      this.search_field.val(this.search_field.val());\n      return this.search_field.focus();\n    };\n\n    Chosen.prototype.test_active_click = function(evt) {\n      if ($(evt.target).parents('#' + this.container_id).length) {\n        return this.active_field = true;\n      } else {\n        return this.close_field();\n      }\n    };\n\n    Chosen.prototype.results_build = function() {\n      var content, data, _i, _len, _ref;\n      this.parsing = true;\n      this.results_data = root.SelectParser.select_to_array(this.form_field);\n      if (this.is_multiple && this.choices > 0) {\n        this.search_choices.find(\"li.search-choice\").remove();\n        this.choices = 0;\n      } else if (!this.is_multiple) {\n        this.selected_item.addClass(\"chzn-default\").find(\"span\").text(this.default_text);\n        if (this.disable_search || this.form_field.options.length <= this.disable_search_threshold) {\n          this.container.addClass(\"chzn-container-single-nosearch\");\n        } else {\n          this.container.removeClass(\"chzn-container-single-nosearch\");\n        }\n      }\n      content = '';\n      _ref = this.results_data;\n      for (_i = 0, _len = _ref.length; _i < _len; _i++) {\n        data = _ref[_i];\n        if (data.group) {\n          content += this.result_add_group(data);\n        } else if (!data.empty) {\n          content += this.result_add_option(data);\n          if (data.selected && this.is_multiple) {\n            this.choice_build(data);\n          } else if (data.selected && !this.is_multiple) {\n            this.selected_item.removeClass(\"chzn-default\").find(\"span\").text(data.text);\n            if (this.allow_single_deselect) {\n              this.single_deselect_control_build();\n            }\n          }\n        }\n      }\n      this.search_field_disabled();\n      this.show_search_field_default();\n      this.search_field_scale();\n      this.search_results.html(content);\n      return this.parsing = false;\n    };\n\n    Chosen.prototype.result_add_group = function(group) {\n      if (!group.disabled) {\n        group.dom_id = this.container_id + \"_g_\" + group.array_index;\n        return '<li id=\"' + group.dom_id + '\" class=\"group-result\">' + $(\"<div />\").text(group.label).html() + '</li>';\n      } else {\n        return \"\";\n      }\n    };\n\n    Chosen.prototype.result_do_highlight = function(el) {\n      var high_bottom, high_top, maxHeight, visible_bottom, visible_top;\n      if (el.length) {\n        this.result_clear_highlight();\n        this.result_highlight = el;\n        this.result_highlight.addClass(\"highlighted\");\n        maxHeight = parseInt(this.search_results.css(\"maxHeight\"), 10);\n        visible_top = this.search_results.scrollTop();\n        visible_bottom = maxHeight + visible_top;\n        high_top = this.result_highlight.position().top + this.search_results.scrollTop();\n        high_bottom = high_top + this.result_highlight.outerHeight();\n        if (high_bottom >= visible_bottom) {\n          return this.search_results.scrollTop((high_bottom - maxHeight) > 0 ? high_bottom - maxHeight : 0);\n        } else if (high_top < visible_top) {\n          return this.search_results.scrollTop(high_top);\n        }\n      }\n    };\n\n    Chosen.prototype.result_clear_highlight = function() {\n      if (this.result_highlight) {\n        this.result_highlight.removeClass(\"highlighted\");\n      }\n      return this.result_highlight = null;\n    };\n\n    Chosen.prototype.results_show = function() {\n      if (this.result_single_selected != null) {\n        this.result_do_highlight(this.result_single_selected);\n      } else if (this.is_multiple && this.max_selected_options <= this.choices) {\n        this.form_field_jq.trigger(\"liszt:maxselected\", {\n          chosen: this\n        });\n        return false;\n      }\n      this.container.addClass(\"chzn-with-drop\");\n      this.form_field_jq.trigger(\"liszt:showing_dropdown\", {\n        chosen: this\n      });\n      this.results_showing = true;\n      this.search_field.focus();\n      this.search_field.val(this.search_field.val());\n      return this.winnow_results();\n    };\n\n    Chosen.prototype.results_hide = function() {\n      this.result_clear_highlight();\n      this.container.removeClass(\"chzn-with-drop\");\n      this.form_field_jq.trigger(\"liszt:hiding_dropdown\", {\n        chosen: this\n      });\n      return this.results_showing = false;\n    };\n\n    Chosen.prototype.set_tab_index = function(el) {\n      var ti;\n      if (this.form_field_jq.attr(\"tabindex\")) {\n        ti = this.form_field_jq.attr(\"tabindex\");\n        this.form_field_jq.attr(\"tabindex\", -1);\n        return this.search_field.attr(\"tabindex\", ti);\n      }\n    };\n\n    Chosen.prototype.set_label_behavior = function() {\n      var _this = this;\n      this.form_field_label = this.form_field_jq.parents(\"label\");\n      if (!this.form_field_label.length && this.form_field.id.length) {\n        this.form_field_label = $(\"label[for=\" + this.form_field.id + \"]\");\n      }\n      if (this.form_field_label.length > 0) {\n        return this.form_field_label.click(function(evt) {\n          if (_this.is_multiple) {\n            return _this.container_mousedown(evt);\n          } else {\n            return _this.activate_field();\n          }\n        });\n      }\n    };\n\n    Chosen.prototype.show_search_field_default = function() {\n      if (this.is_multiple && this.choices < 1 && !this.active_field) {\n        this.search_field.val(this.default_text);\n        return this.search_field.addClass(\"default\");\n      } else {\n        this.search_field.val(\"\");\n        return this.search_field.removeClass(\"default\");\n      }\n    };\n\n    Chosen.prototype.search_results_mouseup = function(evt) {\n      var target;\n      target = $(evt.target).hasClass(\"active-result\") ? $(evt.target) : $(evt.target).parents(\".active-result\").first();\n      if (target.length) {\n        this.result_highlight = target;\n        this.result_select(evt);\n        return this.search_field.focus();\n      }\n    };\n\n    Chosen.prototype.search_results_mouseover = function(evt) {\n      var target;\n      target = $(evt.target).hasClass(\"active-result\") ? $(evt.target) : $(evt.target).parents(\".active-result\").first();\n      if (target) {\n        return this.result_do_highlight(target);\n      }\n    };\n\n    Chosen.prototype.search_results_mouseout = function(evt) {\n      if ($(evt.target).hasClass(\"active-result\" || $(evt.target).parents('.active-result').first())) {\n        return this.result_clear_highlight();\n      }\n    };\n\n    Chosen.prototype.choice_build = function(item) {\n      var choice_id, html, link,\n        _this = this;\n      if (this.is_multiple && this.max_selected_options <= this.choices) {\n        this.form_field_jq.trigger(\"liszt:maxselected\", {\n          chosen: this\n        });\n        return false;\n      }\n      choice_id = this.container_id + \"_c_\" + item.array_index;\n      this.choices += 1;\n      if (item.disabled) {\n        html = '<li class=\"search-choice search-choice-disabled\" id=\"' + choice_id + '\"><span>' + item.html + '</span></li>';\n      } else {\n        html = '<li class=\"search-choice\" id=\"' + choice_id + '\"><span>' + item.html + '</span><a href=\"javascript:void(0)\" class=\"search-choice-close\" rel=\"' + item.array_index + '\"></a></li>';\n      }\n      this.search_container.before(html);\n      link = $('#' + choice_id).find(\"a\").first();\n      return link.click(function(evt) {\n        return _this.choice_destroy_link_click(evt);\n      });\n    };\n\n    Chosen.prototype.choice_destroy_link_click = function(evt) {\n      evt.preventDefault();\n      evt.stopPropagation();\n      if (!this.is_disabled) {\n        return this.choice_destroy($(evt.target));\n      }\n    };\n\n    Chosen.prototype.choice_destroy = function(link) {\n      if (this.result_deselect(link.attr(\"rel\"))) {\n        this.choices -= 1;\n        this.show_search_field_default();\n        if (this.is_multiple && this.choices > 0 && this.search_field.val().length < 1) {\n          this.results_hide();\n        }\n        link.parents('li').first().remove();\n        return this.search_field_scale();\n      }\n    };\n\n    Chosen.prototype.results_reset = function() {\n      this.form_field.options[0].selected = true;\n      this.selected_item.find(\"span\").text(this.default_text);\n      if (!this.is_multiple) {\n        this.selected_item.addClass(\"chzn-default\");\n      }\n      this.show_search_field_default();\n      this.results_reset_cleanup();\n      this.form_field_jq.trigger(\"change\");\n      if (this.active_field) {\n        return this.results_hide();\n      }\n    };\n\n    Chosen.prototype.results_reset_cleanup = function() {\n      this.current_selectedIndex = this.form_field.selectedIndex;\n      return this.selected_item.find(\"abbr\").remove();\n    };\n\n    Chosen.prototype.result_select = function(evt) {\n      var high, high_id, item, position;\n      if (this.result_highlight) {\n        high = this.result_highlight;\n        high_id = high.attr(\"id\");\n        this.result_clear_highlight();\n        if (this.is_multiple) {\n          this.result_deactivate(high);\n        } else {\n          this.search_results.find(\".result-selected\").removeClass(\"result-selected\");\n          this.result_single_selected = high;\n          this.selected_item.removeClass(\"chzn-default\");\n        }\n        high.addClass(\"result-selected\");\n        position = high_id.substr(high_id.lastIndexOf(\"_\") + 1);\n        item = this.results_data[position];\n        item.selected = true;\n        this.form_field.options[item.options_index].selected = true;\n        if (this.is_multiple) {\n          this.choice_build(item);\n        } else {\n          this.selected_item.find(\"span\").first().text(item.text);\n          if (this.allow_single_deselect) {\n            this.single_deselect_control_build();\n          }\n        }\n        if (!((evt.metaKey || evt.ctrlKey) && this.is_multiple)) {\n          this.results_hide();\n        }\n        this.search_field.val(\"\");\n        if (this.is_multiple || this.form_field.selectedIndex !== this.current_selectedIndex) {\n          this.form_field_jq.trigger(\"change\", {\n            'selected': this.form_field.options[item.options_index].value\n          });\n        }\n        this.current_selectedIndex = this.form_field.selectedIndex;\n        return this.search_field_scale();\n      }\n    };\n\n    Chosen.prototype.result_activate = function(el) {\n      return el.addClass(\"active-result\");\n    };\n\n    Chosen.prototype.result_deactivate = function(el) {\n      return el.removeClass(\"active-result\");\n    };\n\n    Chosen.prototype.result_deselect = function(pos) {\n      var result, result_data;\n      result_data = this.results_data[pos];\n      if (!this.form_field.options[result_data.options_index].disabled) {\n        result_data.selected = false;\n        this.form_field.options[result_data.options_index].selected = false;\n        result = $(\"#\" + this.container_id + \"_o_\" + pos);\n        result.removeClass(\"result-selected\").addClass(\"active-result\").show();\n        this.result_clear_highlight();\n        this.winnow_results();\n        this.form_field_jq.trigger(\"change\", {\n          deselected: this.form_field.options[result_data.options_index].value\n        });\n        this.search_field_scale();\n        return true;\n      } else {\n        return false;\n      }\n    };\n\n    Chosen.prototype.single_deselect_control_build = function() {\n      if (this.allow_single_deselect && this.selected_item.find(\"abbr\").length < 1) {\n        return this.selected_item.find(\"span\").first().after(\"<abbr class=\\\"search-choice-close\\\"></abbr>\");\n      }\n    };\n\n    Chosen.prototype.winnow_results = function() {\n      var found, option, part, parts, regex, regexAnchor, result, result_id, results, searchText, startpos, text, zregex, _i, _j, _len, _len1, _ref;\n      this.no_results_clear();\n      results = 0;\n      searchText = this.search_field.val() === this.default_text ? \"\" : $('<div/>').text($.trim(this.search_field.val())).html();\n      regexAnchor = this.search_contains ? \"\" : \"^\";\n      regex = new RegExp(regexAnchor + searchText.replace(/[-[\\]{}()*+?.,\\\\^$|#\\s]/g, \"\\\\$&\"), 'i');\n      zregex = new RegExp(searchText.replace(/[-[\\]{}()*+?.,\\\\^$|#\\s]/g, \"\\\\$&\"), 'i');\n      _ref = this.results_data;\n      for (_i = 0, _len = _ref.length; _i < _len; _i++) {\n        option = _ref[_i];\n        if (!option.disabled && !option.empty) {\n          if (option.group) {\n            $('#' + option.dom_id).css('display', 'none');\n          } else if (!(this.is_multiple && option.selected)) {\n            found = false;\n            result_id = option.dom_id;\n            result = $(\"#\" + result_id);\n            if (regex.test(option.html)) {\n              found = true;\n              results += 1;\n            } else if (this.enable_split_word_search && (option.html.indexOf(\" \") >= 0 || option.html.indexOf(\"[\") === 0)) {\n              parts = option.html.replace(/\\[|\\]/g, \"\").split(\" \");\n              if (parts.length) {\n                for (_j = 0, _len1 = parts.length; _j < _len1; _j++) {\n                  part = parts[_j];\n                  if (regex.test(part)) {\n                    found = true;\n                    results += 1;\n                  }\n                }\n              }\n            }\n            if (found) {\n              if (searchText.length) {\n                startpos = option.html.search(zregex);\n                text = option.html.substr(0, startpos + searchText.length) + '</em>' + option.html.substr(startpos + searchText.length);\n                text = text.substr(0, startpos) + '<em>' + text.substr(startpos);\n              } else {\n                text = option.html;\n              }\n              result.html(text);\n              this.result_activate(result);\n              if (option.group_array_index != null) {\n                $(\"#\" + this.results_data[option.group_array_index].dom_id).css('display', 'list-item');\n              }\n            } else {\n              if (this.result_highlight && result_id === this.result_highlight.attr('id')) {\n                this.result_clear_highlight();\n              }\n              this.result_deactivate(result);\n            }\n          }\n        }\n      }\n      if (results < 1 && searchText.length) {\n        return this.no_results(searchText);\n      } else {\n        return this.winnow_results_set_highlight();\n      }\n    };\n\n    Chosen.prototype.winnow_results_clear = function() {\n      var li, lis, _i, _len, _results;\n      this.search_field.val(\"\");\n      lis = this.search_results.find(\"li\");\n      _results = [];\n      for (_i = 0, _len = lis.length; _i < _len; _i++) {\n        li = lis[_i];\n        li = $(li);\n        if (li.hasClass(\"group-result\")) {\n          _results.push(li.css('display', 'auto'));\n        } else if (!this.is_multiple || !li.hasClass(\"result-selected\")) {\n          _results.push(this.result_activate(li));\n        } else {\n          _results.push(void 0);\n        }\n      }\n      return _results;\n    };\n\n    Chosen.prototype.winnow_results_set_highlight = function() {\n      var do_high, selected_results;\n      if (!this.result_highlight) {\n        selected_results = !this.is_multiple ? this.search_results.find(\".result-selected.active-result\") : [];\n        do_high = selected_results.length ? selected_results.first() : this.search_results.find(\".active-result\").first();\n        if (do_high != null) {\n          return this.result_do_highlight(do_high);\n        }\n      }\n    };\n\n    Chosen.prototype.no_results = function(terms) {\n      var no_results_html;\n      no_results_html = $('<li class=\"no-results\">' + this.results_none_found + ' \"<span></span>\"</li>');\n      no_results_html.find(\"span\").first().html(terms);\n      return this.search_results.append(no_results_html);\n    };\n\n    Chosen.prototype.no_results_clear = function() {\n      return this.search_results.find(\".no-results\").remove();\n    };\n\n    Chosen.prototype.keydown_arrow = function() {\n      var first_active, next_sib;\n      if (!this.result_highlight) {\n        first_active = this.search_results.find(\"li.active-result\").first();\n        if (first_active) {\n          this.result_do_highlight($(first_active));\n        }\n      } else if (this.results_showing) {\n        next_sib = this.result_highlight.nextAll(\"li.active-result\").first();\n        if (next_sib) {\n          this.result_do_highlight(next_sib);\n        }\n      }\n      if (!this.results_showing) {\n        return this.results_show();\n      }\n    };\n\n    Chosen.prototype.keyup_arrow = function() {\n      var prev_sibs;\n      if (!this.results_showing && !this.is_multiple) {\n        return this.results_show();\n      } else if (this.result_highlight) {\n        prev_sibs = this.result_highlight.prevAll(\"li.active-result\");\n        if (prev_sibs.length) {\n          return this.result_do_highlight(prev_sibs.first());\n        } else {\n          if (this.choices > 0) {\n            this.results_hide();\n          }\n          return this.result_clear_highlight();\n        }\n      }\n    };\n\n    Chosen.prototype.keydown_backstroke = function() {\n      var next_available_destroy;\n      if (this.pending_backstroke) {\n        this.choice_destroy(this.pending_backstroke.find(\"a\").first());\n        return this.clear_backstroke();\n      } else {\n        next_available_destroy = this.search_container.siblings(\"li.search-choice\").last();\n        if (next_available_destroy.length && !next_available_destroy.hasClass(\"search-choice-disabled\")) {\n          this.pending_backstroke = next_available_destroy;\n          if (this.single_backstroke_delete) {\n            return this.keydown_backstroke();\n          } else {\n            return this.pending_backstroke.addClass(\"search-choice-focus\");\n          }\n        }\n      }\n    };\n\n    Chosen.prototype.clear_backstroke = function() {\n      if (this.pending_backstroke) {\n        this.pending_backstroke.removeClass(\"search-choice-focus\");\n      }\n      return this.pending_backstroke = null;\n    };\n\n    Chosen.prototype.keydown_checker = function(evt) {\n      var stroke, _ref;\n      stroke = (_ref = evt.which) != null ? _ref : evt.keyCode;\n      this.search_field_scale();\n      if (stroke !== 8 && this.pending_backstroke) {\n        this.clear_backstroke();\n      }\n      switch (stroke) {\n        case 8:\n          this.backstroke_length = this.search_field.val().length;\n          break;\n        case 9:\n          if (this.results_showing && !this.is_multiple) {\n            this.result_select(evt);\n          }\n          this.mouse_on_container = false;\n          break;\n        case 13:\n          evt.preventDefault();\n          break;\n        case 38:\n          evt.preventDefault();\n          this.keyup_arrow();\n          break;\n        case 40:\n          this.keydown_arrow();\n          break;\n      }\n    };\n\n    Chosen.prototype.search_field_scale = function() {\n      var div, h, style, style_block, styles, w, _i, _len;\n      if (this.is_multiple) {\n        h = 0;\n        w = 0;\n        style_block = \"position:absolute; left: -1000px; top: -1000px; display:none;\";\n        styles = ['font-size', 'font-style', 'font-weight', 'font-family', 'line-height', 'text-transform', 'letter-spacing'];\n        for (_i = 0, _len = styles.length; _i < _len; _i++) {\n          style = styles[_i];\n          style_block += style + \":\" + this.search_field.css(style) + \";\";\n        }\n        div = $('<div />', {\n          'style': style_block\n        });\n        div.text(this.search_field.val());\n        $('body').append(div);\n        w = div.width() + 25;\n        div.remove();\n        if (!this.f_width) {\n          this.f_width = this.container.outerWidth();\n        }\n        if (w > this.f_width - 10) {\n          w = this.f_width - 10;\n        }\n        return this.search_field.css({\n          'width':  '95%'\n        });\n      }\n    };\n\n    Chosen.prototype.generate_random_id = function() {\n      var string;\n      string = \"sel\" + this.generate_random_char() + this.generate_random_char() + this.generate_random_char();\n      while ($(\"#\" + string).length > 0) {\n        string += this.generate_random_char();\n      }\n      return string;\n    };\n\n    return Chosen;\n\n  })(AbstractChosen);\n\n  root.Chosen = Chosen;\n\n}).call(this);\n",
+					"contents": "# coding=utf-8\n\"\"\"Feature test steps\"\"\"\nfrom lettuce import step\n\nfrom quicktest.lettuce.steps import *\n\n\n@step(r'^(?:Given|And) I register the email %(VAR_OR_STRING)s with password '\n      r'%(VAR_OR_STRING)s$' % {'VAR_OR_STRING': VAR_OR_STRING})\ndef given_i_register_email_x_with_password_y(step, email, password):\n    step.behave_as('''\n       When I go to \"/place-an-ad/register/\"\n       And I fill in the following:\n           | name                  | value           |\n           | \"Email address\"       | \"%(email)s\"     |\n           | \"Confirm email\"       | \"%(email)s\"     |\n           | \"Mobile Phone Number\" | \"+971501884132\" |\n           | \"Password\"            | \"%(password)s\"  |\n           | \"Password (again)\"    | \"%(password)s\"  |\n           | \"First name\"          | \"Test\"          |\n           | \"Last name\"           | \"User\"          |\n       And I select a random selection within \"Gender\"\n       And I select a random selection within \"#id_dob_day\"\n       And I select a random selection within \"#id_dob_month\"\n       And I select a random selection within \"#id_dob_year\"\n       And I select a random selection within \"Nationality\"\n       And I select a random selection within \"Role\"\n       And I click on \"Register User\"\n    ''' % {\n        'email': eval_value(email),\n        'password': eval_value(password)\n    })\n\n\n@step(r'^(?:When|And) I place a basic new paa in community\"$')\ndef when_i_place_a_basic_new_paa_in_community(step):\n    step.behave_as('''\n        When I go to \"/place-an-ad/community/activities/new/\"\n        Then I should be on \"/place-an-ad/community/activities/new/\"\n        When I fill in the following:\n           | name                             | value                                              |\n           | \"Title\"                          | \"This is the title of my ad\"                       |\n           | \"Phone number\"                   | \"+971551243123\"                                    |\n           | \"Description\"                    | \"This is a short description for the test listing\" |\n        And I click on \".search-field\"\n        And I hit the return key\n        And I click on \"Submit\"\n        ''')\n#            | \"Position\"                          | \"This is the title of my ad\"                       |\n#            | \"Phone number\"                   | \"+971551243123\"                                    |\n#            | \"Description\"                    | \"This is a short description for the test listing\" |\n#            | \"Minimum compensation\"           | \"20000\"                                           |\n#            | \"Maximum compensation\"           | \"40000\"                                           |\n#            | \"Additional Compensation\"        | \"10000\"                                           |\n#            | \"Listed by\"                      | \"2423422\"                                           |\n#            | \"Company name\"                   | \"Company name\"                                           |\n#             And I select a random selection within \"Neighbourhood\"\n#             And I select a random selection within \"Minimum work experience\"\n#             And I select a random selection within \"Required commitment\"\n#             And I select a random selection within \"Company size\"\n#             And I select a random selection within \"Skill level\"\n\n\n# @step(r'^(?:When|And) I place a basic new paa in? \"(.+)\"$')\n# def when_i_place_a_basic_new_paa_listing(step, section):\n#     step.behave_as('''\n#         When I go to \"/place-an-ad/%s/new/\"\n#         Then I should be on \"/place-an-ad/%s/new/\"\n#         When I fill in the following:\n#            | name                             | value                                              |\n#            | \"Title\"                          | \"This is the title of my ad\"                       |\n#            | \"Position\"                          | \"This is the title of my ad\"                       |\n#            | \"Phone number\"                   | \"+971551243123\"                                    |\n#            | \"Description\"                    | \"This is a short description for the test listing\" |\n#            | \"Price\"                          | \"222222\"                                           |\n#            | \"Rental desired location\"        | \"Any location\"                                           |\n#            | \"Size\"                           | \"2224\"                                           |\n#            | \"Total closing fee\"              | \"2423422\"                                           |\n#            | \"Listed by\"                      | \"2423422\"                                           |\n#            | \"Bathrooms\"                      | \"5\"                                           |\n#            | \"Developer\"                      | \"Devloper name\"                                           |\n#            | \"Ready by\"                       | \"Ready by name\"                                           |\n#            | \"Annual community fee\"           | \"1234\"                                           |\n#            | \"Agency fees\"                    | \"1234\"                                           |\n#            | \"Minimum compensation\"           | \"20000\"                                           |\n#            | \"Maximum compensation\"           | \"40000\"                                           |\n#            | \"Additional Compensation\"        | \"10000\"                                           |\n#            | \"Desired compensation\"           | \"10000\"                                           |\n#            | \"Company name\"                   | \"Company name\"                                           |\n#             And I select a random selection within \"Neighbourhood\"\n#             And I select a random selection within \"Minimum work experience\"\n#             And I select a random selection within \"Minimum education level\"\n#             And I select a random selection within \"Work experience\"\n#             And I select a random selection within \"Education level\"\n#             And I select a random selection within \"Commitment\"\n#             And I select a random selection within \"Required commitment\"\n#             And I select a random selection within \"Company size\"\n#             And I select a random selection within \"Skill level\"\n#             And I select a random selection within \"Number\"\n#             And I select a random selection within \"Bedrooms\"\n#             And I select a random selection within \"Furnished\"\n#             And I select a random selection within \"Rent is paid\"\n#         And I click on \".search-field\"\n#         And I hit the return key\n#         And I click on \"Submit\"",
 					"settings":
 					{
-						"buffer_size": 38853,
+						"buffer_size": 6742,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/dubizzle/webapps/django/dubizzle/media/js/paa/paa_base.js",
+					"contents": "Position\nNeighbourhood\n Phone number\n Description\n Minimum compensation\n Maximum compensation",
 					"settings":
 					{
-						"buffer_size": 11784,
-						"line_ending": "Unix"
+						"buffer_size": 93,
+						"line_ending": "Unix",
+						"name": "Position"
 					}
 				},
 				{
-					"contents": "{% load i18n %}\n<div id=\"codi-results-container\"{% if not request.POST %} class=\"hidden\"{% endif %}>\n        <h2>{% trans \"Pick a category for your ad\" %}</h2>\n    <div id=\"codi-results-title\">\n        <input id=\"list-title-results\" name=\"title\" type=\"text\" disabled value=\"{{ request.POST.title }}\">\n    </div>\n    <ul id=\"codi-results-list\">\n        <li>\n            {# This is to be changed when codi is ready #}\n            <a id=\"taxonomy-url-1\" href=\"{% if request.POST %}{% url paa:enter_details codi_response.0.2 %}?title={{ request.POST.title }}{% endif %}\" style=\"display:block\">\n                <input type=\"radio\" value=\"{{ codi_response.0.0 }}\" name=\"category\" />\n                <span id=\"taxonomy-1\">\n                    {{ codi_response.0.1 }}\n                </span>\n            </a>\n        </li>\n        <li>\n            <a id=\"taxonomy-url-2\" href=\"{% if request.POST %}{% url paa:enter_details codi_response.1.2 %}?title={{ request.POST.title }}{% endif %}\">\n                <input type=\"radio\" value=\"{{ codi_response.1.0 }}\" name=\"category\" />\n                <span id=\"taxonomy-2\">\n                    {{ codi_response.1.1 }}\n                </span>\n            </a>\n        </li>\n        <li>\n            <a id=\"taxonomy-url-3\" href=\"{% if request.POST %}{% url paa:enter_details codi_response.2.2 %}?title={{ request.POST.title }}{% endif %}\">\n            <input type=\"radio\" value=\"{{ codi_response.2.0 }}\" name=\"category\" />\n            <span id=\"taxonomy-3\">\n                {{ codi_response.2.1 }}\n            </span>\n            </a>\n        </li>\n        <li>\n            <a id=\"taxonomy-url-4\" href=\"{% if request.POST %}{% url paa:enter_details codi_response.3.2 %}?title={{ request.POST.title }}{% endif %}\">\n                <input type=\"radio\" value=\"{{ codi_response.3.0 }}\" name=\"category\" />\n                <span id=\"taxonomy-4\">\n                    {{ codi_response.3.1 }}\n                </span>\n            </a>\n        </li>\n        <li>\n            <a id=\"taxonomy-url-5\" href=\"{% if request.POST %}{% url paa:enter_details codi_response.4.2 %}?title={{ request.POST.title }}{% endif %}\">\n                <input type=\"radio\" value=\"{{ codi_response.4.0 }}\" name=\"category\" />\n                <span id=\"taxonomy-5\">\n                    {{ codi_response.4.1 }}\n                </span>\n            </a>\n        </li>\n    </ul>\n</div>\n\n",
-					"file": "/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/codi_results.html",
-					"file_size": 2377,
-					"file_write_time": 1370843308000000,
+					"file": "/home/dubizzle/webapps/django/dubizzle/paa/features/login.feature",
 					"settings":
 					{
-						"buffer_size": 2377,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/classify_category.html",
-					"settings":
-					{
-						"buffer_size": 1490,
+						"buffer_size": 2731,
 						"line_ending": "Unix"
 					}
 				}
@@ -2097,16 +2112,36 @@
 			"build_system": "Packages/Sublime-Text-2-Compass-Build-System/Compass.sublime-build",
 			"command_palette":
 			{
-				"height": 75.0,
+				"height": 138.0,
 				"selected_items":
 				[
+					[
+						"chec",
+						"Git: Checkout Current File"
+					],
 					[
 						"check",
 						"Git: Checkout Current File"
 					],
 					[
-						"chec",
-						"Git: Checkout Current File"
+						"syntax",
+						"Set Syntax: HTML (Rails)"
+					],
+					[
+						"synta",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"diff",
+						"Sublimerge: View Diff"
+					],
+					[
+						"view",
+						"Sublimerge: View Diff"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
 					],
 					[
 						"js",
@@ -2131,10 +2166,6 @@
 					[
 						"disa",
 						"SublimeLinter: Disable Linting"
-					],
-					[
-						"diff",
-						"Sublimerge: View Diff"
 					],
 					[
 						"pep",
@@ -2179,10 +2210,6 @@
 					[
 						"syntax py",
 						"Set Syntax: Python Django"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
 					],
 					[
 						"link",
@@ -2253,16 +2280,8 @@
 						"Set Syntax: Python"
 					],
 					[
-						"syntax",
-						"Set Syntax: Go"
-					],
-					[
 						"javasc",
 						"Set Syntax: JavaScript"
-					],
-					[
-						"synta",
-						"Set Syntax: XML"
 					],
 					[
 						"syn",
@@ -2441,7 +2460,7 @@
 						"Snippet: var"
 					]
 				],
-				"width": 602.0
+				"width": 476.0
 			},
 			"console":
 			{
@@ -2458,7 +2477,37 @@
 			},
 			"file_history":
 			[
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/lettuce/decorators.py",
+				"/usr/lib/python2.7/random.py",
+				"/home/dubizzle/webapps/django/dubizzle/media/js/paa/paa_base.js",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/enter_details.html",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/base.html",
+				"/home/dubizzle/webapps/django/dubizzle/paa/features/taxonomy.feature",
+				"/home/dubizzle/webapps/django/dubizzle/paa/features/sms.feature",
+				"/home/dubizzle/webapps/django/dubizzle/classified/decorators.py",
+				"/home/dubizzle/webapps/django/dubizzle/quicktest/lettuce/steps/database.py",
+				"/home/dubizzle/webapps/django/src/django/django/db/models/loading.py",
+				"/home/dubizzle/webapps/django/dubizzle/settings.py",
 				"/home/dubizzle/webapps/django/dubizzle/globalsettings.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/forms.py",
+				"/home/dubizzle/webapps/django/dubizzle/quicktest/lettuce/steps/browser/dubizzle/user/helpers.py",
+				"/home/dubizzle/webapps/django/dubizzle/cover/dubizzle_quicktest_lettuce_steps_browser_dubizzle_user_steps.html",
+				"/home/dubizzle/webapps/django/dubizzle/paa/features/login.feature",
+				"/media/80B6-996F/dubizzle old laptop backup/regex.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/features/steps.py",
+				"/home/dubizzle/webapps/django/dubizzle/paa/features/login (copy).feature",
+				"/home/dubizzle/webapps/django/dubizzle/paa/views/enter_details_views.py",
+				"/home/dubizzle/webapps/django/dubizzle/media/js/paa/Codi.js",
+				"/usr/share/applications/sublime.desktop",
+				"/home/dubizzle/webapps/django/dubizzle/media/js/tools/chosen.jquery.min.js",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/codi_results.html",
+				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/classify_category.html",
+				"/usr/share/applications/defaults.list",
+				"/home/ahmed/.zshrc",
+				"/home/ahmed/.zshrc.pre-oh-my-zsh",
+				"/home/dubizzle/webapps/django/dubizzle/media/sass/application.scss",
+				"/home/dubizzle/webapps/django/dubizzle/templates/classified/paa_enter_details/enter_details.html",
+				"/home/dubizzle/webapps/django/dubizzle/media/sass/pages/_codi.scss",
 				"/home/dubizzle/webapps/django/dubizzle/paa/views/classifier_views.py",
 				"/home/dubizzle/webapps/django/dubizzle/paa/templatetags/paa.py",
 				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/requests/__init__.py",
@@ -2468,7 +2517,6 @@
 				"/home/ahmed/Desktop/compare.css",
 				"/home/dubizzle/webapps/django/dubizzle/media/sass/forms/_forms.scss",
 				"/home/ahmed/Desktop/compare.js",
-				"/home/dubizzle/webapps/django/dubizzle/media/js/paa/paa_base.js",
 				"/home/dubizzle/webapps/django/dubizzle/media/sass/pages/_enter-details.scss",
 				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/users/login.html",
 				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/users/register.html",
@@ -2477,16 +2525,12 @@
 				"/home/ahmed/.config/sublime-text-2/Packages/sublime-text-2-git/annotate.py",
 				"/home/ahmed/.config/sublime-text-2/Packages/Tag/Tag Package.sublime-settings",
 				"/home/ahmed/.config/sublime-text-2/Packages/User/codeivate-st.sublime-settings",
-				"/home/dubizzle/webapps/django/dubizzle/settings.py",
 				"/home/dubizzle/webapps/django/dubizzle/quicktest/lettuce/terrain/database.py",
 				"/home/ahmed/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
 				"/home/ahmed/.config/sublime-text-2/Packages/sublime_plugins/auto_complete_ext.py",
-				"/home/dubizzle/webapps/django/dubizzle/media/js/paa/Codi.js",
-				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/enter_details.html",
 				"/home/ahmed/.config/sublime-text-2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
 				"/home/ahmed/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
 				"/home/ahmed/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-				"/home/dubizzle/webapps/django/dubizzle/paa/views/enter_details_views.py",
 				"/home/dubizzle/webapps/django/dubizzle/paa/tests/views/classifier_views_test.py",
 				"/home/dubizzle/webapps/django/dubizzle/media/.sass-cache/cc3be12b2459cc16df55fd9528b9bb5108f2beb4/_enter-details.scssc",
 				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/conf/__init__.py",
@@ -2521,7 +2565,6 @@
 				"/home/dubizzle/webapps/django/dubizzle/paa/tests/views/taxonomy_views_test.py",
 				"/home/dubizzle/webapps/django/dubizzle/paa/sms/views.py",
 				"/home/dubizzle/webapps/django/dubizzle/paa/sms/utils.py",
-				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/classify_category.html",
 				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/views/generic/edit.py",
 				"/home/dubizzle/webapps/django/dubizzle/main/models.py",
 				"/home/dubizzle/webapps/django/dubizzle/paa/tests/views/edit_views_test.py",
@@ -2529,12 +2572,9 @@
 				"/home/dubizzle/webapps/django/dubizzle/terra/deploy/terra_uwsgi.ini",
 				"/home/dubizzle/webapps/django/dubizzle/terra/deploy/run_terra.sh",
 				"/home/ahmed/Desktop/untitled.json",
-				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/codi_results.html",
 				"/home/dubizzle/webapps/django/dubizzle/media/sass/base/_general.scss",
-				"/home/dubizzle/webapps/django/dubizzle/media/js/tools/chosen.jquery.min.js",
 				"/home/ahmed/Desktop/dubizzle logo/index.html",
 				"/home/dubizzle/webapps/django/dubizzle/paa/users/views.py",
-				"/home/dubizzle/webapps/django/dubizzle/templates/classified/paa_enter_details/enter_details.html",
 				"/home/ahmed/.config/sublime-text-2/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
 				"/home/ahmed/.config/sublime-text-2/Packages/User/pep8_autoformat.sublime-settings",
 				"/home/dubizzle/webapps/django/dubizzle/paa/views.py.orig",
@@ -2545,10 +2585,8 @@
 				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/flexmock.py",
 				"/home/dubizzle/webapps/django/dubizzle/paa/users/tests/views_test.py",
 				"/home/dubizzle/webapps/django/dubizzle/paa/tests/views_test.py",
-				"/home/dubizzle/webapps/django/dubizzle/media/sass/pages/_codi.scss",
 				"/home/dubizzle/webapps/django/dubizzle/paa/views.py",
 				"/home/dubizzle/webapps/django/dubizzle/media/js/paa/Autosuggest.js",
-				"/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/base.html",
 				"/home/dubizzle/webapps/django/dubizzle/media/sass/base/_base.scss",
 				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/simplejson/__init__.py",
 				"/home/dubizzle/webapps/django/dubizzle/paa/helpers.py",
@@ -2566,36 +2604,24 @@
 				"/home/ahmed/.config/sublime-text-2/Packages/User/Default (Linux).sublime-mousemap",
 				"/home/dubizzle/webapps/django/dubizzle/user/views.py",
 				"/home/dubizzle/webapps/django/dubizzle/.gitignore",
-				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/shortcuts/__init__.py",
-				"/home/dubizzle/webapps/django/dubizzle/cronjobs/refresh_cached_sitemap.py",
-				"/home/ahmed/Desktop/sitemap.log",
-				"/home/ahmed/.config/sublime-text-2/Packages/codeivate-st/codeivate-st.sublime-settings",
-				"/home/ahmed/.config/sublime-text-2/Packages/SublimeCodeIntel/Default (Linux).sublime-keymap",
-				"/home/ahmed/.config/sublime-text-2/Packages/SublimeLinter/README.md",
-				"/home/ahmed/Desktop/dubizzle logo/style.css",
-				"/home/dubizzle/webapps/django/dubizzle/media/sass/pages/_category.scss",
-				"/home/dubizzle/webapps/django/dubizzle/media/css/paa/application.css",
-				"/home/dubizzle/webapps/django/dubizzle/media/sass/variables/_colors.scss",
-				"/home/dubizzle/webapps/django/dubizzle/classified/forms.py",
-				"/home/ahmed/.config/sublime-text-2/Packages/Git/Git.sublime-settings",
-				"/home/ahmed/.config/sublime-text-2/Packages/User/Git.sublime-settings",
-				"/home/dubizzle/webapps/django/dubizzle/djangosphinx/utils/config.py",
-				"/home/dubizzle/webapps/django/dubizzle/urls.py",
-				"/home/dubizzle/webapps/django/dubizzle/media/sass/base/_header.scss",
-				"/home/dubizzle/webapps/django/dubizzle/paa/forms.py",
-				"/home/dubizzle/webapps/django/dubizzle/paa/users/forms.py",
-				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/views/generic/base.py",
-				"/home/dubizzle/webapps/django/dubizzle/media/.sass-cache/cc3be12b2459cc16df55fd9528b9bb5108f2beb4/_category.scssc"
+				"/home/dubizzle/webapps/django/lib/python2.7/site-packages/django/shortcuts/__init__.py"
 			],
 			"find":
 			{
-				"height": 63.0
+				"height": 86.0
 			},
 			"find_in_files":
 			{
 				"height": 93.0,
 				"where_history":
 				[
+					"/home/dubizzle/webapps/django/dubizzle/",
+					"/home/dubizzle/webapps/django/dubizzle/paa/",
+					"/home/dubizzle/webapps/django/dubizzle/paa/features",
+					"/home/dubizzle/webapps/django/dubizzle/quicktest",
+					"/home/dubizzle/webapps/django/dubizzle/",
+					"/home/dubizzle/webapps/django/dubizzle/paa",
+					"/home/dubizzle/webapps/django/dubizzle/",
 					"/home/dubizzle/webapps/django/dubizzle/paa/",
 					"/home/dubizzle/webapps/django/dubizzle/paa/tests",
 					"/home/dubizzle/webapps/django/dubizzle/paa",
@@ -2655,6 +2681,53 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"position",
+					"if p",
+					"Cannot find elements for",
+					"cannot find elements for",
+					"annot find elements for",
+					"experience",
+					"random",
+					"Neighbourhood",
+					"classified_ac",
+					"model count",
+					"model",
+					"community_ac",
+					"''",
+					"following",
+					"place",
+					"CREATE",
+					"a basic user",
+					"place a basic",
+					"basic\\suser",
+					"basic user",
+					"place a basic",
+					"gedit",
+					"sub",
+					"click",
+					"\"[id^='delete_photo_']\"",
+					"div[",
+					"view=",
+					"vie=",
+					"view",
+					"split",
+					"div[view=\"split\"]",
+					"split",
+					"hidden",
+					"enter-details-single-image-containe",
+					"enter_details_delete_photo",
+					"section-box",
+					"upload-container",
+					"\n",
+					"single_image_container",
+					");\n",
+					"window.terraUrl",
+					"window",
+					"URLS",
+					"ajax",
+					"terra",
+					"__this",
+					"_t_his",
 					"TODO",
 					"width",
 					"195",
@@ -2735,54 +2808,7 @@
 					"settings.py",
 					"BASE_DOMAIN",
 					"base_domain",
-					"detect_slow_plugins",
-					"and_raise",
-					"form",
-					"self.view.form",
-					"form_valid",
-					"Enter",
-					"form_valid",
-					"form",
-					"()\n",
-					"slow",
-					"time",
-					"super",
-					"super((.*), self).dispatch",
-					"super(.?, self).dispatch",
-					"super(.*, self).dispatch",
-					"super(LoginView, self).dispatch",
-					"CompleteView",
-					"super",
-					"redirect_mock",
-					"NEW_USER_ID",
-					"inactive_user_redirect_url_nameg",
-					"redirect",
-					"change_mobile_number_url_name",
-					"redirect",
-					"is_auth",
-					"        # slug_mock = object()\n        # listing_id = object()",
-					"mock_user",
-					"User",
-					"user.",
-					"if user.",
-					"user.",
-					"user.is_active",
-					"user_mock",
-					"SMS_VALIDATION_PAGE",
-					"should_receive('reverse_lazy')",
-					"SMS_VALIDATION_PAGE",
-					"PICK_A_CATEGORY_URL",
-					"redirect(self",
-					"User",
-					"objects",
-					"User",
-					"RegisterViewTest",
-					"reverse",
-					"Select Some options",
-					"rules_template_name",
-					"rules",
-					"HTTPresp",
-					"responseredirect"
+					"detect_slow_plugins"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2790,6 +2816,8 @@
 				"regex": false,
 				"replace_history":
 				[
+					"sublime",
+					"CLASSES.delete_photo_button",
 					"|should|",
 					"\"$1\", ",
 					"\\n\"",
@@ -2928,195 +2956,23 @@
 			"groups":
 			[
 				{
-					"selected": 9,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/enter_details.html",
+							"file": "/home/dubizzle/webapps/django/dubizzle/paa/features/rules.feature",
 							"settings":
 							{
-								"buffer_size": 5199,
-								"regions":
-								{
-									"TagLint":
-									{
-										"flags": 52,
-										"icon": "dot",
-										"regions":
-										[
-											[
-												1355,
-												1453
-											]
-										],
-										"scope": "variable.parameter"
-									}
-								},
-								"selection":
-								[
-									[
-										404,
-										404
-									]
-								],
-								"settings":
-								{
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"gjslint_ignore":
-									[
-										110
-									],
-									"gjslint_options":
-									[
-									],
-									"glue_views_last_row": null,
-									"is_xml": false,
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-										"be",
-										"equal_to",
-										"throw",
-										"be_like",
-										"have",
-										"have_at_least",
-										"have_at_most",
-										"respond_to",
-										"close_to",
-										"change",
-										"like",
-										"include_keys",
-										"include_values",
-										"be_empty",
-										"have_same_attribute_values_as",
-										"include",
-										"contain",
-										"be_into",
-										"be_greater_than",
-										"be_greater_than_or_equal_to",
-										"be_less_than",
-										"be_less_than_or_equal_to",
-										"be_thrown_by",
-										"include_in_any_order",
-										"include_all_of",
-										"include_any_of",
-										"be_kind_of",
-										"be_instance_of",
-										"start_with",
-										"end_with",
-										"equal_to_ignoring_case",
-										"into",
-										"greater_than",
-										"greater_than_or_equal_to",
-										"less_than",
-										"less_than_or_equal_to",
-										"thrown_by",
-										"in_any_order",
-										"all_of",
-										"any_of",
-										"kind_of",
-										"ended_with"
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2,
-									"sublimelinter_disable":
-									[
-										"*.css",
-										"*.scss"
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": false,
-									"sublimelinter_mark_style": "outline",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"settings":
-							{
-								"buffer_size": 12100,
+								"buffer_size": 2025,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										11707,
-										11707
+										2025,
+										2025
 									]
 								],
 								"settings":
@@ -3254,187 +3110,28 @@
 										"Ruby on Rails": "ruby"
 									},
 									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+									"syntax": "Packages/Scala/Scala.tmLanguage"
 								},
-								"translation.x": 0.0,
-								"translation.y": 4373.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/dubizzle/webapps/django/dubizzle/media/js/paa/Codi.js",
-							"settings":
-							{
-								"buffer_size": 3571,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1024,
-										1024
-									]
-								],
-								"settings":
-								{
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"gjslint_ignore":
-									[
-										110
-									],
-									"gjslint_options":
-									[
-									],
-									"glue_views_last_row": null,
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-										"be",
-										"equal_to",
-										"throw",
-										"be_like",
-										"have",
-										"have_at_least",
-										"have_at_most",
-										"respond_to",
-										"close_to",
-										"change",
-										"like",
-										"include_keys",
-										"include_values",
-										"be_empty",
-										"have_same_attribute_values_as",
-										"include",
-										"contain",
-										"be_into",
-										"be_greater_than",
-										"be_greater_than_or_equal_to",
-										"be_less_than",
-										"be_less_than_or_equal_to",
-										"be_thrown_by",
-										"include_in_any_order",
-										"include_all_of",
-										"include_any_of",
-										"be_kind_of",
-										"be_instance_of",
-										"start_with",
-										"end_with",
-										"equal_to_ignoring_case",
-										"into",
-										"greater_than",
-										"greater_than_or_equal_to",
-										"less_than",
-										"less_than_or_equal_to",
-										"thrown_by",
-										"in_any_order",
-										"all_of",
-										"any_of",
-										"kind_of",
-										"ended_with"
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2,
-									"sublimelinter_disable":
-									[
-										"*.css",
-										"*.scss"
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": false,
-									"sublimelinter_mark_style": "outline",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-								},
-								"translation.x": 0.0,
+								"translation.x": 92.0,
 								"translation.y": 270.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
-							"buffer": 3,
-							"file": "/home/dubizzle/webapps/django/dubizzle/paa/views/enter_details_views.py",
+							"buffer": 1,
+							"file": "/home/dubizzle/webapps/django/dubizzle/quicktest/lettuce/steps/browser/dubizzle/user/steps.py",
 							"settings":
 							{
-								"buffer_size": 6023,
+								"buffer_size": 3224,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2247,
-										2247
+										1825,
+										1825
 									]
 								],
 								"settings":
@@ -3575,25 +3272,343 @@
 									"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 998.0,
+								"translation.y": 1026.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/dubizzle/webapps/django/dubizzle/paa/features/facebook_connect.feature",
+							"settings":
+							{
+								"buffer_size": 6713,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2340,
+										2340
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"glue_views_last_row": null,
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+										"be",
+										"equal_to",
+										"throw",
+										"be_like",
+										"have",
+										"have_at_least",
+										"have_at_most",
+										"respond_to",
+										"close_to",
+										"change",
+										"like",
+										"include_keys",
+										"include_values",
+										"be_empty",
+										"have_same_attribute_values_as",
+										"include",
+										"contain",
+										"be_into",
+										"be_greater_than",
+										"be_greater_than_or_equal_to",
+										"be_less_than",
+										"be_less_than_or_equal_to",
+										"be_thrown_by",
+										"include_in_any_order",
+										"include_all_of",
+										"include_any_of",
+										"be_kind_of",
+										"be_instance_of",
+										"start_with",
+										"end_with",
+										"equal_to_ignoring_case",
+										"into",
+										"greater_than",
+										"greater_than_or_equal_to",
+										"less_than",
+										"less_than_or_equal_to",
+										"thrown_by",
+										"in_any_order",
+										"all_of",
+										"any_of",
+										"kind_of",
+										"ended_with"
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+										"*.css",
+										"*.scss"
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Scala/Scala.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 476.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/dubizzle/webapps/django/dubizzle/quicktest/lettuce/steps/browser/elements/steps.py",
+							"settings":
+							{
+								"buffer_size": 9773,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1707,
+										1707
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"glue_views_last_row": null,
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+										"be",
+										"equal_to",
+										"throw",
+										"be_like",
+										"have",
+										"have_at_least",
+										"have_at_most",
+										"respond_to",
+										"close_to",
+										"change",
+										"like",
+										"include_keys",
+										"include_values",
+										"be_empty",
+										"have_same_attribute_values_as",
+										"include",
+										"contain",
+										"be_into",
+										"be_greater_than",
+										"be_greater_than_or_equal_to",
+										"be_less_than",
+										"be_less_than_or_equal_to",
+										"be_thrown_by",
+										"include_in_any_order",
+										"include_all_of",
+										"include_any_of",
+										"be_kind_of",
+										"be_instance_of",
+										"start_with",
+										"end_with",
+										"equal_to_ignoring_case",
+										"into",
+										"greater_than",
+										"greater_than_or_equal_to",
+										"less_than",
+										"less_than_or_equal_to",
+										"thrown_by",
+										"in_any_order",
+										"all_of",
+										"any_of",
+										"kind_of",
+										"ended_with"
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+										"*.css",
+										"*.scss"
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 574.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 4,
-							"file": "/home/dubizzle/webapps/django/dubizzle/paa/forms.py",
+							"file": "/home/dubizzle/webapps/django/lib/python2.7/site-packages/lettuce/decorators.py",
 							"settings":
 							{
-								"buffer_size": 41513,
+								"buffer_size": 1852,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										133,
-										133
+										882,
+										882
 									]
 								],
 								"settings":
@@ -3734,25 +3749,25 @@
 									"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 505.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 5,
-							"file": "/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/base.html",
+							"file": "/home/dubizzle/webapps/django/dubizzle/quicktest/lettuce/steps/browser/elements/finders.py",
 							"settings":
 							{
-								"buffer_size": 4313,
+								"buffer_size": 7837,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										286,
-										286
+										6289,
+										6289
 									]
 								],
 								"settings":
@@ -3805,7 +3820,6 @@
 									[
 									],
 									"glue_views_last_row": null,
-									"is_xml": false,
 									"javascript_linter": "jshint",
 									"jshint_options":
 									{
@@ -3891,28 +3905,28 @@
 										"Ruby on Rails": "ruby"
 									},
 									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+									"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 2870.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 6,
-							"file": "/home/dubizzle/webapps/django/dubizzle/media/js/tools/chosen.jquery.min.js",
+							"file": "/home/dubizzle/webapps/django/dubizzle/settings.py",
 							"settings":
 							{
-								"buffer_size": 38887,
+								"buffer_size": 15670,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										38316,
-										38316
+										616,
+										616
 									]
 								],
 								"settings":
@@ -4050,36 +4064,175 @@
 										"Ruby on Rails": "ruby"
 									},
 									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+									"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 18552.0,
+								"translation.y": 216.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
-						},
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
 						{
 							"buffer": 7,
+							"file": "/home/dubizzle/webapps/django/dubizzle/paa/features/steps.py",
 							"settings":
 							{
-								"buffer_size": 38853,
+								"buffer_size": 3711,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										38364,
-										38364
+										2427,
+										2427
 									]
 								],
 								"settings":
 								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
 									"glue_views_last_row": null,
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+										"be",
+										"equal_to",
+										"throw",
+										"be_like",
+										"have",
+										"have_at_least",
+										"have_at_most",
+										"respond_to",
+										"close_to",
+										"change",
+										"like",
+										"include_keys",
+										"include_values",
+										"be_empty",
+										"have_same_attribute_values_as",
+										"include",
+										"contain",
+										"be_into",
+										"be_greater_than",
+										"be_greater_than_or_equal_to",
+										"be_less_than",
+										"be_less_than_or_equal_to",
+										"be_thrown_by",
+										"include_in_any_order",
+										"include_all_of",
+										"include_any_of",
+										"be_kind_of",
+										"be_instance_of",
+										"start_with",
+										"end_with",
+										"equal_to_ignoring_case",
+										"into",
+										"greater_than",
+										"greater_than_or_equal_to",
+										"less_than",
+										"less_than_or_equal_to",
+										"thrown_by",
+										"in_any_order",
+										"all_of",
+										"any_of",
+										"kind_of",
+										"ended_with"
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+										"*.css",
+										"*.scss"
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 19304.0,
+								"translation.y": 594.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -4088,56 +4241,42 @@
 							"buffer": 8,
 							"settings":
 							{
-								"buffer_size": 38853,
+								"buffer_size": 6742,
 								"regions":
 								{
-									"TagLint":
-									{
-										"flags": 52,
-										"icon": "dot",
-										"regions":
-										[
-											[
-												32206,
-												32210
-											]
-										],
-										"scope": "variable.parameter"
-									}
 								},
 								"selection":
 								[
 									[
-										38449,
-										38449
+										2177,
+										2177
 									]
 								],
 								"settings":
 								{
 									"glue_views_last_row": null,
 									"is_xml": false,
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+									"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 507.0,
+								"translation.y": 594.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 9,
-							"file": "/home/dubizzle/webapps/django/dubizzle/media/js/paa/paa_base.js",
 							"settings":
 							{
-								"buffer_size": 11784,
+								"buffer_size": 93,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										3505,
-										3505
+										93,
+										93
 									]
 								],
 								"settings":
@@ -4148,6 +4287,7 @@
 										"README",
 										"FIXME"
 									],
+									"auto_name": "Position",
 									"csslint_options":
 									{
 										"adjoining-classes": "warning",
@@ -4190,6 +4330,7 @@
 									[
 									],
 									"glue_views_last_row": null,
+									"is_xml": false,
 									"javascript_linter": "jshint",
 									"jshint_options":
 									{
@@ -4275,28 +4416,28 @@
 										"Ruby on Rails": "ruby"
 									},
 									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 1527.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 10,
-							"file": "/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/codi_results.html",
+							"file": "/home/dubizzle/webapps/django/dubizzle/paa/features/login.feature",
 							"settings":
 							{
-								"buffer_size": 2377,
+								"buffer_size": 2731,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										549,
+										549
 									]
 								],
 								"settings":
@@ -4349,7 +4490,6 @@
 									[
 									],
 									"glue_views_last_row": null,
-									"is_xml": false,
 									"javascript_linter": "jshint",
 									"jshint_options":
 									{
@@ -4435,170 +4575,10 @@
 										"Ruby on Rails": "ruby"
 									},
 									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+									"syntax": "Packages/Scala/Scala.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 162.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 11,
-							"file": "/home/dubizzle/webapps/django/dubizzle/paa/templates/paa/classify_category.html",
-							"settings":
-							{
-								"buffer_size": 1490,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1423,
-										1423
-									]
-								],
-								"settings":
-								{
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"gjslint_ignore":
-									[
-										110
-									],
-									"gjslint_options":
-									[
-									],
-									"glue_views_last_row": null,
-									"is_xml": false,
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-										"be",
-										"equal_to",
-										"throw",
-										"be_like",
-										"have",
-										"have_at_least",
-										"have_at_most",
-										"respond_to",
-										"close_to",
-										"change",
-										"like",
-										"include_keys",
-										"include_values",
-										"be_empty",
-										"have_same_attribute_values_as",
-										"include",
-										"contain",
-										"be_into",
-										"be_greater_than",
-										"be_greater_than_or_equal_to",
-										"be_less_than",
-										"be_less_than_or_equal_to",
-										"be_thrown_by",
-										"include_in_any_order",
-										"include_all_of",
-										"include_any_of",
-										"be_kind_of",
-										"be_instance_of",
-										"start_with",
-										"end_with",
-										"equal_to_ignoring_case",
-										"into",
-										"greater_than",
-										"greater_than_or_equal_to",
-										"less_than",
-										"less_than_or_equal_to",
-										"thrown_by",
-										"in_any_order",
-										"all_of",
-										"any_of",
-										"kind_of",
-										"ended_with"
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2,
-									"sublimelinter_disable":
-									[
-										"*.css",
-										"*.scss"
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": false,
-									"sublimelinter_mark_style": "outline",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 270.0,
+								"translation.y": 432.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -4623,11 +4603,18 @@
 						0,
 						1,
 						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.503660322109,
 					1.0
 				],
 				"rows":
@@ -4653,7 +4640,7 @@
 			{
 				"height": 197.0
 			},
-			"position": "0,1,0,0,0,684,324,1367,1016,3286,1080",
+			"position": "0,1,0,0,0,0,0,0,0,3286,1080",
 			"replace":
 			{
 				"height": 64.0
@@ -4665,8 +4652,56 @@
 				"selected_items":
 				[
 					[
+						"setting",
+						"settings.py"
+					],
+					[
+						"global",
+						"globalsettings.py"
+					],
+					[
+						"settings",
+						"settings.py"
+					],
+					[
+						"elementsteps",
+						"quicktest/lettuce/steps/browser/elements/steps.py"
+					],
+					[
+						"quicktestlettusdubizzleuserstep",
+						"quicktest/lettuce/steps/browser/dubizzle/user/steps.py"
+					],
+					[
+						"dubizzleusertest",
+						"cover/dubizzle_quicktest_lettuce_steps_browser_dubizzle_user_steps.html"
+					],
+					[
+						"quickteststepsdubizz",
+						"cover/dubizzle_quicktest_lettuce_steps_browser_dubizzle_user_steps.html"
+					],
+					[
+						"appli",
+						"media/sass/application.scss"
+					],
+					[
+						"glo",
+						"globalsettings.py"
+					],
+					[
+						"paabase.html",
+						"paa/templates/paa/base.html"
+					],
+					[
 						"paabasejs",
 						"media/js/paa/paa_base.js"
+					],
+					[
+						"enter",
+						"templates/classified/paa_enter_details/enter_details.html"
+					],
+					[
+						"_codi.scss",
+						"media/sass/pages/_codi.scss"
 					],
 					[
 						"globa",
@@ -4703,14 +4738,6 @@
 					[
 						"base.html",
 						"paa/templates/paa/base.html"
-					],
-					[
-						"global",
-						"globalsettings.py"
-					],
-					[
-						"enter",
-						"paa/templates/paa/enter_details.html"
 					],
 					[
 						"paaform",
@@ -4803,10 +4830,6 @@
 					[
 						"endter",
 						"templates/classified/paa_enter_details/enter_details.html"
-					],
-					[
-						"setting",
-						"settings.py"
 					],
 					[
 						"paaviews",
@@ -4993,10 +5016,6 @@
 						"media/sass/variables/_colors.scss"
 					],
 					[
-						"glo",
-						"globalsettings.py"
-					],
-					[
 						"resul",
 						"paa/templates/paa/codi_results.html"
 					],
@@ -5033,10 +5052,6 @@
 						"manage.py"
 					],
 					[
-						"paabase.html",
-						"paa/templates/paa/base.html"
-					],
-					[
 						"result",
 						"paa/templates/paa/codi_results.html"
 					],
@@ -5051,10 +5066,6 @@
 					[
 						"_ge",
 						"media/sass/base/_general.scss"
-					],
-					[
-						"appli",
-						"media/sass/application.scss"
 					],
 					[
 						"paa/template",
@@ -5137,10 +5148,6 @@
 						"terra/deploy/run_terra.sh"
 					],
 					[
-						"settings",
-						"settings.py"
-					],
-					[
 						"paa.sc",
 						"media/sass/paa/paa_mobile.scss"
 					],
@@ -5155,26 +5162,6 @@
 					[
 						"globalsettings.py",
 						"globalsettings.py"
-					],
-					[
-						"server",
-						"terra/terra/server.py"
-					],
-					[
-						"paa/forms.py",
-						"paa/forms.py"
-					],
-					[
-						"upload",
-						"media/js/tools/image-upload.js"
-					],
-					[
-						"setti",
-						"settings.py"
-					],
-					[
-						"base.htm",
-						"templates/base.html"
 					]
 				],
 				"width": 0.0
@@ -5190,8 +5177,8 @@
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 297.0,
+			"side_bar_visible": false,
+			"side_bar_width": 209.0,
 			"status_bar_visible": true,
 			"window_id": 8,
 			"workspace_name": ""
